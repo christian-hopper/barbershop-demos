@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christian-hopper.github.io/barbershop-demos/vanz-blendz-studio/sitemap.xml
