@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christian-hopper.github.io/barbershop-demos/oskar-s-og-cutz/sitemap.xml
