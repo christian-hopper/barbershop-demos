@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "demos": [
+    {
+      "slug": "east-quarter-barber-downtown-dallas-texas-a46e479",
+      "businessName": "East Quarter Barber, Downtown Dallas, Texas",
+      "template": "barbershop",
+      "templateVersion": "v1-0b5871f4c12e",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/east-quarter-barber-downtown-dallas-texas-a46e479/",
+      "dataPath": "_data/barbershop/east-quarter-barber-downtown-dallas-texas-a46e479.json",
+      "dataSha256": "f1f903964015e245d8d4e710ffbbaf58af572c8923110e22316acc69dfdfc2bb",
+      "updatedAt": "2026-06-26T02:58:30.218Z"
+    }
+  ]
+}
