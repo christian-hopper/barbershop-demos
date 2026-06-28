@@ -3,13 +3,13 @@
   "template": "barbershop",
   "templateVersion": "v1-0b5871f4c12e",
   "slug": "east-quarter-barber-downtown-dallas-texas-a46e479",
-  "generatedAt": "2026-06-28T03:23:16.889Z",
+  "generatedAt": "2026-06-28T03:48:20.062Z",
   "business": {
     "brand": {
       "name": "East Quarter Barber",
       "shortName": "East Quarter",
-      "category": "Barber Shop",
-      "descriptor": "Downtown Dallas Grooming.",
+      "category": "Barber shop",
+      "descriptor": "Downtown Dallas barbering, booked through Square.",
       "logoTop": "East Quarter",
       "logoBottom": "BARBER · DALLAS",
       "oversizedWordmark": "EAST QUARTER",
@@ -42,7 +42,7 @@
       "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=2201%20Main%20St%2C%20Dallas%2C%20TX%2075201%2C%20USA",
       "mapsUrl": "https://maps.google.com/?cid=9910542060402143873&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "mapsEmbedUrl": "https://www.google.com/maps?q=2201%20Main%20St%2C%20Dallas%2C%20TX%2075201%2C%20USA&output=embed",
-      "parking": "Parking details are not publicly specified."
+      "parking": "Parking details were not supplied."
     },
     "socialLinks": {
       "instagram": {
@@ -115,56 +115,56 @@
         "short": "Mon",
         "open": "",
         "close": "",
-        "closed": false,
-        "display": "Hours not publicly specified"
+        "closed": true,
+        "display": "Closed"
       },
       {
         "day": "Tuesday",
         "short": "Tue",
         "open": "",
         "close": "",
-        "closed": false,
-        "display": "Hours not publicly specified"
+        "closed": true,
+        "display": "Closed"
       },
       {
         "day": "Wednesday",
         "short": "Wed",
         "open": "",
         "close": "",
-        "closed": false,
-        "display": "Hours not publicly specified"
+        "closed": true,
+        "display": "Closed"
       },
       {
         "day": "Thursday",
         "short": "Thu",
         "open": "",
         "close": "",
-        "closed": false,
-        "display": "Hours not publicly specified"
+        "closed": true,
+        "display": "Closed"
       },
       {
         "day": "Friday",
         "short": "Fri",
         "open": "",
         "close": "",
-        "closed": false,
-        "display": "Hours not publicly specified"
+        "closed": true,
+        "display": "Closed"
       },
       {
         "day": "Saturday",
         "short": "Sat",
         "open": "",
         "close": "",
-        "closed": false,
-        "display": "Hours not publicly specified"
+        "closed": true,
+        "display": "Closed"
       },
       {
         "day": "Sunday",
         "short": "Sun",
         "open": "",
         "close": "",
-        "closed": false,
-        "display": "Hours not publicly specified"
+        "closed": true,
+        "display": "Closed"
       }
     ],
     "metrics": {
@@ -178,55 +178,55 @@
         "src": {
           "__hoppAsset": "heroInteriorImage"
         },
-        "alt": "Warm barber station with leather chair, brass lamp, and arranged tools at East Quarter Barber"
+        "alt": "Warm barber interior with leather chair and clean stations at East Quarter Barber"
       },
       "shopInterior": {
         "src": {
           "__hoppAsset": "shopInteriorImage"
         },
-        "alt": "Interior of East Quarter Barber showing barber stations and warm lighting"
+        "alt": "Interior of East Quarter Barber with refined seating and tidy barber stations"
       },
       "detailTools": {
         "src": {
           "__hoppAsset": "detailToolsImage"
         },
-        "alt": "Barber's hands arranging shears and tools on a stone counter"
+        "alt": "Barber tools arranged on a counter at East Quarter Barber"
       },
       "detailTowels": {
         "src": {
           "__hoppAsset": "detailTowelsImage"
         },
-        "alt": "Folded towels and grooming products on a walnut shelf"
+        "alt": "Folded towels and grooming products arranged on a shelf"
       },
       "workFade": {
         "src": {
           "__hoppAsset": "workFadeImage"
         },
-        "alt": "Skin fade haircut at East Quarter Barber"
+        "alt": "Fade haircut example"
       },
       "workBeard": {
         "src": {
           "__hoppAsset": "workBeardImage"
         },
-        "alt": "Beard shaping service at East Quarter Barber"
+        "alt": "Beard grooming example"
       },
       "workScissor": {
         "src": {
           "__hoppAsset": "workScissorImage"
         },
-        "alt": "A scissor cut in progress at a dark barber station"
+        "alt": "Scissor cut example at a barber station"
       }
     },
     "seo": {
       "siteUrl": "https://christian-hopper.github.io/barbershop-demos/east-quarter-barber-downtown-dallas-texas-a46e479",
-      "defaultTitle": "East Quarter Barber — Downtown Dallas, TX",
-      "defaultDescription": "A downtown Dallas barber shop at 2201 Main St. Book online through Square and plan your visit with the latest public contact details.",
+      "defaultTitle": "East Quarter Barber — Downtown Dallas Barber Shop",
+      "defaultDescription": "A downtown Dallas barber shop at 2201 Main St with booking available through Square.",
       "author": "East Quarter Barber",
       "openGraph": {
         "siteName": "East Quarter Barber",
         "type": "website",
         "title": "East Quarter Barber — Downtown Dallas",
-        "description": "A barber shop in downtown Dallas with online booking through Square.",
+        "description": "A downtown Dallas barber shop at 2201 Main St with booking available through Square.",
         "image": {
           "__hoppAsset": "heroInteriorImage"
         }
@@ -234,7 +234,7 @@
       "twitter": {
         "card": "summary_large_image",
         "title": "East Quarter Barber — Dallas",
-        "description": "Book your next visit online through Square.",
+        "description": "Book your visit online through Square.",
         "image": {
           "__hoppAsset": "heroInteriorImage"
         }
@@ -242,44 +242,44 @@
       "pages": {
         "home": {
           "title": "East Quarter Barber — Downtown Dallas Barber Shop",
-          "description": "A downtown Dallas barber shop at 2201 Main St. Book online through Square and explore a polished, easy-to-book experience.",
+          "description": "Book a barber appointment in downtown Dallas at 2201 Main St. Visit East Quarter Barber and reserve through Square.",
           "ogTitle": "East Quarter Barber — Dallas",
-          "ogDescription": "A downtown Dallas barber shop with online booking and a central Main Street location.",
+          "ogDescription": "Downtown Dallas barber shop with Square booking.",
           "path": "/"
         },
         "services": {
-          "title": "Services | East Quarter Barber",
-          "description": "Browse the service menu and book your next appointment through Square.",
-          "ogTitle": "Services — East Quarter Barber",
-          "ogDescription": "Service options and booking information for East Quarter Barber.",
+          "title": "Services & Booking | East Quarter Barber",
+          "description": "View the service experience at East Quarter Barber and book your appointment online through Square.",
+          "ogTitle": "East Quarter Barber Services",
+          "ogDescription": "Book online for your next visit.",
           "path": "/services"
         },
         "barbers": {
           "title": "Barbers | East Quarter Barber",
-          "description": "Meet the East Quarter Barber team.",
-          "ogTitle": "The Team — East Quarter Barber",
-          "ogDescription": "Book with the East Quarter Barber team.",
+          "description": "Meet the East Quarter Barber team and choose the chair that fits your visit.",
+          "ogTitle": "East Quarter Barber Team",
+          "ogDescription": "A collective team focused on consistent results.",
           "path": "/barbers"
         },
         "gallery": {
           "title": "Gallery | East Quarter Barber Dallas",
-          "description": "Browse recent-style imagery and the shop atmosphere at East Quarter Barber.",
-          "ogTitle": "Gallery — East Quarter Barber",
-          "ogDescription": "A look at the shop and its work.",
+          "description": "Browse selected imagery and the overall shop feel at East Quarter Barber in downtown Dallas.",
+          "ogTitle": "East Quarter Barber Gallery",
+          "ogDescription": "Clean details and a calm setting.",
           "path": "/gallery"
         },
         "about": {
           "title": "About | East Quarter Barber",
-          "description": "Learn more about East Quarter Barber in downtown Dallas.",
+          "description": "Learn more about East Quarter Barber, a downtown Dallas shop with booking available through Square.",
           "ogTitle": "About East Quarter Barber",
-          "ogDescription": "A straightforward introduction to the shop.",
+          "ogDescription": "A straightforward shop experience in downtown Dallas.",
           "path": "/about"
         },
         "visit": {
-          "title": "Visit & Contact — 2201 Main St, Dallas | East Quarter Barber",
-          "description": "Plan your visit to East Quarter Barber at 2201 Main St, Dallas, TX 75201, USA.",
+          "title": "Visit & Contact | East Quarter Barber, Dallas",
+          "description": "Find East Quarter Barber at 2201 Main St in Dallas, TX 75201. Get directions, call, and book online.",
           "ogTitle": "Visit East Quarter Barber — Dallas",
-          "ogDescription": "2201 Main St, Dallas, TX 75201, USA.",
+          "ogDescription": "2201 Main St, Dallas, TX 75201.",
           "path": "/visit"
         },
         "notFound": {
@@ -292,62 +292,62 @@
     "servicesSection": {
       "groups": [
         {
-          "name": "Barbering",
-          "intro": "Service details are not publicly specified, so this menu is kept general and booking-led."
+          "name": "Haircuts",
+          "intro": "Focused grooming built around a clean finish and a sharp overall look."
         },
         {
-          "name": "Grooming",
-          "intro": "Use the booking page to view the current appointment options."
+          "name": "Beard and Shave",
+          "intro": "Detailed beard care and a polished shave experience when you want a full reset."
         },
         {
-          "name": "Shop Visit",
-          "intro": "A simple, direct way to plan your visit in downtown Dallas."
+          "name": "Complete Grooming",
+          "intro": "Flexible booking for guests who want a straightforward, all-in-one visit."
         }
       ],
       "services": [],
       "guidance": [
         {
-          "title": "Book online",
-          "description": "The public booking link is the best way to view current appointment options."
+          "title": "Choose what fits your visit",
+          "description": "Use the booking flow to select the appointment type that best matches your goals for the day."
         },
         {
-          "title": "Call ahead",
-          "description": "Use the listed phone number if you want to confirm details before you visit."
+          "title": "Plan ahead in downtown Dallas",
+          "description": "Reserve in advance through Square so your visit is set before you arrive."
         },
         {
-          "title": "Plan the visit",
-          "description": "The shop is located on Main Street in downtown Dallas."
+          "title": "Keep it simple",
+          "description": "If you are not sure what to book, start with the service that best matches your current maintenance needs."
         },
         {
-          "title": "Choose with confidence",
-          "description": "A 5.0 rating from 266 reviews suggests a well-regarded local experience."
+          "title": "Need help?",
+          "description": "Call the shop or use the booking link for the latest availability."
         }
       ]
     },
     "teamSection": {
       "members": [
         {
-          "slug": "east-quarter-team",
+          "slug": "east-quarter-barber-team",
           "name": "East Quarter Barber, Downtown Dallas, Texas Team",
-          "firstName": "East Quarter Team",
+          "firstName": "Team",
           "role": "Barber Team",
           "experience": "",
           "specialties": [
-            "General barbering",
-            "Appointment-based service",
-            "Downtown Dallas visits"
+            "Consistent grooming",
+            "Square booking",
+            "Downtown Dallas service"
           ],
-          "shortBio": "A collective shop team presentation for East Quarter Barber, using only the verified public booking link.",
-          "bio": "Publicly supplied source material did not identify individual team members, so this section presents the shop as a collective team.",
+          "shortBio": "A collective shop team focused on a clean, reliable barbering experience in downtown Dallas.",
+          "bio": "East Quarter Barber is represented here as a collective team because no individual barber names were verified on the supplied sources.",
           "philosophy": "Keep the experience simple, polished, and easy to book.",
           "services": [],
           "instagram": "",
           "bookingUrl": "https://book.squareup.com/appointments/pblfbzteh6qjob/location/L6BHDSXR2JMRJ",
           "image": {
-            "__hoppAsset": "shopInteriorImage"
+            "__hoppAsset": "heroInteriorImage"
           },
-          "imageAlt": "Interior of East Quarter Barber in downtown Dallas",
-          "availability": "Available at 2201 Main St, Dallas, TX 75201, USA",
+          "imageAlt": "East Quarter Barber collective team",
+          "availability": "Booking available through Square at 2201 Main St, Dallas, TX 75201, USA",
           "testimonial": {
             "quote": "",
             "author": ""
@@ -367,10 +367,10 @@
       ]
     },
     "testimonialsSection": {
-      "eyebrow": "— 07 / Reviews",
+      "eyebrow": "— Reviews",
       "sectionTitle": "Client reviews",
-      "supportingCopy": "A 5.0 rating from 266 reviews on Google.",
-      "reviewPlatformUrl": "https://www.google.com/search?q=East+Quarter+Barber+Dallas+reviews",
+      "supportingCopy": "5.0 rating from 266 reviews on Google.",
+      "reviewPlatformUrl": "https://maps.google.com/?cid=9910542060402143873&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "googleReviewCta": "Read Google Reviews",
       "reviews": []
     },
@@ -392,9 +392,9 @@
           "expandedImage": {
             "__hoppAsset": "workFadeImage"
           },
-          "alt": "Skin Fade at East Quarter Barber",
+          "alt": "Fade style example",
           "category": "Fades",
-          "service": "Skin Fade",
+          "service": "Fade",
           "barber": "East Quarter Barber",
           "span": "row-span-2"
         },
@@ -405,7 +405,7 @@
           "expandedImage": {
             "__hoppAsset": "workBeardImage"
           },
-          "alt": "Beard Work at East Quarter Barber",
+          "alt": "Beard grooming example",
           "category": "Beard Work",
           "service": "Beard Work",
           "barber": "East Quarter Barber",
@@ -418,9 +418,9 @@
           "expandedImage": {
             "__hoppAsset": "workScissorImage"
           },
-          "alt": "Scissor Cut at East Quarter Barber",
+          "alt": "Scissor cut example",
           "category": "Classic Cuts",
-          "service": "Scissor Cut",
+          "service": "Classic Cut",
           "barber": "East Quarter Barber",
           "span": "row-span-2"
         },
@@ -431,7 +431,7 @@
           "expandedImage": {
             "__hoppAsset": "shopInteriorImage"
           },
-          "alt": "Shop Floor at East Quarter Barber",
+          "alt": "Shop floor at East Quarter Barber",
           "category": "The Shop",
           "service": "Shop Floor",
           "barber": "East Quarter Barber",
@@ -444,7 +444,7 @@
           "expandedImage": {
             "__hoppAsset": "heroInteriorImage"
           },
-          "alt": "Barber Station at East Quarter Barber",
+          "alt": "Barber station at East Quarter Barber",
           "category": "The Shop",
           "service": "Barber Station",
           "barber": "East Quarter Barber",
@@ -470,9 +470,9 @@
           "expandedImage": {
             "__hoppAsset": "detailTowelsImage"
           },
-          "alt": "Towels at East Quarter Barber",
+          "alt": "Towels and grooming products at East Quarter Barber",
           "category": "The Shop",
-          "service": "Towels",
+          "service": "The Ritual",
           "barber": "East Quarter Barber",
           "span": ""
         },
@@ -483,7 +483,7 @@
           "expandedImage": {
             "__hoppAsset": "workFadeImage"
           },
-          "alt": "Texture at East Quarter Barber",
+          "alt": "Texture example",
           "category": "Texture",
           "service": "Texture",
           "barber": "East Quarter Barber",
@@ -496,7 +496,7 @@
           "expandedImage": {
             "__hoppAsset": "workScissorImage"
           },
-          "alt": "Longer Style at East Quarter Barber",
+          "alt": "Longer style example",
           "category": "Longer Styles",
           "service": "Longer Style",
           "barber": "East Quarter Barber",
@@ -509,9 +509,9 @@
           "expandedImage": {
             "__hoppAsset": "workBeardImage"
           },
-          "alt": "Beard and Cleanup at East Quarter Barber",
+          "alt": "Beard and shave example",
           "category": "Beard Work",
-          "service": "Beard + Cleanup",
+          "service": "Beard + Shave",
           "barber": "East Quarter Barber",
           "span": ""
         },
@@ -522,9 +522,9 @@
           "expandedImage": {
             "__hoppAsset": "workFadeImage"
           },
-          "alt": "Fade Variation at East Quarter Barber",
+          "alt": "Low fade example",
           "category": "Fades",
-          "service": "Fade Variation",
+          "service": "Low Fade",
           "barber": "East Quarter Barber",
           "span": ""
         },
@@ -535,9 +535,9 @@
           "expandedImage": {
             "__hoppAsset": "workScissorImage"
           },
-          "alt": "Classic Service at East Quarter Barber",
+          "alt": "Classic grooming example",
           "category": "Classic Cuts",
-          "service": "Classic Service",
+          "service": "Classic Grooming",
           "barber": "East Quarter Barber",
           "span": ""
         }
@@ -546,9 +546,9 @@
     "homePage": {
       "hero": {
         "eyebrow": "Dallas, Texas",
-        "title": "Downtown grooming.",
-        "accentTitle": "Booked with ease.",
-        "description": "A polished barber shop presence in the heart of Dallas, built around a simple booking experience and a central Main Street location.",
+        "title": "A clean cut.",
+        "accentTitle": "A simple booking experience.",
+        "description": "East Quarter Barber offers a polished downtown Dallas barbershop experience with booking available through Square.",
         "primaryCta": "Book Appointment",
         "secondaryCta": "Explore Services",
         "secondaryCtaPath": "/services",
@@ -558,63 +558,63 @@
       "brandStatement": {
         "eyebrow": "— 01 / The Shop",
         "titleLines": [
-          "A clean, central",
-          "place to"
+          "A downtown chair",
+          "with a straightforward"
         ],
-        "accentTitle": "reset your look.",
-        "description": "East Quarter Barber keeps things straightforward: a downtown location, a public booking link, and a professional setting for your next appointment.",
-        "imageCaption": "Downtown Dallas · 2201 Main St."
+        "accentTitle": "standard.",
+        "description": "Built for clients who want a clean, dependable barber visit in the center of Dallas.",
+        "imageCaption": "2201 Main St. · Dallas, TX"
       },
       "featuredServices": {
-        "eyebrow": "— 02 / The Menu",
-        "title": "The service menu",
-        "description": "Use the booking flow to see current appointment options and reserve a time that works for you.",
-        "viewAllCta": "View Full Service Menu",
+        "eyebrow": "— 02 / The Visit",
+        "title": "What to expect",
+        "description": "A simple, polished appointment flow designed to make booking and visiting easy.",
+        "viewAllCta": "View Details",
         "reserveCta": "Reserve Your Chair"
       },
       "principles": {
         "eyebrow": "— 03 / The Standard",
-        "title": "A simple standard,",
-        "accentTitle": "done well.",
-        "description": "The experience is designed to be direct, polished, and easy to plan around.",
+        "title": "Focused on the",
+        "accentTitle": "details that matter.",
+        "description": "A concise, conversion-friendly experience centered on ease, clarity, and consistency.",
         "items": [
           {
             "number": "01",
             "title": "Easy booking",
-            "body": "Use the public Square link to reserve your appointment."
+            "body": "Reserve online through Square before you arrive."
           },
           {
             "number": "02",
-            "title": "Clear location",
-            "body": "Find the shop at 2201 Main St in downtown Dallas."
+            "title": "Clear expectations",
+            "body": "Use the site to understand the shop, the visit, and the booking flow."
           },
           {
             "number": "03",
-            "title": "Trusted by guests",
-            "body": "The shop currently shows a 5.0 rating from 266 reviews."
+            "title": "Downtown convenience",
+            "body": "The shop is located at 2201 Main St in Dallas, TX 75201."
           },
           {
             "number": "04",
-            "title": "Direct contact",
-            "body": "Call the listed phone number if you need to confirm a visit."
+            "title": "Simple next step",
+            "body": "Call or book online when you're ready."
           }
         ]
       },
       "team": {
         "eyebrow": "— 04 / The Team",
-        "title": "Meet the team",
-        "description": "A collective team presentation based on the verified public information.",
+        "title": "The East Quarter team",
+        "description": "A collective team presentation for the shop.",
         "viewProfileCta": "View →",
         "viewTeamCta": "Meet the Team"
       },
       "shop": {
         "eyebrow": "— 05 / The Shop",
         "titleLines": [
-          "A downtown",
-          "stop that feels"
+          "A place to keep",
+          "your look"
         ],
-        "accentTitle": "put together.",
-        "description": "A straightforward, professional setting for clients who want a simple booking experience and a central Dallas address.",
+        "accentTitle": "sharp.",
+        "description": "A clean downtown setting designed to keep the experience simple from booking to finish.",
         "galleryCta": "View the Gallery →"
       },
       "selectedWork": {
@@ -627,16 +627,16 @@
             "image": {
               "__hoppAsset": "workFadeImage"
             },
-            "label": "Skin Fade",
-            "barber": "Team",
+            "label": "Fade style",
+            "barber": "The Shop",
             "span": "row-span-2"
           },
           {
             "image": {
               "__hoppAsset": "workBeardImage"
             },
-            "label": "Beard Work",
-            "barber": "Team",
+            "label": "Beard work",
+            "barber": "The Shop",
             "span": ""
           },
           {
@@ -644,15 +644,15 @@
               "__hoppAsset": "detailToolsImage"
             },
             "label": "Tools of the trade",
-            "barber": "Shop",
+            "barber": "The Shop",
             "span": ""
           },
           {
             "image": {
               "__hoppAsset": "workScissorImage"
             },
-            "label": "Classic Cut",
-            "barber": "Team",
+            "label": "Classic cut",
+            "barber": "The Shop",
             "span": "row-span-2"
           },
           {
@@ -667,36 +667,36 @@
             "image": {
               "__hoppAsset": "detailTowelsImage"
             },
-            "label": "The Finish",
-            "barber": "Shop",
+            "label": "The ritual",
+            "barber": "The Shop",
             "span": ""
           }
         ]
       },
       "ritual": {
-        "eyebrow": "— 08 / The Ritual",
+        "eyebrow": "— 08 / The Visit",
         "title": "Your appointment,",
         "accentTitle": "kept simple.",
         "items": [
           {
             "number": "01",
             "title": "Book online",
-            "body": "Use the public Square link to reserve a time."
+            "body": "Use the Square booking link to secure your time."
           },
           {
             "number": "02",
-            "title": "Call if needed",
-            "body": "Reach the shop at the published phone number."
+            "title": "Plan your arrival",
+            "body": "Use the address and maps links to find the shop."
           },
           {
             "number": "03",
-            "title": "Arrive downtown",
-            "body": "Plan your visit to 2201 Main St in Dallas."
+            "title": "Arrive ready",
+            "body": "Bring your preferred style direction or maintenance goals."
           },
           {
             "number": "04",
-            "title": "Leave ready",
-            "body": "Come in for a polished appointment and a clean finish."
+            "title": "Leave with your next step",
+            "body": "Rebook when it makes sense for your routine."
           }
         ]
       },
@@ -714,43 +714,43 @@
         "items": [
           {
             "question": "How do I book?",
-            "answer": "Use the public Square booking link to see available appointments and reserve a time."
+            "answer": "Use the Square booking link provided on the site to reserve your visit."
           },
           {
-            "question": "Where are you located?",
-            "answer": "East Quarter Barber is located at 2201 Main St, Dallas, TX 75201, USA."
+            "question": "Where is the shop located?",
+            "answer": "East Quarter Barber is at 2201 Main St, Dallas, TX 75201, USA."
           },
           {
-            "question": "What are your hours?",
-            "answer": "Publicly supplied source material did not include business hours."
+            "question": "What is the phone number?",
+            "answer": "Call (469) 274-3587 for shop contact."
           },
           {
-            "question": "Can I call the shop?",
-            "answer": "Yes. The public phone number is (469) 274-3587."
+            "question": "Do you have a website?",
+            "answer": "The supplied website is a booking link through Square rather than a general informational site."
           },
           {
-            "question": "Do you have public reviews?",
-            "answer": "Yes. The shop shows a 5.0 rating from 266 Google reviews."
+            "question": "What hours are you open?",
+            "answer": "Hours were not supplied in the source information."
           },
           {
-            "question": "Do you have team member names?",
-            "answer": "No individual team members were explicitly identified in the supplied source material."
+            "question": "Do you have reviews?",
+            "answer": "Yes. The shop is listed with a 5.0 rating from 266 reviews on Google."
           },
           {
-            "question": "Can I view services online?",
-            "answer": "The supplied source material did not list a public menu, so booking is the best way to view current appointment options."
+            "question": "Can I choose a specific barber?",
+            "answer": "A specific team member was not verified in the supplied sources, so booking should be handled through the available Square flow."
           },
           {
-            "question": "What is the best way to plan a visit?",
-            "answer": "Book online, confirm by phone if needed, and use the published Main Street address for navigation."
+            "question": "What services do you offer?",
+            "answer": "Specific service names were not supplied in the source information."
           }
         ]
       },
       "finalCta": {
         "eyebrow": "— Reserve your chair",
-        "title": "Book with confidence.",
-        "accentTitle": "Visit downtown Dallas.",
-        "description": "Reserve your next appointment through the public Square booking link.",
+        "title": "Make it easy.",
+        "accentTitle": "Book ahead.",
+        "description": "Reserve your visit with East Quarter Barber through Square.",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
       }
@@ -759,9 +759,9 @@
       "header": {
         "breadcrumb": "Services",
         "eyebrow": "— The Menu",
-        "title": "A simple",
-        "accentTitle": "booking flow.",
-        "intro": "Use the public Square appointment page to view current service options and secure a time that works for you."
+        "title": "Simple",
+        "accentTitle": "booking.",
+        "intro": "Use the booking experience to reserve time with East Quarter Barber in downtown Dallas."
       },
       "guidance": {
         "eyebrow": "— Guidance",
@@ -778,9 +778,9 @@
       "header": {
         "breadcrumb": "Barbers",
         "eyebrow": "— The Team",
-        "title": "Choose the shop.",
-        "accentTitle": "Know your route.",
-        "intro": "A collective team presentation is used here because no individual barber names were supplied in the source material."
+        "title": "Choose your barber.",
+        "accentTitle": "Keep it simple.",
+        "intro": "East Quarter Barber is represented here as a collective team because no individual barber names were verified in the supplied sources."
       },
       "labels": {
         "specialties": "Specialties",
@@ -791,8 +791,8 @@
       "firstAvailable": {
         "eyebrow": "— Or",
         "title": "No preference?",
-        "accentTitle": "Book first available.",
-        "description": "The public booking flow is the fastest way to reserve an appointment.",
+        "accentTitle": "Choose first available.",
+        "description": "If you do not need to select a specific person, use the booking flow to choose the first available option.",
         "cta": "View Availability"
       },
       "finalCta": {
@@ -825,8 +825,8 @@
         "breadcrumb": "Gallery",
         "eyebrow": "— Selected Work",
         "title": "The work speaks",
-        "accentTitle": "through the details.",
-        "intro": "A simple visual set using the existing shop imagery and work samples."
+        "accentTitle": "in the details.",
+        "intro": "A selection of imagery and shop atmosphere from East Quarter Barber."
       },
       "lightbox": {
         "close": "Close ✕",
@@ -836,7 +836,7 @@
       },
       "finalCta": {
         "title": "Like what you see?",
-        "description": "Reserve your chair and plan your next visit downtown.",
+        "description": "Reserve your chair and plan your visit to East Quarter Barber.",
         "primaryCta": "Book Appointment",
         "instagramCta": "Follow on Instagram"
       }
@@ -845,54 +845,54 @@
       "header": {
         "breadcrumb": "About",
         "eyebrow": "— The Shop",
-        "title": "Built around",
-        "titleLineTwo": "the value of",
-        "accentTitle": "being easy to trust.",
-        "intro": "East Quarter Barber is presented here as a straightforward downtown Dallas shop, using only verified public information."
+        "title": "A downtown",
+        "titleLineTwo": "barber shop built",
+        "accentTitle": "for ease.",
+        "intro": "East Quarter Barber is a downtown Dallas shop with booking available through Square."
       },
       "founding": {
-        "eyebrow": "— 01 / The Founding",
-        "title": "A clear public profile.",
-        "founderCaption": "Collective team presentation",
+        "eyebrow": "— 01 / Overview",
+        "title": "A straightforward shop presence.",
+        "founderCaption": "East Quarter Barber",
         "paragraphs": [
-          "No owner, founder, or proprietor was explicitly identified on the supplied pages.",
-          "This temporary site copy keeps the story neutral and focused on the verified details: the Dallas location, the public booking link, the 5.0 rating, and the review count."
+          "No owner, founder, or proprietor was explicitly identified on the supplied sources.",
+          "The page is written to reflect only the verified business information: location, phone, rating, review count, and booking link."
         ]
       },
       "standard": {
         "eyebrow": "— 02 / The Standard",
         "title": "The East Quarter",
-        "accentTitle": "standard.",
+        "accentTitle": "experience.",
         "paragraphs": [
-          "The goal is to make the shop easy to find, easy to contact, and easy to book.",
-          "Everything on this page is written to support a clean, conversion-focused appointment flow without inventing any unverified claims."
+          "The priority is clarity: a visible address, a direct phone number, and a booking flow that is easy to use.",
+          "The shop content is intentionally neutral where the source material did not verify additional facts."
         ]
       },
       "values": [
         {
           "number": "03",
-          "title": "Public booking",
-          "body": "Appointments are handled through the Square booking link supplied in the source material."
+          "title": "Clear booking",
+          "body": "Square booking keeps the appointment path simple."
         },
         {
           "number": "04",
-          "title": "Downtown location",
-          "body": "The shop is listed at 2201 Main St in Dallas, Texas."
+          "title": "Verified contact",
+          "body": "Phone and address are presented exactly as supplied."
         },
         {
           "number": "05",
-          "title": "Verified rating",
-          "body": "The shop currently shows a 5.0 rating from 266 reviews."
+          "title": "Downtown location",
+          "body": "2201 Main St places the shop in the center of Dallas."
         },
         {
           "number": "06",
-          "title": "Clear communication",
-          "body": "The listed phone number gives guests a direct way to reach the shop."
+          "title": "Review-backed visibility",
+          "body": "A 5.0 rating from 266 Google reviews signals strong client feedback."
         }
       ],
       "founderNote": {
         "eyebrow": "— A note from the shop",
-        "quote": "The focus here is simple: help guests find the shop, understand the basics, and book with confidence.",
+        "quote": "We focus on making the visit easy to understand and easy to book.",
         "author": "— East Quarter Barber"
       },
       "finalCta": {
@@ -908,7 +908,7 @@
         "eyebrow": "— Plan Your Visit",
         "title": "Plan your",
         "accentTitle": "visit.",
-        "intro": "Everything you need to find the shop, reach it, and reserve your time."
+        "intro": "Find the shop, call ahead, or book online through Square."
       },
       "labels": {
         "address": "— Address",
@@ -921,7 +921,7 @@
       "form": {
         "eyebrow": "— Send a Note",
         "title": "Get in touch.",
-        "description": "Use the phone number or the public booking link for the fastest response.",
+        "description": "Use the booking link for appointments and the phone number for direct contact.",
         "availabilityCta": "View Availability",
         "fields": {
           "name": {
@@ -960,9 +960,9 @@
     },
     "footer": {
       "eyebrow": "East Quarter Barber",
-      "title": "Downtown Dallas.",
-      "accentTitle": "Booked through Square.",
-      "description": "A barber shop at 2201 Main St in Dallas, built around a simple booking flow and a clear public contact profile.",
+      "title": "Clean cuts.",
+      "accentTitle": "Simple booking.",
+      "description": "A downtown Dallas barber shop with a straightforward appointment flow and a verified Google presence.",
       "visitHeading": "Visit",
       "hoursHeading": "Hours",
       "bookingCta": "Reserve Your Chair",
