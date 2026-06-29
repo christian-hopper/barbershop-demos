@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "demos": [
     {
+      "slug": "blade-21-barbershop-salon-a8001ec",
+      "businessName": "BLADE 21 BARBERSHOP + SALON",
+      "template": "barbershop",
+      "templateVersion": "v1-f447d4b676e2",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/blade-21-barbershop-salon-a8001ec/",
+      "dataPath": "_data/barbershop/blade-21-barbershop-salon-a8001ec.json",
+      "dataSha256": "755fcd3e28ba48d10adb50d26c59b464e0b6d9404d3dd74368253a7084801c3c",
+      "updatedAt": "2026-06-29T00:02:56.574Z"
+    },
+    {
       "slug": "east-quarter-barber-downtown-dallas-texas-a46e479",
       "businessName": "East Quarter Barber, Downtown Dallas, Texas",
       "template": "barbershop",

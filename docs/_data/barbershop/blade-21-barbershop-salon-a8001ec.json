@@ -1,0 +1,1047 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-f447d4b676e2",
+  "slug": "blade-21-barbershop-salon-a8001ec",
+  "generatedAt": "2026-06-29T00:02:56.568Z",
+  "business": {
+    "brand": {
+      "name": "BLADE 21 BARBERSHOP + SALON",
+      "shortName": "BLADE 21",
+      "category": "Barber shop",
+      "descriptor": "Sharp Cuts. Clean Finishes.",
+      "logoTop": "BLADE 21",
+      "logoBottom": "BARBERSHOP + SALON · DALLAS",
+      "oversizedWordmark": "BLADE 21",
+      "establishedYear": 0,
+      "city": "Dallas",
+      "state": "Texas",
+      "cityState": "Dallas, Texas",
+      "copyrightName": "BLADE 21 BARBERSHOP + SALON",
+      "loaderStorageKey": "hopp-demo-loaded:blade-21-barbershop-salon-a8001ec"
+    },
+    "contact": {
+      "phoneRaw": "2142585891",
+      "phoneFormatted": "(214) 258-5891",
+      "phoneHref": "tel:+12142585891",
+      "email": "",
+      "address": {
+        "line1": "12101 Greenville Ave Ste 108",
+        "line2": "Dallas, TX 75243, USA",
+        "full": "12101 Greenville Ave Ste 108, Dallas, TX 75243, USA",
+        "short": "12101 Greenville Ave Ste 108",
+        "mapLabel": "12101 Greenville Ave Ste 108, Dallas",
+        "streetAddress": "12101 Greenville Ave Ste 108",
+        "locality": "Dallas",
+        "region": "TX",
+        "postalCode": "75243",
+        "country": "US"
+      },
+      "bookingUrl": "tel:+12142585891",
+      "contactPath": "/visit",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=12101%20Greenville%20Ave%20Ste%20108%2C%20Dallas%2C%20TX%2075243%2C%20USA",
+      "mapsUrl": "https://maps.google.com/?cid=5784101653930016811&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=12101%20Greenville%20Ave%20Ste%20108%2C%20Dallas%2C%20TX%2075243%2C%20USA&output=embed",
+      "parking": "Parking details can be confirmed when you call to book."
+    },
+    "socialLinks": {
+      "instagram": {
+        "label": "Instagram",
+        "handle": "",
+        "url": ""
+      }
+    },
+    "navigation": {
+      "main": [
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "Services",
+          "to": "/services"
+        },
+        {
+          "label": "Barbers",
+          "to": "/barbers"
+        },
+        {
+          "label": "Gallery",
+          "to": "/gallery"
+        },
+        {
+          "label": "About",
+          "to": "/about"
+        },
+        {
+          "label": "Visit",
+          "to": "/visit"
+        }
+      ],
+      "headerCta": {
+        "label": "Call to Book",
+        "url": "tel:+12142585891"
+      },
+      "mobileCta": {
+        "label": "Call to Book",
+        "url": "tel:+12142585891"
+      },
+      "footerHeading": "Explore",
+      "legal": [
+        {
+          "label": "Privacy",
+          "to": "/visit"
+        },
+        {
+          "label": "Accessibility",
+          "to": "/visit"
+        },
+        {
+          "label": "Contact",
+          "to": "/visit"
+        }
+      ],
+      "mobileLabels": {
+        "visit": "Visit",
+        "today": "Today",
+        "call": "Call",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu"
+      }
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "short": "Mon",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 1,
+            "closeDay": 1,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "short": "Tue",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 2,
+            "closeDay": 2,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "short": "Wed",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 3,
+            "closeDay": 3,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "short": "Thu",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 4,
+            "closeDay": 4,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "short": "Fri",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 5,
+            "closeDay": 5,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "short": "Sat",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 6,
+            "closeDay": 6,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "short": "Sun",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 0,
+            "closeDay": 0,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      }
+    ],
+    "metrics": {
+      "rating": 4.9,
+      "reviewCount": 429,
+      "ratingStars": "★ ★ ★ ★ ★",
+      "reviewSource": "Google"
+    },
+    "assets": {
+      "hero": {
+        "src": {
+          "__hoppAsset": "heroInteriorImage"
+        },
+        "alt": "Modern barber station with warm lighting and tools at BLADE 21 BARBERSHOP + SALON"
+      },
+      "shopInterior": {
+        "src": {
+          "__hoppAsset": "shopInteriorImage"
+        },
+        "alt": "Interior of BLADE 21 BARBERSHOP + SALON showing the shop floor and styling stations"
+      },
+      "detailTools": {
+        "src": {
+          "__hoppAsset": "detailToolsImage"
+        },
+        "alt": "Barber tools arranged neatly on a counter"
+      },
+      "detailTowels": {
+        "src": {
+          "__hoppAsset": "detailTowelsImage"
+        },
+        "alt": "Folded towels and grooming products arranged on a shelf"
+      },
+      "workFade": {
+        "src": {
+          "__hoppAsset": "workFadeImage"
+        },
+        "alt": "Skin fade haircut example"
+      },
+      "workBeard": {
+        "src": {
+          "__hoppAsset": "workBeardImage"
+        },
+        "alt": "Beard grooming example"
+      },
+      "workScissor": {
+        "src": {
+          "__hoppAsset": "workScissorImage"
+        },
+        "alt": "Scissor cut in progress at a barber station"
+      }
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/blade-21-barbershop-salon-a8001ec",
+      "defaultTitle": "BLADE 21 BARBERSHOP + SALON — Dallas, TX",
+      "defaultDescription": "BLADE 21 BARBERSHOP + SALON in Dallas, TX. Call to book and visit the shop at 12101 Greenville Ave Ste 108.",
+      "author": "BLADE 21 BARBERSHOP + SALON",
+      "openGraph": {
+        "siteName": "BLADE 21 BARBERSHOP + SALON",
+        "type": "website",
+        "title": "BLADE 21 BARBERSHOP + SALON — Dallas, TX",
+        "description": "BLADE 21 BARBERSHOP + SALON in Dallas with a 4.9 rating and 429 reviews on Google.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "BLADE 21 BARBERSHOP + SALON — Dallas",
+        "description": "Call to book your visit.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "pages": {
+        "home": {
+          "title": "BLADE 21 BARBERSHOP + SALON — Dallas, TX",
+          "description": "A Dallas barber shop at 12101 Greenville Ave Ste 108. Call (214) 258-5891 to book your visit.",
+          "ogTitle": "BLADE 21 BARBERSHOP + SALON",
+          "ogDescription": "A Dallas barber shop with a 4.9 rating and 429 Google reviews.",
+          "path": "/"
+        },
+        "services": {
+          "title": "Services | BLADE 21 BARBERSHOP + SALON",
+          "description": "Call BLADE 21 BARBERSHOP + SALON to ask about current services and availability.",
+          "ogTitle": "Services — BLADE 21 BARBERSHOP + SALON",
+          "ogDescription": "Call to book and confirm service details.",
+          "path": "/services"
+        },
+        "barbers": {
+          "title": "Team | BLADE 21 BARBERSHOP + SALON",
+          "description": "Meet the BLADE 21 BARBERSHOP + SALON team and book your appointment by phone.",
+          "ogTitle": "The Team at BLADE 21",
+          "ogDescription": "Call to connect with the shop.",
+          "path": "/barbers"
+        },
+        "gallery": {
+          "title": "Gallery | BLADE 21 BARBERSHOP + SALON",
+          "description": "Browse selected shop imagery and recent-style inspiration.",
+          "ogTitle": "Gallery — BLADE 21 BARBERSHOP + SALON",
+          "ogDescription": "A clean, modern shop atmosphere.",
+          "path": "/gallery"
+        },
+        "about": {
+          "title": "About | BLADE 21 BARBERSHOP + SALON",
+          "description": "Learn more about BLADE 21 BARBERSHOP + SALON in Dallas and plan your visit.",
+          "ogTitle": "About BLADE 21",
+          "ogDescription": "A Dallas barber shop focused on a polished client experience.",
+          "path": "/about"
+        },
+        "visit": {
+          "title": "Visit & Contact | BLADE 21 BARBERSHOP + SALON",
+          "description": "Find BLADE 21 BARBERSHOP + SALON at 12101 Greenville Ave Ste 108, Dallas, TX 75243, USA. Call (214) 258-5891.",
+          "ogTitle": "Visit BLADE 21 BARBERSHOP + SALON",
+          "ogDescription": "Dallas location details and phone contact.",
+          "path": "/visit"
+        },
+        "notFound": {
+          "title": "Page Not Found | BLADE 21 BARBERSHOP + SALON",
+          "description": "The requested page could not be found.",
+          "path": "/404"
+        }
+      }
+    },
+    "servicesSection": {
+      "groups": [
+        {
+          "name": "Haircuts",
+          "intro": "Customized cuts built around the style you want to maintain."
+        },
+        {
+          "name": "Beard and Shave",
+          "intro": "Shape, detail, and cleanup for a refined finish."
+        },
+        {
+          "name": "Complete Grooming",
+          "intro": "Balanced appointments for clients who want a full refresh."
+        }
+      ],
+      "services": [],
+      "guidance": [
+        {
+          "title": "Call to confirm your service",
+          "description": "Because current services were not verified, the best next step is to call the shop and ask what fits your visit."
+        },
+        {
+          "title": "Plan around your schedule",
+          "description": "Use the listed phone number to book a time that works for you."
+        },
+        {
+          "title": "Ask about current availability",
+          "description": "The team can help you decide what to book when you call."
+        },
+        {
+          "title": "Visit the shop",
+          "description": "Find BLADE 21 BARBERSHOP + SALON at 12101 Greenville Ave Ste 108 in Dallas."
+        }
+      ]
+    },
+    "teamSection": {
+      "members": [
+        {
+          "slug": "blade-21-team",
+          "name": "BLADE 21 BARBERSHOP + SALON Team",
+          "firstName": "Team",
+          "role": "Barber Team",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "A collective team entry for booking and general shop contact.",
+          "bio": "Call the shop to confirm current services, availability, and the best option for your visit.",
+          "philosophy": "Reach out by phone to get the most current booking information.",
+          "services": [],
+          "instagram": "",
+          "bookingUrl": "tel:+12142585891",
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "imageAlt": "BLADE 21 BARBERSHOP + SALON team and shop environment",
+          "availability": "Available by phone at (214) 258-5891",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        }
+      ],
+      "sampleWork": [
+        {
+          "__hoppAsset": "workFadeImage"
+        },
+        {
+          "__hoppAsset": "workBeardImage"
+        },
+        {
+          "__hoppAsset": "workScissorImage"
+        }
+      ]
+    },
+    "testimonialsSection": {
+      "eyebrow": "— 07 / Reviews",
+      "sectionTitle": "Client reviews",
+      "supportingCopy": "A strong public rating and steady volume of reviews reflect the shop's presence in Dallas.",
+      "reviewPlatformUrl": "https://www.google.com/search?q=BLADE+21+BARBERSHOP+%2B+SALON+Dallas+reviews",
+      "googleReviewCta": "Read Google Reviews",
+      "reviews": []
+    },
+    "gallerySection": {
+      "categories": [
+        "All",
+        "Fades",
+        "Classic Cuts",
+        "Texture",
+        "Beard Work",
+        "Longer Styles",
+        "The Shop"
+      ],
+      "items": [
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Haircut example",
+          "category": "Fades",
+          "service": "Fade",
+          "barber": "BLADE 21",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard work example",
+          "category": "Beard Work",
+          "service": "Beard Work",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Scissor cut example",
+          "category": "Classic Cuts",
+          "service": "Scissor Cut",
+          "barber": "BLADE 21",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "alt": "Shop floor at BLADE 21 BARBERSHOP + SALON",
+          "category": "The Shop",
+          "service": "Shop Floor",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "alt": "Barber station at BLADE 21 BARBERSHOP + SALON",
+          "category": "The Shop",
+          "service": "Barber Station",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "alt": "Tools at BLADE 21 BARBERSHOP + SALON",
+          "category": "The Shop",
+          "service": "Tools",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "alt": "Towels and grooming products at BLADE 21 BARBERSHOP + SALON",
+          "category": "The Shop",
+          "service": "The Shop",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Texture example",
+          "category": "Texture",
+          "service": "Texture",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Longer style example",
+          "category": "Longer Styles",
+          "service": "Longer Style",
+          "barber": "BLADE 21",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard and shave example",
+          "category": "Beard Work",
+          "service": "Beard + Shave",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Fade example",
+          "category": "Fades",
+          "service": "Low Fade",
+          "barber": "BLADE 21",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Classic cut example",
+          "category": "Classic Cuts",
+          "service": "Classic Cut",
+          "barber": "BLADE 21",
+          "span": ""
+        }
+      ]
+    },
+    "homePage": {
+      "hero": {
+        "eyebrow": "Dallas, Texas",
+        "title": "Sharp cuts.",
+        "accentTitle": "Clean finishes.",
+        "description": "A polished barbershop and salon experience in Dallas, centered on a confident look and a straightforward way to book.",
+        "primaryCta": "Call to Book",
+        "secondaryCta": "Explore Services",
+        "secondaryCtaPath": "/services",
+        "reviewsLabel": "Google reviews",
+        "scrollLabel": "Scroll"
+      },
+      "brandStatement": {
+        "eyebrow": "— 01 / The Shop",
+        "titleLines": [
+          "A clean place",
+          "to refresh"
+        ],
+        "accentTitle": "your look.",
+        "description": "BLADE 21 BARBERSHOP + SALON offers a professional setting for clients who want a sharp result and a smooth visit.",
+        "imageCaption": "Dallas shop · 12101 Greenville Ave Ste 108"
+      },
+      "featuredServices": {
+        "eyebrow": "— 02 / Services",
+        "title": "A simple way to book",
+        "description": "Call the shop to confirm what you need and reserve a time that works for you.",
+        "viewAllCta": "View Services",
+        "reserveCta": "Reserve Your Chair"
+      },
+      "principles": {
+        "eyebrow": "— 03 / The Experience",
+        "title": "Built around",
+        "accentTitle": "a polished visit.",
+        "description": "A few simple priorities guide the experience at BLADE 21.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Straightforward booking",
+            "body": "Call the listed phone number to ask about availability and schedule your visit."
+          },
+          {
+            "number": "02",
+            "title": "Clean presentation",
+            "body": "The shop is presented as a modern, professional space for grooming."
+          },
+          {
+            "number": "03",
+            "title": "Attention to detail",
+            "body": "The focus is on a neat result and a comfortable client experience."
+          },
+          {
+            "number": "04",
+            "title": "Local convenience",
+            "body": "Located on Greenville Ave in Dallas, the shop is easy to find and contact."
+          }
+        ]
+      },
+      "team": {
+        "eyebrow": "— 04 / The Team",
+        "title": "The BLADE 21 team",
+        "description": "A collective shop team ready to help you plan your visit.",
+        "viewProfileCta": "View →",
+        "viewTeamCta": "Meet the Team"
+      },
+      "shop": {
+        "eyebrow": "— 05 / The Shop",
+        "titleLines": [
+          "A place to reset,",
+          "refine, and"
+        ],
+        "accentTitle": "move forward.",
+        "description": "From the first call to the final look, the goal is a smooth appointment and a finish that feels put together.",
+        "galleryCta": "View the Gallery →"
+      },
+      "selectedWork": {
+        "eyebrow": "— 06 / Recent Work",
+        "title": "Recent work",
+        "galleryCta": "Gallery →",
+        "instagramCta": "Instagram →",
+        "items": [
+          {
+            "image": {
+              "__hoppAsset": "workFadeImage"
+            },
+            "label": "Fade",
+            "barber": "BLADE 21",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "workBeardImage"
+            },
+            "label": "Beard work",
+            "barber": "BLADE 21",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailToolsImage"
+            },
+            "label": "Tools of the trade",
+            "barber": "BLADE 21",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "workScissorImage"
+            },
+            "label": "Scissor cut",
+            "barber": "BLADE 21",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "shopInteriorImage"
+            },
+            "label": "The shop",
+            "barber": "BLADE 21",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailTowelsImage"
+            },
+            "label": "Finishing details",
+            "barber": "BLADE 21",
+            "span": ""
+          }
+        ]
+      },
+      "ritual": {
+        "eyebrow": "— 08 / The Visit",
+        "title": "Your appointment,",
+        "accentTitle": "kept simple.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Call the shop",
+            "body": "Use the listed number to confirm availability."
+          },
+          {
+            "number": "02",
+            "title": "Plan your service",
+            "body": "Ask what fits your visit and schedule accordingly."
+          },
+          {
+            "number": "03",
+            "title": "Arrive at the address",
+            "body": "Find the shop at 12101 Greenville Ave Ste 108 in Dallas."
+          },
+          {
+            "number": "04",
+            "title": "Leave refreshed",
+            "body": "Enjoy a polished result and a clear next step for your next visit."
+          }
+        ]
+      },
+      "visit": {
+        "eyebrow": "— 09 / Visit",
+        "title": "Your chair",
+        "accentTitle": "is waiting.",
+        "hoursLabel": "Hours",
+        "getDirectionsCta": "Get Directions",
+        "mapCta": "Open in Maps →"
+      },
+      "faq": {
+        "eyebrow": "— 10 / Common Questions",
+        "title": "Frequently asked.",
+        "items": [
+          {
+            "question": "How do I book?",
+            "answer": "Call (214) 258-5891 to check availability and reserve your time."
+          },
+          {
+            "question": "Where are you located?",
+            "answer": "BLADE 21 BARBERSHOP + SALON is at 12101 Greenville Ave Ste 108, Dallas, TX 75243, USA."
+          },
+          {
+            "question": "Do you have online booking?",
+            "answer": "No online booking link was verified, so the most reliable way to book is by phone."
+          },
+          {
+            "question": "What are your hours?",
+            "answer": "Hours were not verified in the source data. Please call the shop to confirm today's availability."
+          },
+          {
+            "question": "Can I see reviews?",
+            "answer": "Yes. The shop has a 4.90 rating with 429 Google reviews."
+          },
+          {
+            "question": "Can I follow you on social media?",
+            "answer": "No public social link was verified in the source data."
+          },
+          {
+            "question": "What services do you offer?",
+            "answer": "Current services were not verified in the source data. Please call the shop to confirm what is available."
+          },
+          {
+            "question": "Where should I park?",
+            "answer": "Parking details can be confirmed when you call to book."
+          }
+        ]
+      },
+      "finalCta": {
+        "eyebrow": "— Reserve your chair",
+        "title": "Leave looking sharper.",
+        "accentTitle": "Book by phone.",
+        "description": "Call BLADE 21 BARBERSHOP + SALON to plan your next visit.",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "servicesPage": {
+      "header": {
+        "breadcrumb": "Services",
+        "eyebrow": "— The Menu",
+        "title": "The shop",
+        "accentTitle": "menu.",
+        "intro": "Call the shop to confirm current services and availability before you visit."
+      },
+      "guidance": {
+        "eyebrow": "— Guidance",
+        "title": "Need help deciding?"
+      },
+      "finalCta": {
+        "title": "Reserve your",
+        "accentTitle": "next visit.",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "barbersPage": {
+      "header": {
+        "breadcrumb": "Barbers",
+        "eyebrow": "— The Team",
+        "title": "Choose your barber.",
+        "accentTitle": "Know your standard.",
+        "intro": "BLADE 21 BARBERSHOP + SALON presents a collective team entry for general booking and contact."
+      },
+      "labels": {
+        "specialties": "Specialties",
+        "bestBookedFor": "Best Booked For",
+        "viewProfile": "View Profile",
+        "bookWith": "Book with"
+      },
+      "firstAvailable": {
+        "eyebrow": "— Or",
+        "title": "No preference?",
+        "accentTitle": "Choose first available.",
+        "description": "If you're not booking a specific barber, call the shop and ask for the first available appointment.",
+        "cta": "View Availability"
+      },
+      "finalCta": {
+        "title": "Ready to book?",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "barberProfilePage": {
+      "backCta": "← All Barbers",
+      "instagramCta": "Instagram ↗",
+      "philosophyLabel": "— Philosophy",
+      "specialtiesLabel": "Specialties",
+      "servicesLabel": "Services Offered",
+      "experienceLabel": "Experience",
+      "availableAtLabel": "Available At",
+      "featuredWorkLabel": "— Featured Work",
+      "recentFromPrefix": "Recent from",
+      "clientNoteLabel": "— Client Note",
+      "reserveCta": "Reserve Your Chair",
+      "viewAllCta": "View All Barbers",
+      "notFound": {
+        "eyebrow": "Not Found",
+        "title": "That barber isn't on the team.",
+        "cta": "Meet the Team"
+      }
+    },
+    "galleryPage": {
+      "header": {
+        "breadcrumb": "Gallery",
+        "eyebrow": "— Selected Work",
+        "title": "The work speaks",
+        "accentTitle": "in the details.",
+        "intro": "A selection of clean visuals and grooming inspiration from the shop."
+      },
+      "lightbox": {
+        "close": "Close ✕",
+        "previous": "Previous",
+        "next": "Next",
+        "bookCta": "Book This Service ↗"
+      },
+      "finalCta": {
+        "title": "Like what you see?",
+        "description": "Call the shop to plan a visit that fits your schedule.",
+        "primaryCta": "Call to Book",
+        "instagramCta": "Follow on Instagram"
+      }
+    },
+    "aboutPage": {
+      "header": {
+        "breadcrumb": "About",
+        "eyebrow": "— The Shop",
+        "title": "Built around",
+        "titleLineTwo": "the value of",
+        "accentTitle": "a clean finish.",
+        "intro": "BLADE 21 BARBERSHOP + SALON is a Dallas barber shop with a straightforward approach to grooming and service."
+      },
+      "founding": {
+        "eyebrow": "— 01 / The Background",
+        "title": "A local shop with a clear focus.",
+        "founderCaption": "Shop Team",
+        "paragraphs": [
+          "The public listing identifies BLADE 21 BARBERSHOP + SALON as a barber shop in Dallas with a 4.90 rating and 429 reviews on Google.",
+          "Because no founding history was verified, the site copy stays focused on what can be confirmed: the shop's name, location, and contact details."
+        ]
+      },
+      "standard": {
+        "eyebrow": "— 02 / The Standard",
+        "title": "The BLADE 21",
+        "accentTitle": "standard.",
+        "paragraphs": [
+          "A good visit should feel clear and easy to plan.",
+          "The experience is framed around a polished finish, local convenience, and a simple way to get in touch."
+        ]
+      },
+      "values": [
+        {
+          "number": "03",
+          "title": "Clear contact",
+          "body": "Call the shop directly for booking and service questions."
+        },
+        {
+          "number": "04",
+          "title": "Local convenience",
+          "body": "The Dallas address is easy to find on Greenville Avenue."
+        },
+        {
+          "number": "05",
+          "title": "Polished atmosphere",
+          "body": "The visuals present a clean, modern shop environment."
+        },
+        {
+          "number": "06",
+          "title": "Reliable reviews",
+          "body": "A 4.90 rating and 429 reviews suggest a strong local presence."
+        }
+      ],
+      "founderNote": {
+        "eyebrow": "— A note from the shop",
+        "quote": "The best next step is simple: call, book, and come in ready for a clean finish.",
+        "author": "— BLADE 21 BARBERSHOP + SALON"
+      },
+      "finalCta": {
+        "title": "Visit the",
+        "accentTitle": "shop.",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "visitPage": {
+      "header": {
+        "breadcrumb": "Visit",
+        "eyebrow": "— Plan Your Visit",
+        "title": "Plan your",
+        "accentTitle": "visit.",
+        "intro": "Everything you need to find the shop, call ahead, and get directions."
+      },
+      "labels": {
+        "address": "— Address",
+        "contact": "— Contact",
+        "hours": "— Hours",
+        "directionsCta": "Get Directions",
+        "mapCta": "Open in Maps →",
+        "bookCta": "Call to Book"
+      },
+      "form": {
+        "eyebrow": "— Send a Note",
+        "title": "Get in touch.",
+        "description": "For the fastest response, use the phone number to ask about booking and availability.",
+        "availabilityCta": "View Availability",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          "email": {
+            "label": "Email",
+            "name": "email",
+            "type": "email",
+            "required": true
+          },
+          "phone": {
+            "label": "Phone",
+            "name": "phone",
+            "type": "tel",
+            "required": false
+          },
+          "reasonLabel": "Reason",
+          "messageLabel": "Message"
+        },
+        "reasons": [
+          "General Question",
+          "Appointment Question",
+          "Service Recommendation",
+          "Private Event or Group Booking",
+          "Business Inquiry"
+        ],
+        "submitLabel": "Send Message",
+        "successEyebrow": "— Sent",
+        "successMessage": "Thank you. We'll be in touch shortly.",
+        "note": "This template preserves the original front-end-only form behavior and does not transmit submissions."
+      }
+    },
+    "footer": {
+      "eyebrow": "BLADE 21 BARBERSHOP + SALON",
+      "title": "Sharp cuts.",
+      "accentTitle": "Clean finishes.",
+      "description": "A Dallas barber shop at 12101 Greenville Ave Ste 108, with a strong public rating and a simple way to call ahead.",
+      "visitHeading": "Visit",
+      "hoursHeading": "Hours",
+      "bookingCta": "Call to Book",
+      "instagramCta": "Instagram ↗",
+      "rightsText": "All rights reserved."
+    },
+    "systemPages": {
+      "notFound": {
+        "eyebrow": "404 · Not Found",
+        "title": "This page is not on the menu.",
+        "description": "The page you're looking for has moved or never existed. Head back to the homepage and explore from there.",
+        "cta": "Return Home"
+      },
+      "error": {
+        "eyebrow": "Something went wrong",
+        "title": "This page didn't load.",
+        "description": "Try again, or return home and continue from there.",
+        "retryCta": "Try Again",
+        "homeCta": "Go Home"
+      }
+    }
+  }
+}
