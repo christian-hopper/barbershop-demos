@@ -30,6 +30,16 @@
       "dataPath": "_data/barbershop/jmajor-cutz-and-mobile-barber-d3d5612.json",
       "dataSha256": "759711d773aca000405246252ac499b8b2aad5c78a74841d742a5421eaaf2972",
       "updatedAt": "2026-06-29T21:42:05.831Z"
+    },
+    {
+      "slug": "old-east-dallas-barbershop-8345d25",
+      "businessName": "Old East Dallas Barbershop",
+      "template": "barbershop",
+      "templateVersion": "v1-71dfa4d1fb05",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/old-east-dallas-barbershop-8345d25/",
+      "dataPath": "_data/barbershop/old-east-dallas-barbershop-8345d25.json",
+      "dataSha256": "10b4bbe786c3b1da9fc163b0401129b201152b3e706e2a3cdb705907b15aa825",
+      "updatedAt": "2026-06-29T21:46:44.088Z"
     }
   ]
 }

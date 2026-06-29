@@ -1,0 +1,1049 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-71dfa4d1fb05",
+  "slug": "old-east-dallas-barbershop-8345d25",
+  "generatedAt": "2026-06-29T21:46:44.082Z",
+  "business": {
+    "brand": {
+      "name": "Old East Dallas Barbershop",
+      "shortName": "Old East Dallas",
+      "category": "Barber shop",
+      "descriptor": "Clean cuts. Straightforward service.",
+      "logoTop": "Old East Dallas",
+      "logoBottom": "BARBERSHOP · DALLAS",
+      "oversizedWordmark": "OLD EAST DALLAS",
+      "establishedYear": 0,
+      "city": "Dallas",
+      "state": "TX",
+      "cityState": "Dallas, TX",
+      "copyrightName": "Old East Dallas Barbershop",
+      "loaderStorageKey": "hopp-demo-loaded:old-east-dallas-barbershop-8345d25"
+    },
+    "contact": {
+      "phoneRaw": "2145607327",
+      "phoneFormatted": "(214) 560-7327",
+      "phoneHref": "tel:+12145607327",
+      "email": "",
+      "address": {
+        "line1": "515 N Carroll Ave D",
+        "line2": "Dallas, TX 75246, USA",
+        "full": "515 N Carroll Ave D, Dallas, TX 75246, USA",
+        "short": "515 N Carroll Ave D",
+        "mapLabel": "515 N Carroll Ave D, Dallas",
+        "streetAddress": "515 N Carroll Ave D",
+        "locality": "Dallas",
+        "region": "TX",
+        "postalCode": "75246",
+        "country": "US"
+      },
+      "bookingUrl": "https://oedbarbershop.square.site/",
+      "contactPath": "/visit",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=515%20N%20Carroll%20Ave%20D%2C%20Dallas%2C%20TX%2075246%2C%20USA",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=515%20N%20Carroll%20Ave%20D%2C%20Dallas%2C%20TX%2075246%2C%20USA",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=515%20N%20Carroll%20Ave%20D%2C%20Dallas%2C%20TX%2075246%2C%20USA&output=embed",
+      "parking": "Parking details are not verified; please plan your visit accordingly."
+    },
+    "socialLinks": {
+      "instagram": {
+        "label": "Instagram",
+        "handle": "",
+        "url": ""
+      }
+    },
+    "navigation": {
+      "main": [
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "Services",
+          "to": "/services"
+        },
+        {
+          "label": "Barbers",
+          "to": "/barbers"
+        },
+        {
+          "label": "Gallery",
+          "to": "/gallery"
+        },
+        {
+          "label": "About",
+          "to": "/about"
+        },
+        {
+          "label": "Visit",
+          "to": "/visit"
+        }
+      ],
+      "headerCta": {
+        "label": "Book Appointment",
+        "url": "https://oedbarbershop.square.site/"
+      },
+      "mobileCta": {
+        "label": "Book Appointment",
+        "url": "https://oedbarbershop.square.site/"
+      },
+      "footerHeading": "Explore",
+      "legal": [
+        {
+          "label": "Privacy",
+          "to": "/visit"
+        },
+        {
+          "label": "Accessibility",
+          "to": "/visit"
+        },
+        {
+          "label": "Contact",
+          "to": "/visit"
+        }
+      ],
+      "mobileLabels": {
+        "visit": "Visit",
+        "today": "Today",
+        "call": "Call",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu"
+      }
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "short": "Mon",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 1,
+            "closeDay": 1,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "short": "Tue",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 2,
+            "closeDay": 2,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "short": "Wed",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 3,
+            "closeDay": 3,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "short": "Thu",
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 4,
+            "closeDay": 4,
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "short": "Fri",
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 5,
+            "closeDay": 5,
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "short": "Sat",
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 6,
+            "closeDay": 6,
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "short": "Sun",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 0,
+            "closeDay": 0,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      }
+    ],
+    "metrics": {
+      "rating": 4.6,
+      "reviewCount": 120,
+      "ratingStars": "★ ★ ★ ★ ★",
+      "reviewSource": "Google"
+    },
+    "assets": {
+      "hero": {
+        "src": {
+          "__hoppAsset": "heroInteriorImage"
+        },
+        "alt": "Warm barbershop interior with chairs, mirrors, and grooming tools"
+      },
+      "shopInterior": {
+        "src": {
+          "__hoppAsset": "shopInteriorImage"
+        },
+        "alt": "Interior of the barbershop with classic stations and warm lighting"
+      },
+      "detailTools": {
+        "src": {
+          "__hoppAsset": "detailToolsImage"
+        },
+        "alt": "Barber tools arranged on a counter"
+      },
+      "detailTowels": {
+        "src": {
+          "__hoppAsset": "detailTowelsImage"
+        },
+        "alt": "Folded towels and grooming products on a shelf"
+      },
+      "workFade": {
+        "src": {
+          "__hoppAsset": "workFadeImage"
+        },
+        "alt": "Fade haircut in progress"
+      },
+      "workBeard": {
+        "src": {
+          "__hoppAsset": "workBeardImage"
+        },
+        "alt": "Beard grooming service"
+      },
+      "workScissor": {
+        "src": {
+          "__hoppAsset": "workScissorImage"
+        },
+        "alt": "Scissor cut in progress"
+      }
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/old-east-dallas-barbershop-8345d25",
+      "defaultTitle": "Old East Dallas Barbershop — Dallas, TX",
+      "defaultDescription": "Old East Dallas Barbershop in Dallas. Call, book online, or plan your visit at 515 N Carroll Ave D.",
+      "author": "Old East Dallas Barbershop",
+      "openGraph": {
+        "siteName": "Old East Dallas Barbershop",
+        "type": "website",
+        "title": "Old East Dallas Barbershop — Dallas, TX",
+        "description": "Book your visit at Old East Dallas Barbershop in Dallas.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Old East Dallas Barbershop — Dallas, TX",
+        "description": "Book your visit online.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "pages": {
+        "home": {
+          "title": "Old East Dallas Barbershop — Dallas, TX",
+          "description": "A barbershop in Dallas at 515 N Carroll Ave D. Book online or call (214) 560-7327.",
+          "ogTitle": "Old East Dallas Barbershop — Dallas",
+          "ogDescription": "Book online at Old East Dallas Barbershop.",
+          "path": "/"
+        },
+        "services": {
+          "title": "Services | Old East Dallas Barbershop",
+          "description": "View service information and book your appointment online.",
+          "ogTitle": "Services — Old East Dallas Barbershop",
+          "ogDescription": "Service details are available through booking.",
+          "path": "/services"
+        },
+        "barbers": {
+          "title": "Barbers | Old East Dallas Barbershop",
+          "description": "Meet the team at Old East Dallas Barbershop.",
+          "ogTitle": "The Team — Old East Dallas Barbershop",
+          "ogDescription": "Two verified team members are listed here.",
+          "path": "/barbers"
+        },
+        "gallery": {
+          "title": "Gallery | Old East Dallas Barbershop",
+          "description": "Browse selected work and shop imagery from Old East Dallas Barbershop.",
+          "ogTitle": "Gallery — Old East Dallas Barbershop",
+          "ogDescription": "Selected work from the shop.",
+          "path": "/gallery"
+        },
+        "about": {
+          "title": "About | Old East Dallas Barbershop",
+          "description": "Learn more about the barbershop and the team.",
+          "ogTitle": "About Old East Dallas Barbershop",
+          "ogDescription": "A straightforward barbershop presence in Dallas.",
+          "path": "/about"
+        },
+        "visit": {
+          "title": "Visit & Contact — Old East Dallas Barbershop",
+          "description": "Find Old East Dallas Barbershop at 515 N Carroll Ave D, Dallas, TX 75246, USA.",
+          "ogTitle": "Visit Old East Dallas Barbershop",
+          "ogDescription": "Call or book online.",
+          "path": "/visit"
+        },
+        "notFound": {
+          "title": "Page Not Found | Old East Dallas Barbershop",
+          "description": "The requested page could not be found.",
+          "path": "/404"
+        }
+      }
+    },
+    "servicesSection": {
+      "groups": [],
+      "services": [],
+      "guidance": [
+        {
+          "title": "Book online",
+          "description": "Use the booking link to choose a time that works for your schedule."
+        },
+        {
+          "title": "Call ahead",
+          "description": "If you have a question before you visit, call the shop directly."
+        }
+      ]
+    },
+    "teamSection": {
+      "members": [
+        {
+          "slug": "iris",
+          "name": "Iris",
+          "firstName": "Iris",
+          "role": "Owner",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "A verified team member at Old East Dallas Barbershop.",
+          "bio": "A verified team member at Old East Dallas Barbershop.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "",
+          "bookingUrl": "https://oedbarbershop.square.site/",
+          "image": {
+            "__hoppAsset": "marcusImage"
+          },
+          "imageAlt": "Iris at Old East Dallas Barbershop",
+          "availability": "Available at 515 N Carroll Ave D, Dallas, TX 75246, USA",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        },
+        {
+          "slug": "jay",
+          "name": "Jay",
+          "firstName": "Jay",
+          "role": "Barber",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "A verified team member at Old East Dallas Barbershop.",
+          "bio": "A verified team member at Old East Dallas Barbershop.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "",
+          "bookingUrl": "https://oedbarbershop.square.site/",
+          "image": {
+            "__hoppAsset": "julianImage"
+          },
+          "imageAlt": "Jay at Old East Dallas Barbershop",
+          "availability": "Available at 515 N Carroll Ave D, Dallas, TX 75246, USA",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        }
+      ],
+      "sampleWork": [
+        {
+          "__hoppAsset": "workFadeImage"
+        },
+        {
+          "__hoppAsset": "workBeardImage"
+        },
+        {
+          "__hoppAsset": "workScissorImage"
+        }
+      ]
+    },
+    "testimonialsSection": {
+      "eyebrow": "— Reviews",
+      "sectionTitle": "Client reviews",
+      "supportingCopy": "Rated 4.6 stars across 120 reviews on Google.",
+      "reviewPlatformUrl": "https://www.google.com/search?q=Old+East+Dallas+Barbershop+reviews",
+      "googleReviewCta": "Read Google Reviews",
+      "reviews": []
+    },
+    "gallerySection": {
+      "categories": [
+        "All",
+        "Fades",
+        "Classic Cuts",
+        "Texture",
+        "Beard Work",
+        "Longer Styles",
+        "The Shop"
+      ],
+      "items": [
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Fade haircut",
+          "category": "Fades",
+          "service": "Fade",
+          "barber": "Jay",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard work",
+          "category": "Beard Work",
+          "service": "Beard Work",
+          "barber": "Iris",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Scissor cut",
+          "category": "Classic Cuts",
+          "service": "Scissor Cut",
+          "barber": "Jay",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "alt": "Shop interior",
+          "category": "The Shop",
+          "service": "Shop Interior",
+          "barber": "Old East Dallas",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "alt": "Barber station",
+          "category": "The Shop",
+          "service": "Barber Station",
+          "barber": "Old East Dallas",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "alt": "Tools",
+          "category": "The Shop",
+          "service": "Tools",
+          "barber": "Old East Dallas",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "alt": "Towels and products",
+          "category": "The Shop",
+          "service": "The Shop",
+          "barber": "Old East Dallas",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Texture cut",
+          "category": "Texture",
+          "service": "Texture Cut",
+          "barber": "Jay",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Longer style cut",
+          "category": "Longer Styles",
+          "service": "Longer Style",
+          "barber": "Jay",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard trim",
+          "category": "Beard Work",
+          "service": "Beard Trim",
+          "barber": "Iris",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Low fade",
+          "category": "Fades",
+          "service": "Low Fade",
+          "barber": "Jay",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Classic cut",
+          "category": "Classic Cuts",
+          "service": "Classic Cut",
+          "barber": "Iris",
+          "span": ""
+        }
+      ]
+    },
+    "homePage": {
+      "hero": {
+        "eyebrow": "Dallas, Texas",
+        "title": "Straightforward cuts.",
+        "accentTitle": "Easy booking.",
+        "description": "A local barbershop in Dallas with online booking, a verified phone number, and a team ready to help you plan your next visit.",
+        "primaryCta": "Book Appointment",
+        "secondaryCta": "Explore Services",
+        "secondaryCtaPath": "/services",
+        "reviewsLabel": "client reviews",
+        "scrollLabel": "Scroll"
+      },
+      "brandStatement": {
+        "eyebrow": "— The Shop",
+        "titleLines": [
+          "A clean place to",
+          "keep your look"
+        ],
+        "accentTitle": "steady.",
+        "description": "Old East Dallas Barbershop offers a simple, polished experience for clients who want to keep their cut maintained without the guesswork.",
+        "imageCaption": "The shop · 515 N Carroll Ave D"
+      },
+      "featuredServices": {
+        "eyebrow": "— Services",
+        "title": "What to book",
+        "description": "Use the booking link to view available services and choose a time that fits your day.",
+        "viewAllCta": "View Full Service Menu",
+        "reserveCta": "Reserve Your Chair"
+      },
+      "principles": {
+        "eyebrow": "— What matters",
+        "title": "Service that feels",
+        "accentTitle": "clear and easy.",
+        "description": "A few simple priorities shape every visit.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Book online",
+            "body": "Choose your time directly through the Square booking page."
+          },
+          {
+            "number": "02",
+            "title": "Call ahead",
+            "body": "Use the published phone number if you need help before you arrive."
+          },
+          {
+            "number": "03",
+            "title": "Plan your visit",
+            "body": "Find the shop at 515 N Carroll Ave D in Dallas."
+          },
+          {
+            "number": "04",
+            "title": "Keep it consistent",
+            "body": "A dependable routine makes the next appointment easier to plan."
+          }
+        ]
+      },
+      "team": {
+        "eyebrow": "— The Team",
+        "title": "The people you can book with",
+        "description": "Two verified team members are listed for this location.",
+        "viewProfileCta": "View →",
+        "viewTeamCta": "Meet the Team"
+      },
+      "shop": {
+        "eyebrow": "— The Shop",
+        "titleLines": [
+          "A neighborhood",
+          "barbershop for"
+        ],
+        "accentTitle": "regular upkeep.",
+        "description": "A practical, welcoming space where the focus stays on your appointment and your schedule.",
+        "galleryCta": "View the Gallery →"
+      },
+      "selectedWork": {
+        "eyebrow": "— Recent Work",
+        "title": "Selected work",
+        "galleryCta": "Gallery →",
+        "instagramCta": "Instagram →",
+        "items": [
+          {
+            "image": {
+              "__hoppAsset": "workFadeImage"
+            },
+            "label": "Fade",
+            "barber": "Jay",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "workBeardImage"
+            },
+            "label": "Beard Work",
+            "barber": "Iris",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailToolsImage"
+            },
+            "label": "Tools",
+            "barber": "The Shop",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "workScissorImage"
+            },
+            "label": "Scissor Cut",
+            "barber": "Jay",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "shopInteriorImage"
+            },
+            "label": "The Shop",
+            "barber": "Old East Dallas",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailTowelsImage"
+            },
+            "label": "Towels",
+            "barber": "The Shop",
+            "span": ""
+          }
+        ]
+      },
+      "ritual": {
+        "eyebrow": "— How it works",
+        "title": "Your appointment,",
+        "accentTitle": "kept simple.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Book online",
+            "body": "Use the Square booking site to reserve your spot."
+          },
+          {
+            "number": "02",
+            "title": "Call if needed",
+            "body": "Reach the shop by phone if you have a question before booking."
+          },
+          {
+            "number": "03",
+            "title": "Arrive on time",
+            "body": "Plan to arrive at the address listed on the visit page."
+          },
+          {
+            "number": "04",
+            "title": "Leave refreshed",
+            "body": "A clean finish and an easier next appointment."
+          }
+        ]
+      },
+      "visit": {
+        "eyebrow": "— Visit",
+        "title": "Find the shop,",
+        "accentTitle": "then settle in.",
+        "hoursLabel": "Hours",
+        "getDirectionsCta": "Get Directions",
+        "mapCta": "Open in Maps →"
+      },
+      "faq": {
+        "eyebrow": "— Common Questions",
+        "title": "Frequently asked.",
+        "items": [
+          {
+            "question": "How do I book?",
+            "answer": "Use the published Square booking link to choose a time that works for you."
+          },
+          {
+            "question": "Can I call the shop?",
+            "answer": "Yes. The verified phone number is listed for questions and booking support."
+          },
+          {
+            "question": "What services do you offer?",
+            "answer": "The verified source did not include a public service list, so please use the booking page for the most current options."
+          },
+          {
+            "question": "Do you have reviews?",
+            "answer": "The business has a 4.6 rating across 120 reviews on Google."
+          },
+          {
+            "question": "What is the address?",
+            "answer": "515 N Carroll Ave D, Dallas, TX 75246, USA."
+          },
+          {
+            "question": "Do you have social links?",
+            "answer": "No public social link was supplied in the verified data."
+          },
+          {
+            "question": "What are your hours?",
+            "answer": "Public hours were not verified in the supplied data."
+          },
+          {
+            "question": "Where should I park?",
+            "answer": "Parking details were not verified in the supplied source."
+          }
+        ]
+      },
+      "finalCta": {
+        "eyebrow": "— Reserve your chair",
+        "title": "Book your next cut.",
+        "accentTitle": "Visit Dallas.",
+        "description": "Use the booking link or call the shop to plan your appointment.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "servicesPage": {
+      "header": {
+        "breadcrumb": "Services",
+        "eyebrow": "— Service",
+        "title": "Book the",
+        "accentTitle": "right visit.",
+        "intro": "Service details were not publicly verified in the supplied source. Please use the booking link for the latest menu and availability."
+      },
+      "guidance": {
+        "eyebrow": "— Guidance",
+        "title": "How to book"
+      },
+      "finalCta": {
+        "title": "Reserve your",
+        "accentTitle": "next visit.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barbersPage": {
+      "header": {
+        "breadcrumb": "Barbers",
+        "eyebrow": "— The Team",
+        "title": "Meet the",
+        "accentTitle": "verified team.",
+        "intro": "Two people were verified from the supplied public information."
+      },
+      "labels": {
+        "specialties": "Specialties",
+        "bestBookedFor": "Best Booked For",
+        "viewProfile": "View Profile",
+        "bookWith": "Book with"
+      },
+      "firstAvailable": {
+        "eyebrow": "— Or",
+        "title": "No preference?",
+        "accentTitle": "Book first available.",
+        "description": "Use the booking link to choose the opening that works best for your schedule.",
+        "cta": "View Availability"
+      },
+      "finalCta": {
+        "title": "Ready to book?",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barberProfilePage": {
+      "backCta": "← All Barbers",
+      "instagramCta": "Instagram ↗",
+      "philosophyLabel": "— Philosophy",
+      "specialtiesLabel": "Specialties",
+      "servicesLabel": "Services Offered",
+      "experienceLabel": "Experience",
+      "availableAtLabel": "Available At",
+      "featuredWorkLabel": "— Featured Work",
+      "recentFromPrefix": "Recent from",
+      "clientNoteLabel": "— Client Note",
+      "reserveCta": "Reserve Your Chair",
+      "viewAllCta": "View All Barbers",
+      "notFound": {
+        "eyebrow": "Not Found",
+        "title": "That barber isn't on the team.",
+        "cta": "Meet the Team"
+      }
+    },
+    "galleryPage": {
+      "header": {
+        "breadcrumb": "Gallery",
+        "eyebrow": "— Selected Work",
+        "title": "A few visual",
+        "accentTitle": "touchpoints.",
+        "intro": "A selection of shop imagery and sample visuals for the template."
+      },
+      "lightbox": {
+        "close": "Close ✕",
+        "previous": "Previous",
+        "next": "Next",
+        "bookCta": "Book This Service ↗"
+      },
+      "finalCta": {
+        "title": "Like what you see?",
+        "description": "Reserve your chair and visit the shop in Dallas.",
+        "primaryCta": "Book Appointment",
+        "instagramCta": "Follow on Instagram"
+      }
+    },
+    "aboutPage": {
+      "header": {
+        "breadcrumb": "About",
+        "eyebrow": "— The Shop",
+        "title": "A local place",
+        "titleLineTwo": "for a clean",
+        "accentTitle": "finish.",
+        "intro": "Old East Dallas Barbershop serves Dallas clients looking for a straightforward grooming experience."
+      },
+      "founding": {
+        "eyebrow": "— 01 / The Founding",
+        "title": "A verified location with no published founding story.",
+        "founderCaption": "",
+        "paragraphs": [
+          "Public information confirmed the shop name, address, phone number, booking link, and team members listed on this page.",
+          "No founding year, founder story, or family history was supplied in the verified source, so this section keeps the copy neutral and factual."
+        ]
+      },
+      "standard": {
+        "eyebrow": "— 02 / The Standard",
+        "title": "A practical",
+        "accentTitle": "approach to grooming.",
+        "paragraphs": [
+          "The focus here is simple: make booking easy, keep the contact details clear, and present the verified information in one place.",
+          "If you are planning a visit, use the booking link or call the shop directly for the most current details."
+        ]
+      },
+      "values": [
+        {
+          "number": "03",
+          "title": "Verified details",
+          "body": "The page includes only business facts that were supplied in the verified data."
+        },
+        {
+          "number": "04",
+          "title": "Easy booking",
+          "body": "The Square booking site is the main action for appointments."
+        },
+        {
+          "number": "05",
+          "title": "Clear contact",
+          "body": "The phone number and address are shown plainly so visitors can reach the shop without friction."
+        },
+        {
+          "number": "06",
+          "title": "Simple presentation",
+          "body": "The copy is polished, but it avoids making claims that were not verified."
+        }
+      ],
+      "founderNote": {
+        "eyebrow": "— A note",
+        "quote": "Use the booking link for the latest availability and service information.",
+        "author": "— Old East Dallas Barbershop"
+      },
+      "finalCta": {
+        "title": "Visit the",
+        "accentTitle": "shop.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "visitPage": {
+      "header": {
+        "breadcrumb": "Visit",
+        "eyebrow": "— Plan Your Visit",
+        "title": "Plan your",
+        "accentTitle": "visit.",
+        "intro": "Everything you need to reach the shop and book online."
+      },
+      "labels": {
+        "address": "— Address",
+        "contact": "— Contact",
+        "hours": "— Hours",
+        "directionsCta": "Get Directions",
+        "mapCta": "Open in Maps →",
+        "bookCta": "Book Appointment"
+      },
+      "form": {
+        "eyebrow": "— Send a Note",
+        "title": "Get in touch.",
+        "description": "For appointments, use the booking page. For other questions, call the shop.",
+        "availabilityCta": "View Availability",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          "email": {
+            "label": "Email",
+            "name": "email",
+            "type": "email",
+            "required": true
+          },
+          "phone": {
+            "label": "Phone",
+            "name": "phone",
+            "type": "tel",
+            "required": false
+          },
+          "reasonLabel": "Reason",
+          "messageLabel": "Message"
+        },
+        "reasons": [
+          "General Question",
+          "Appointment Question",
+          "Service Recommendation",
+          "Private Event or Group Booking",
+          "Business Inquiry"
+        ],
+        "submitLabel": "Send Message",
+        "successEyebrow": "— Sent",
+        "successMessage": "Thank you. We'll be in touch shortly.",
+        "note": "This template preserves the original front-end-only form behavior and does not transmit submissions."
+      }
+    },
+    "footer": {
+      "eyebrow": "Old East Dallas Barbershop",
+      "title": "Book online.",
+      "accentTitle": "Call ahead.",
+      "description": "A Dallas barbershop with verified contact details and online booking.",
+      "visitHeading": "Visit",
+      "hoursHeading": "Hours",
+      "bookingCta": "Reserve Your Chair",
+      "instagramCta": "Instagram ↗",
+      "rightsText": "All rights reserved."
+    },
+    "systemPages": {
+      "notFound": {
+        "eyebrow": "404 · Not Found",
+        "title": "This page is not on the menu.",
+        "description": "The page you're looking for has moved or never existed. Head back to the homepage and explore from there.",
+        "cta": "Return Home"
+      },
+      "error": {
+        "eyebrow": "Something went wrong",
+        "title": "This page didn't load.",
+        "description": "Try again, or return home and continue from there.",
+        "retryCta": "Try Again",
+        "homeCta": "Go Home"
+      }
+    }
+  }
+}
