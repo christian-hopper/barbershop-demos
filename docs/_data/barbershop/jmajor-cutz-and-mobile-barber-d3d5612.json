@@ -1,0 +1,1051 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-71dfa4d1fb05",
+  "slug": "jmajor-cutz-and-mobile-barber-d3d5612",
+  "generatedAt": "2026-06-29T21:42:05.825Z",
+  "business": {
+    "brand": {
+      "name": "JMajor Cutz & Mobile Barber",
+      "shortName": "JMajor Cutz",
+      "category": "Barber shop",
+      "descriptor": "Fresh Cuts. Convenient Booking.",
+      "logoTop": "JMajor Cutz",
+      "logoBottom": "BARBER SHOP · DALLAS",
+      "oversizedWordmark": "JMAJOR CUTZ",
+      "establishedYear": 0,
+      "city": "Dallas",
+      "state": "Texas",
+      "cityState": "Dallas, Texas",
+      "copyrightName": "JMajor Cutz & Mobile Barber",
+      "loaderStorageKey": "hopp-demo-loaded:jmajor-cutz-and-mobile-barber-d3d5612"
+    },
+    "contact": {
+      "phoneRaw": "2147560299",
+      "phoneFormatted": "(214) 756-0299",
+      "phoneHref": "tel:+12147560299",
+      "email": "",
+      "address": {
+        "line1": "4100 Commerce St Unit 4",
+        "line2": "Dallas, TX 75226, USA",
+        "full": "4100 Commerce St Unit 4, Dallas, TX 75226, USA",
+        "short": "4100 Commerce St Unit 4",
+        "mapLabel": "4100 Commerce St Unit 4, Dallas",
+        "streetAddress": "4100 Commerce St Unit 4",
+        "locality": "Dallas",
+        "region": "TX",
+        "postalCode": "75226",
+        "country": "US"
+      },
+      "bookingUrl": "https://book.squareup.com/appointments/tso4dokgq41rm5/location/L9BPFGEK3DPY5?fbclid=PAAabLOxftxUCBVrwpUgoEEWx-7ajxRjEtR6LA0343hxoPFd0y6vtixesnzZc_aem_AV0OZafV4k-DYYlF7Tp5M6GP60gwISdhjd3N4FxtQp8H9jBrvZZGTdLdPgW7WnENqeo",
+      "contactPath": "/visit",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=4100%20Commerce%20St%20Unit%204%2C%20Dallas%2C%20TX%2075226%2C%20USA",
+      "mapsUrl": "https://maps.google.com/?cid=15906441396151091241&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=4100%20Commerce%20St%20Unit%204%2C%20Dallas%2C%20TX%2075226%2C%20USA&output=embed",
+      "parking": "Parking details are not publicly listed. Please plan ahead before your visit."
+    },
+    "socialLinks": {
+      "instagram": {
+        "label": "Instagram",
+        "handle": "",
+        "url": ""
+      }
+    },
+    "navigation": {
+      "main": [
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "Services",
+          "to": "/services"
+        },
+        {
+          "label": "Barbers",
+          "to": "/barbers"
+        },
+        {
+          "label": "Gallery",
+          "to": "/gallery"
+        },
+        {
+          "label": "About",
+          "to": "/about"
+        },
+        {
+          "label": "Visit",
+          "to": "/visit"
+        }
+      ],
+      "headerCta": {
+        "label": "Book Appointment",
+        "url": "https://book.squareup.com/appointments/tso4dokgq41rm5/location/L9BPFGEK3DPY5?fbclid=PAAabLOxftxUCBVrwpUgoEEWx-7ajxRjEtR6LA0343hxoPFd0y6vtixesnzZc_aem_AV0OZafV4k-DYYlF7Tp5M6GP60gwISdhjd3N4FxtQp8H9jBrvZZGTdLdPgW7WnENqeo"
+      },
+      "mobileCta": {
+        "label": "Book Appointment",
+        "url": "https://book.squareup.com/appointments/tso4dokgq41rm5/location/L9BPFGEK3DPY5?fbclid=PAAabLOxftxUCBVrwpUgoEEWx-7ajxRjEtR6LA0343hxoPFd0y6vtixesnzZc_aem_AV0OZafV4k-DYYlF7Tp5M6GP60gwISdhjd3N4FxtQp8H9jBrvZZGTdLdPgW7WnENqeo"
+      },
+      "footerHeading": "Explore",
+      "legal": [
+        {
+          "label": "Privacy",
+          "to": "/visit"
+        },
+        {
+          "label": "Accessibility",
+          "to": "/visit"
+        },
+        {
+          "label": "Contact",
+          "to": "/visit"
+        }
+      ],
+      "mobileLabels": {
+        "visit": "Visit",
+        "today": "Today",
+        "call": "Call",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu"
+      }
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "short": "Mon",
+        "open": "00:00",
+        "close": "00:00",
+        "closed": false,
+        "open24Hours": true,
+        "display": "Open 24 hours",
+        "periods": [
+          {
+            "openDay": 1,
+            "closeDay": 2,
+            "open": "00:00",
+            "close": "00:00"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "short": "Tue",
+        "open": "00:00",
+        "close": "00:00",
+        "closed": false,
+        "open24Hours": true,
+        "display": "Open 24 hours",
+        "periods": [
+          {
+            "openDay": 2,
+            "closeDay": 3,
+            "open": "00:00",
+            "close": "00:00"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "short": "Wed",
+        "open": "00:00",
+        "close": "00:00",
+        "closed": false,
+        "open24Hours": true,
+        "display": "Open 24 hours",
+        "periods": [
+          {
+            "openDay": 3,
+            "closeDay": 4,
+            "open": "00:00",
+            "close": "00:00"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "short": "Thu",
+        "open": "00:00",
+        "close": "00:00",
+        "closed": false,
+        "open24Hours": true,
+        "display": "Open 24 hours",
+        "periods": [
+          {
+            "openDay": 4,
+            "closeDay": 5,
+            "open": "00:00",
+            "close": "00:00"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "short": "Fri",
+        "open": "00:00",
+        "close": "00:00",
+        "closed": false,
+        "open24Hours": true,
+        "display": "Open 24 hours",
+        "periods": [
+          {
+            "openDay": 5,
+            "closeDay": 6,
+            "open": "00:00",
+            "close": "00:00"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "short": "Sat",
+        "open": "00:00",
+        "close": "00:00",
+        "closed": false,
+        "open24Hours": true,
+        "display": "Open 24 hours",
+        "periods": [
+          {
+            "openDay": 6,
+            "closeDay": 0,
+            "open": "00:00",
+            "close": "00:00"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "short": "Sun",
+        "open": "00:00",
+        "close": "00:00",
+        "closed": false,
+        "open24Hours": true,
+        "display": "Open 24 hours",
+        "periods": [
+          {
+            "openDay": 0,
+            "closeDay": 1,
+            "open": "00:00",
+            "close": "00:00"
+          }
+        ]
+      }
+    ],
+    "metrics": {
+      "rating": 4.9,
+      "reviewCount": 522,
+      "ratingStars": "★ ★ ★ ★ ★",
+      "reviewSource": "Google"
+    },
+    "assets": {
+      "hero": {
+        "src": {
+          "__hoppAsset": "heroInteriorImage"
+        },
+        "alt": "Barber station with leather chair, warm lighting, and neatly arranged tools"
+      },
+      "shopInterior": {
+        "src": {
+          "__hoppAsset": "shopInteriorImage"
+        },
+        "alt": "Interior of JMajor Cutz & Mobile Barber with classic barber stations and warm tones"
+      },
+      "detailTools": {
+        "src": {
+          "__hoppAsset": "detailToolsImage"
+        },
+        "alt": "Barber tools arranged on a counter for a detailed grooming service"
+      },
+      "detailTowels": {
+        "src": {
+          "__hoppAsset": "detailTowelsImage"
+        },
+        "alt": "Folded towels and grooming products prepared for a service"
+      },
+      "workFade": {
+        "src": {
+          "__hoppAsset": "workFadeImage"
+        },
+        "alt": "Fresh fade haircut detail"
+      },
+      "workBeard": {
+        "src": {
+          "__hoppAsset": "workBeardImage"
+        },
+        "alt": "Beard grooming detail"
+      },
+      "workScissor": {
+        "src": {
+          "__hoppAsset": "workScissorImage"
+        },
+        "alt": "Scissor cutting detail at a barber station"
+      }
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/jmajor-cutz-and-mobile-barber-d3d5612",
+      "defaultTitle": "JMajor Cutz & Mobile Barber — Dallas, TX",
+      "defaultDescription": "Book barbering services in Dallas at JMajor Cutz & Mobile Barber. Review the available appointment flow and connect through the booking link.",
+      "author": "JMajor Cutz & Mobile Barber",
+      "openGraph": {
+        "siteName": "JMajor Cutz & Mobile Barber",
+        "type": "website",
+        "title": "JMajor Cutz & Mobile Barber — Dallas",
+        "description": "Barber shop in Dallas with online booking and a 4.9-star Google rating from 522 reviews.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "JMajor Cutz & Mobile Barber — Dallas",
+        "description": "Book your appointment online.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "pages": {
+        "home": {
+          "title": "JMajor Cutz & Mobile Barber — Dallas Barber Shop",
+          "description": "A Dallas barber shop with online booking, a 4.9-star Google rating, and 522 reviews. Use the booking link to reserve your appointment.",
+          "ogTitle": "JMajor Cutz & Mobile Barber — Dallas",
+          "ogDescription": "Book online and plan your visit in Dallas, TX.",
+          "path": "/"
+        },
+        "services": {
+          "title": "Services & Booking | JMajor Cutz & Mobile Barber",
+          "description": "Explore appointment booking for JMajor Cutz & Mobile Barber in Dallas. Use the booking link to see available services.",
+          "ogTitle": "Services & Booking — JMajor Cutz & Mobile Barber",
+          "ogDescription": "Book your next appointment online.",
+          "path": "/services"
+        },
+        "barbers": {
+          "title": "Barbers | JMajor Cutz & Mobile Barber",
+          "description": "Meet the verified owner, Jalen, at JMajor Cutz & Mobile Barber in Dallas.",
+          "ogTitle": "The Team at JMajor Cutz & Mobile Barber",
+          "ogDescription": "Verified people and booking access in one place.",
+          "path": "/barbers"
+        },
+        "gallery": {
+          "title": "Gallery | JMajor Cutz & Mobile Barber Dallas",
+          "description": "Browse a polished gallery presentation for the JMajor Cutz & Mobile Barber website concept.",
+          "ogTitle": "Gallery — JMajor Cutz & Mobile Barber",
+          "ogDescription": "Fresh cuts, clean detail, and a sharp finish.",
+          "path": "/gallery"
+        },
+        "about": {
+          "title": "About | JMajor Cutz & Mobile Barber",
+          "description": "Learn more about JMajor Cutz & Mobile Barber in Dallas with a focus on booking, location, and service presentation.",
+          "ogTitle": "About JMajor Cutz & Mobile Barber",
+          "ogDescription": "A Dallas barber shop built around convenient booking.",
+          "path": "/about"
+        },
+        "visit": {
+          "title": "Visit & Contact — 4100 Commerce St Unit 4, Dallas | JMajor Cutz",
+          "description": "Plan your visit to JMajor Cutz & Mobile Barber at 4100 Commerce St Unit 4, Dallas, TX 75226, USA.",
+          "ogTitle": "Visit JMajor Cutz & Mobile Barber — Dallas",
+          "ogDescription": "4100 Commerce St Unit 4, Dallas, TX 75226, USA.",
+          "path": "/visit"
+        },
+        "notFound": {
+          "title": "Page Not Found | JMajor Cutz & Mobile Barber",
+          "description": "The requested page could not be found.",
+          "path": "/404"
+        }
+      }
+    },
+    "servicesSection": {
+      "groups": [
+        {
+          "name": "Haircuts",
+          "intro": "Booking-first grooming made simple and straightforward."
+        },
+        {
+          "name": "Beard and Shave",
+          "intro": "Presentation-focused service copy for beard maintenance and cleanup."
+        },
+        {
+          "name": "Convenient Booking",
+          "intro": "Use the online appointment flow to check availability and reserve a visit."
+        }
+      ],
+      "services": [],
+      "guidance": [
+        {
+          "title": "Book online",
+          "description": "Use the Square booking link to see the current appointment flow."
+        },
+        {
+          "title": "Plan ahead",
+          "description": "Review the address and contact details before you head over to the shop."
+        },
+        {
+          "title": "Choose what fits",
+          "description": "Select the service that best matches your grooming needs once availability is shown."
+        },
+        {
+          "title": "Keep it simple",
+          "description": "If you have questions, use the contact options on the visit page."
+        }
+      ]
+    },
+    "teamSection": {
+      "members": [
+        {
+          "slug": "jalen",
+          "name": "Jalen",
+          "firstName": "Jalen",
+          "role": "Owner",
+          "experience": "",
+          "specialties": [
+            "Shop leadership",
+            "Booking coordination",
+            "Client service"
+          ],
+          "shortBio": "The verified owner of JMajor Cutz & Mobile Barber, focused on keeping the booking experience simple and professional.",
+          "bio": "Jalen is the verified owner listed in the supplied public information. The website concept keeps the presentation focused on the shop, the booking link, and a straightforward client experience.",
+          "philosophy": "A clear booking process and a clean finish help the visit feel easy from start to finish.",
+          "services": [],
+          "instagram": "",
+          "bookingUrl": "https://book.squareup.com/appointments/tso4dokgq41rm5/location/L9BPFGEK3DPY5?fbclid=PAAabLOxftxUCBVrwpUgoEEWx-7ajxRjEtR6LA0343hxoPFd0y6vtixesnzZc_aem_AV0OZafV4k-DYYlF7Tp5M6GP60gwISdhjd3N4FxtQp8H9jBrvZZGTdLdPgW7WnENqeo",
+          "image": {
+            "__hoppAsset": "marcusImage"
+          },
+          "imageAlt": "Jalen, verified owner of JMajor Cutz & Mobile Barber",
+          "availability": "Booking is handled through the online appointment link.",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        }
+      ],
+      "sampleWork": [
+        {
+          "__hoppAsset": "workFadeImage"
+        },
+        {
+          "__hoppAsset": "workBeardImage"
+        },
+        {
+          "__hoppAsset": "workScissorImage"
+        }
+      ]
+    },
+    "testimonialsSection": {
+      "eyebrow": "— 07 / Reviews",
+      "sectionTitle": "Client reviews",
+      "supportingCopy": "Strong social proof with a 4.9-star rating from 522 Google reviews.",
+      "reviewPlatformUrl": "https://www.google.com/search?q=JMajor+Cutz+%26+Mobile+Barber+reviews",
+      "googleReviewCta": "Read Google Reviews",
+      "reviews": []
+    },
+    "gallerySection": {
+      "categories": [
+        "All",
+        "Fades",
+        "Classic Cuts",
+        "Texture",
+        "Beard Work",
+        "Longer Styles",
+        "The Shop"
+      ],
+      "items": [
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Fresh fade detail",
+          "category": "Fades",
+          "service": "Fade",
+          "barber": "JMajor Cutz",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard grooming detail",
+          "category": "Beard Work",
+          "service": "Beard Work",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Scissor cut detail",
+          "category": "Classic Cuts",
+          "service": "Scissor Cut",
+          "barber": "JMajor Cutz",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "alt": "Shop interior",
+          "category": "The Shop",
+          "service": "Shop Floor",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "alt": "Barber station",
+          "category": "The Shop",
+          "service": "Barber Station",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "alt": "Tools of the trade",
+          "category": "The Shop",
+          "service": "Tools",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "alt": "Towels and grooming setup",
+          "category": "The Shop",
+          "service": "Ritual",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Textured cut detail",
+          "category": "Texture",
+          "service": "Textured Cut",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Longer style scissor cut detail",
+          "category": "Longer Styles",
+          "service": "Scissor Cut",
+          "barber": "JMajor Cutz",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard and lineup detail",
+          "category": "Beard Work",
+          "service": "Beard + Lineup",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Low fade detail",
+          "category": "Fades",
+          "service": "Low Fade",
+          "barber": "JMajor Cutz",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Clean finished cut detail",
+          "category": "Classic Cuts",
+          "service": "Classic Cut",
+          "barber": "JMajor Cutz",
+          "span": ""
+        }
+      ]
+    },
+    "homePage": {
+      "hero": {
+        "eyebrow": "Dallas, Texas",
+        "title": "Fresh cuts.",
+        "accentTitle": "Easy booking.",
+        "description": "A polished barbershop concept for clients who want a straightforward way to schedule an appointment and walk out looking sharp.",
+        "primaryCta": "Book Appointment",
+        "secondaryCta": "Explore Services",
+        "secondaryCtaPath": "/services",
+        "reviewsLabel": "Google reviews",
+        "scrollLabel": "Scroll"
+      },
+      "brandStatement": {
+        "eyebrow": "— 01 / The Shop",
+        "titleLines": [
+          "Built for clients",
+          "who want the"
+        ],
+        "accentTitle": "process to feel simple.",
+        "description": "JMajor Cutz & Mobile Barber centers the visit around booking, convenience, and a clean finish from start to finish.",
+        "imageCaption": "Convenient grooming · Dallas, TX"
+      },
+      "featuredServices": {
+        "eyebrow": "— 02 / Booking",
+        "title": "The appointment flow",
+        "description": "Use the online booking link to review availability and reserve your visit.",
+        "viewAllCta": "View More",
+        "reserveCta": "Reserve Your Chair"
+      },
+      "principles": {
+        "eyebrow": "— 03 / The Standard",
+        "title": "A simple standard,",
+        "accentTitle": "done well.",
+        "description": "The experience is framed around clarity, convenience, and a polished finish.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Book online",
+            "body": "Use the Square booking link to start the appointment process."
+          },
+          {
+            "number": "02",
+            "title": "Plan the visit",
+            "body": "Review the Dallas address before you head over."
+          },
+          {
+            "number": "03",
+            "title": "Keep it polished",
+            "body": "The site copy emphasizes a clean, sharp presentation without adding unverified claims."
+          },
+          {
+            "number": "04",
+            "title": "Return when ready",
+            "body": "Rebook through the same link whenever you're ready for your next cut."
+          }
+        ]
+      },
+      "team": {
+        "eyebrow": "— 04 / The Team",
+        "title": "The JMajor Cutz team",
+        "description": "Verified people only, presented with a neutral, professional tone.",
+        "viewProfileCta": "View →",
+        "viewTeamCta": "Meet the Team"
+      },
+      "shop": {
+        "eyebrow": "— 05 / The Shop",
+        "titleLines": [
+          "A clean place to",
+          "book and"
+        ],
+        "accentTitle": "get refreshed.",
+        "description": "The concept is designed to feel straightforward, polished, and easy to navigate.",
+        "galleryCta": "View the Gallery →"
+      },
+      "selectedWork": {
+        "eyebrow": "— 06 / Recent Work",
+        "title": "Recent work",
+        "galleryCta": "Gallery →",
+        "instagramCta": "Instagram →",
+        "items": [
+          {
+            "image": {
+              "__hoppAsset": "workFadeImage"
+            },
+            "label": "Fade",
+            "barber": "JMajor Cutz",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "workBeardImage"
+            },
+            "label": "Beard work",
+            "barber": "JMajor Cutz",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailToolsImage"
+            },
+            "label": "Tools of the trade",
+            "barber": "The Shop",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "workScissorImage"
+            },
+            "label": "Scissor cut",
+            "barber": "JMajor Cutz",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "shopInteriorImage"
+            },
+            "label": "The Shop",
+            "barber": "JMajor Cutz",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailTowelsImage"
+            },
+            "label": "Prep and finish",
+            "barber": "The Shop",
+            "span": ""
+          }
+        ]
+      },
+      "ritual": {
+        "eyebrow": "— 08 / The Process",
+        "title": "Your appointment,",
+        "accentTitle": "kept simple.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Choose your time",
+            "body": "Open the booking link and select an available appointment."
+          },
+          {
+            "number": "02",
+            "title": "Confirm the visit",
+            "body": "Review the Dallas location and contact details."
+          },
+          {
+            "number": "03",
+            "title": "Arrive prepared",
+            "body": "Head to 4100 Commerce St Unit 4 for your appointment."
+          },
+          {
+            "number": "04",
+            "title": "Leave refreshed",
+            "body": "Finish with a sharp cut and a clear next step for rebooking."
+          }
+        ]
+      },
+      "visit": {
+        "eyebrow": "— 09 / Visit",
+        "title": "Your chair",
+        "accentTitle": "is ready.",
+        "hoursLabel": "Hours",
+        "getDirectionsCta": "Get Directions",
+        "mapCta": "Open in Maps →"
+      },
+      "faq": {
+        "eyebrow": "— 10 / Common Questions",
+        "title": "Frequently asked.",
+        "items": [
+          {
+            "question": "How do I book?",
+            "answer": "Use the Square booking link provided on the site to reserve an appointment."
+          },
+          {
+            "question": "What is the address?",
+            "answer": "4100 Commerce St Unit 4, Dallas, TX 75226, USA."
+          },
+          {
+            "question": "Who owns the shop?",
+            "answer": "The verified owner named in the supplied information is Jalen."
+          },
+          {
+            "question": "What services are listed?",
+            "answer": "No public service menu was supplied, so the site keeps the service section general and booking-focused."
+          },
+          {
+            "question": "What is the rating?",
+            "answer": "The supplied Google rating is 4.9 stars from 522 reviews."
+          },
+          {
+            "question": "Can I contact the shop by email?",
+            "answer": "No email address was supplied in the verified source information."
+          },
+          {
+            "question": "Is there an Instagram link?",
+            "answer": "No public Instagram URL was supplied, so none is shown here."
+          },
+          {
+            "question": "How should I plan my visit?",
+            "answer": "Book online, review the address, and use the map link or directions link before you head out."
+          }
+        ]
+      },
+      "finalCta": {
+        "eyebrow": "— Reserve your chair",
+        "title": "Book with",
+        "accentTitle": "confidence.",
+        "description": "Use the online appointment link to plan your next visit.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "servicesPage": {
+      "header": {
+        "breadcrumb": "Services",
+        "eyebrow": "— The Menu",
+        "title": "The booking",
+        "accentTitle": "menu.",
+        "intro": "A clean, booking-focused presentation for a Dallas barber shop with a verified Square appointment link."
+      },
+      "guidance": {
+        "eyebrow": "— Guidance",
+        "title": "Start with the booking link."
+      },
+      "finalCta": {
+        "title": "Reserve your",
+        "accentTitle": "next visit.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barbersPage": {
+      "header": {
+        "breadcrumb": "Barbers",
+        "eyebrow": "— The Team",
+        "title": "Meet the",
+        "accentTitle": "shop team.",
+        "intro": "The only verified person supplied publicly is Jalen, the owner. The rest of the presentation stays neutral and avoids adding unverified staff."
+      },
+      "labels": {
+        "specialties": "Specialties",
+        "bestBookedFor": "Best Booked For",
+        "viewProfile": "View Profile",
+        "bookWith": "Book with"
+      },
+      "firstAvailable": {
+        "eyebrow": "— Or",
+        "title": "No preference?",
+        "accentTitle": "Book online.",
+        "description": "Use the appointment link to find availability and move forward quickly.",
+        "cta": "View Availability"
+      },
+      "finalCta": {
+        "title": "Ready to book?",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barberProfilePage": {
+      "backCta": "← All Barbers",
+      "instagramCta": "Instagram ↗",
+      "philosophyLabel": "— Philosophy",
+      "specialtiesLabel": "Specialties",
+      "servicesLabel": "Services Offered",
+      "experienceLabel": "Experience",
+      "availableAtLabel": "Available At",
+      "featuredWorkLabel": "— Featured Work",
+      "recentFromPrefix": "Recent from",
+      "clientNoteLabel": "— Client Note",
+      "reserveCta": "Reserve Your Chair",
+      "viewAllCta": "View All Barbers",
+      "notFound": {
+        "eyebrow": "Not Found",
+        "title": "That barber isn't on the team.",
+        "cta": "Meet the Team"
+      }
+    },
+    "galleryPage": {
+      "header": {
+        "breadcrumb": "Gallery",
+        "eyebrow": "— Selected Work",
+        "title": "The work speaks",
+        "accentTitle": "in the details.",
+        "intro": "A polished gallery layout for the JMajor Cutz & Mobile Barber concept."
+      },
+      "lightbox": {
+        "close": "Close ✕",
+        "previous": "Previous",
+        "next": "Next",
+        "bookCta": "Book This Service ↗"
+      },
+      "finalCta": {
+        "title": "Like what you see?",
+        "description": "Reserve your chair and keep the process simple.",
+        "primaryCta": "Book Appointment",
+        "instagramCta": "Follow on Instagram"
+      }
+    },
+    "aboutPage": {
+      "header": {
+        "breadcrumb": "About",
+        "eyebrow": "— The Shop",
+        "title": "Built around",
+        "titleLineTwo": "a simple",
+        "accentTitle": "booking experience.",
+        "intro": "JMajor Cutz & Mobile Barber presents a straightforward grooming experience centered on convenience, clarity, and a clean finish."
+      },
+      "founding": {
+        "eyebrow": "— 01 / The Background",
+        "title": "A shop presented with clarity.",
+        "founderCaption": "Jalen · Owner",
+        "paragraphs": [
+          "The verified public information identifies Jalen as the owner and confirms the Dallas address and booking link.",
+          "This temporary website concept keeps the story neutral and avoids adding any founding history, legacy, or unverified details."
+        ]
+      },
+      "standard": {
+        "eyebrow": "— 02 / The Standard",
+        "title": "The JMajor Cutz",
+        "accentTitle": "standard.",
+        "paragraphs": [
+          "The focus stays on the essentials: book online, arrive at the listed address, and leave with a clean, confident finish.",
+          "The copy is intentionally polished without turning assumptions into facts."
+        ]
+      },
+      "values": [
+        {
+          "number": "03",
+          "title": "Clear booking",
+          "body": "The Square link is the primary call to action and the most reliable way to plan a visit."
+        },
+        {
+          "number": "04",
+          "title": "Verified details only",
+          "body": "The site reflects only the public facts supplied: name, address, phone, booking link, rating, and owner."
+        },
+        {
+          "number": "05",
+          "title": "Clean presentation",
+          "body": "The layout is framed to feel professional and easy to navigate."
+        },
+        {
+          "number": "06",
+          "title": "Dallas location",
+          "body": "The address is shown clearly so clients can plan ahead with confidence."
+        }
+      ],
+      "founderNote": {
+        "eyebrow": "— A note from the shop",
+        "quote": "The goal here is simple: make booking easy, keep the details clear, and present the shop with confidence.",
+        "author": "— JMajor Cutz & Mobile Barber"
+      },
+      "finalCta": {
+        "title": "Visit the",
+        "accentTitle": "shop.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "visitPage": {
+      "header": {
+        "breadcrumb": "Visit",
+        "eyebrow": "— Plan Your Visit",
+        "title": "Plan your",
+        "accentTitle": "visit.",
+        "intro": "Everything you need to find the shop, call ahead, and book online."
+      },
+      "labels": {
+        "address": "— Address",
+        "contact": "— Contact",
+        "hours": "— Hours",
+        "directionsCta": "Get Directions",
+        "mapCta": "Open in Maps →",
+        "bookCta": "Book Appointment"
+      },
+      "form": {
+        "eyebrow": "— Send a Note",
+        "title": "Get in touch.",
+        "description": "Use the booking link for appointments. If you need to call, use the listed phone number.",
+        "availabilityCta": "View Availability",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          "email": {
+            "label": "Email",
+            "name": "email",
+            "type": "email",
+            "required": true
+          },
+          "phone": {
+            "label": "Phone",
+            "name": "phone",
+            "type": "tel",
+            "required": false
+          },
+          "reasonLabel": "Reason",
+          "messageLabel": "Message"
+        },
+        "reasons": [
+          "General Question",
+          "Appointment Question",
+          "Service Recommendation",
+          "Private Event or Group Booking",
+          "Business Inquiry"
+        ],
+        "submitLabel": "Send Message",
+        "successEyebrow": "— Sent",
+        "successMessage": "Thank you. We'll be in touch shortly.",
+        "note": "This template preserves the original front-end-only form behavior and does not transmit submissions."
+      }
+    },
+    "footer": {
+      "eyebrow": "JMajor Cutz & Mobile Barber",
+      "title": "Fresh cuts.",
+      "accentTitle": "Easy booking.",
+      "description": "A Dallas barber shop centered on clear contact details, online booking, and a polished presentation.",
+      "visitHeading": "Visit",
+      "hoursHeading": "Hours",
+      "bookingCta": "Reserve Your Chair",
+      "instagramCta": "Instagram ↗",
+      "rightsText": "All rights reserved."
+    },
+    "systemPages": {
+      "notFound": {
+        "eyebrow": "404 · Not Found",
+        "title": "This page is not on the menu.",
+        "description": "The page you're looking for has moved or never existed. Head back to the homepage and explore from there.",
+        "cta": "Return Home"
+      },
+      "error": {
+        "eyebrow": "Something went wrong",
+        "title": "This page didn't load.",
+        "description": "Try again, or return home and continue from there.",
+        "retryCta": "Try Again",
+        "homeCta": "Go Home"
+      }
+    }
+  }
+}

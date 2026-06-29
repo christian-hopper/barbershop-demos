@@ -20,6 +20,16 @@
       "dataPath": "_data/barbershop/east-quarter-barber-downtown-dallas-texas-a46e479.json",
       "dataSha256": "214994602ed4f8746685c6f78dd1d703b655f43770304bdbee53dc085c8d8343",
       "updatedAt": "2026-06-28T23:50:38.768Z"
+    },
+    {
+      "slug": "jmajor-cutz-and-mobile-barber-d3d5612",
+      "businessName": "JMajor Cutz & Mobile Barber",
+      "template": "barbershop",
+      "templateVersion": "v1-71dfa4d1fb05",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/jmajor-cutz-and-mobile-barber-d3d5612/",
+      "dataPath": "_data/barbershop/jmajor-cutz-and-mobile-barber-d3d5612.json",
+      "dataSha256": "759711d773aca000405246252ac499b8b2aad5c78a74841d742a5421eaaf2972",
+      "updatedAt": "2026-06-29T21:42:05.831Z"
     }
   ]
 }
