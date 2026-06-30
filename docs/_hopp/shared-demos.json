@@ -50,6 +50,16 @@
       "dataPath": "_data/barbershop/old-east-dallas-barbershop-8345d25.json",
       "dataSha256": "10b4bbe786c3b1da9fc163b0401129b201152b3e706e2a3cdb705907b15aa825",
       "updatedAt": "2026-06-29T21:46:44.088Z"
+    },
+    {
+      "slug": "trappin-cutz-barbershop-fc2f2d9",
+      "businessName": "Trappin Cutz Barbershop",
+      "template": "barbershop",
+      "templateVersion": "v1-71dfa4d1fb05",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/trappin-cutz-barbershop-fc2f2d9/",
+      "dataPath": "_data/barbershop/trappin-cutz-barbershop-fc2f2d9.json",
+      "dataSha256": "645c99314bc6c7f7ae0b643b45ae10a16a9569d2fb94f0c02710f51bff209151",
+      "updatedAt": "2026-06-30T19:05:43.984Z"
     }
   ]
 }
