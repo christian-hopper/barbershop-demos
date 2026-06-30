@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "demos": [
     {
+      "slug": "acapulco-barber-shop-00e7546",
+      "businessName": "Acapulco Barber Shop",
+      "template": "barbershop",
+      "templateVersion": "v1-71dfa4d1fb05",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/acapulco-barber-shop-00e7546/",
+      "dataPath": "_data/barbershop/acapulco-barber-shop-00e7546.json",
+      "dataSha256": "dd1b2964bd57c2aa9df1ace050e115b1eacec00e52649b51d6ab1a75803a6e69",
+      "updatedAt": "2026-06-30T15:44:39.009Z"
+    },
+    {
       "slug": "blade-21-barbershop-salon-a8001ec",
       "businessName": "BLADE 21 BARBERSHOP + SALON",
       "template": "barbershop",
