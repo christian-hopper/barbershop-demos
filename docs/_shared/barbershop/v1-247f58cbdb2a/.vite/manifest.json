@@ -1,0 +1,80 @@
+{
+  "index.html": {
+    "file": "assets/index-DaYIVBzI.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/main-app.tsx"
+    ],
+    "css": [
+      "assets/index-Ckse70hf.css"
+    ]
+  },
+  "src/assets/images/barber-adrian.jpg": {
+    "file": "assets/barber-adrian-cAH0UZlZ.jpg",
+    "src": "src/assets/images/barber-adrian.jpg"
+  },
+  "src/assets/images/barber-ellis.jpg": {
+    "file": "assets/barber-ellis-DcHZQUA3.jpg",
+    "src": "src/assets/images/barber-ellis.jpg"
+  },
+  "src/assets/images/barber-julian.jpg": {
+    "file": "assets/barber-julian-CT69n5YN.jpg",
+    "src": "src/assets/images/barber-julian.jpg"
+  },
+  "src/assets/images/barber-marcus.jpg": {
+    "file": "assets/barber-marcus-CDVGDdn3.jpg",
+    "src": "src/assets/images/barber-marcus.jpg"
+  },
+  "src/assets/images/detail-tools.jpg": {
+    "file": "assets/detail-tools-Cqgx9p7W.jpg",
+    "src": "src/assets/images/detail-tools.jpg"
+  },
+  "src/assets/images/detail-towels.jpg": {
+    "file": "assets/detail-towels-C-N-rtoQ.jpg",
+    "src": "src/assets/images/detail-towels.jpg"
+  },
+  "src/assets/images/hero-interior.jpg": {
+    "file": "assets/hero-interior-BI5V78gi.jpg",
+    "src": "src/assets/images/hero-interior.jpg"
+  },
+  "src/assets/images/shop-interior.jpg": {
+    "file": "assets/shop-interior-CK21qgPl.jpg",
+    "src": "src/assets/images/shop-interior.jpg"
+  },
+  "src/assets/images/work-beard.jpg": {
+    "file": "assets/work-beard-BrGJR5cz.jpg",
+    "src": "src/assets/images/work-beard.jpg"
+  },
+  "src/assets/images/work-fade.jpg": {
+    "file": "assets/work-fade-B6_VLi9d.jpg",
+    "src": "src/assets/images/work-fade.jpg"
+  },
+  "src/assets/images/work-scissor.jpg": {
+    "file": "assets/work-scissor-CcMg54Jf.jpg",
+    "src": "src/assets/images/work-scissor.jpg"
+  },
+  "src/main-app.tsx": {
+    "file": "assets/main-app-BYgaqrAw.js",
+    "name": "main-app",
+    "src": "src/main-app.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "assets": [
+      "assets/barber-adrian-cAH0UZlZ.jpg",
+      "assets/barber-ellis-DcHZQUA3.jpg",
+      "assets/barber-julian-CT69n5YN.jpg",
+      "assets/barber-marcus-CDVGDdn3.jpg",
+      "assets/detail-tools-Cqgx9p7W.jpg",
+      "assets/detail-towels-C-N-rtoQ.jpg",
+      "assets/hero-interior-BI5V78gi.jpg",
+      "assets/shop-interior-CK21qgPl.jpg",
+      "assets/work-beard-BrGJR5cz.jpg",
+      "assets/work-fade-B6_VLi9d.jpg",
+      "assets/work-scissor-CcMg54Jf.jpg"
+    ]
+  }
+}
