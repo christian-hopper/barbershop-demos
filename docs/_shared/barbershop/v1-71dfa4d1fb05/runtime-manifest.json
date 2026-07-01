@@ -5,5 +5,9 @@
   "sharedBasePath": "/barbershop-demos/_shared/barbershop/v1-71dfa4d1fb05/",
   "runtimeDigest": "de4a5a602798d327bd2a16c3a548720e15e736be182e7ea5f03c7bafe65b1f9f",
   "immutable": true,
+<<<<<<< HEAD
   "createdAt": "2026-06-29T21:42:05.823Z"
+=======
+  "createdAt": "2026-06-30T06:49:29.422Z"
+>>>>>>> b1de8e8 (feat: add Home Services runtime and reset demo catalog)
 }

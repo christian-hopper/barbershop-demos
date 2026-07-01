@@ -1,0 +1,105 @@
+{
+  "index.html": {
+    "file": "assets/index-qNbMR5ac.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/main-app.tsx"
+    ],
+    "css": [
+      "assets/index-DbH6vOZG.css"
+    ]
+  },
+  "src/assets/images/air-light.jpg": {
+    "file": "assets/air-light-C80xz9Jy.jpg",
+    "src": "src/assets/images/air-light.jpg"
+  },
+  "src/assets/images/desert-home.jpg": {
+    "file": "assets/desert-home-G8ToyBSO.jpg",
+    "src": "src/assets/images/desert-home.jpg"
+  },
+  "src/assets/images/diffuser.jpg": {
+    "file": "assets/diffuser-C0vLsC3b.jpg",
+    "src": "src/assets/images/diffuser.jpg"
+  },
+  "src/assets/images/hero-residence.jpg": {
+    "file": "assets/hero-residence-o2UMkgMv.jpg",
+    "src": "src/assets/images/hero-residence.jpg"
+  },
+  "src/assets/images/interior-warm.jpg": {
+    "file": "assets/interior-warm-BymzQSHZ.jpg",
+    "src": "src/assets/images/interior-warm.jpg"
+  },
+  "src/assets/images/mechanical-room.jpg": {
+    "file": "assets/mechanical-room-BGrhsTWt.jpg",
+    "src": "src/assets/images/mechanical-room.jpg"
+  },
+  "src/assets/images/technician.jpg": {
+    "file": "assets/technician-CqSi3E30.jpg",
+    "src": "src/assets/images/technician.jpg"
+  },
+  "src/assets/images/thermostat.jpg": {
+    "file": "assets/thermostat-wKsnFN8j.jpg",
+    "src": "src/assets/images/thermostat.jpg"
+  },
+  "src/assets/images/trades/electrical-detail.svg": {
+    "file": "assets/electrical-detail-BBOXuOPO.svg",
+    "src": "src/assets/images/trades/electrical-detail.svg"
+  },
+  "src/assets/images/trades/electrical-hero.svg": {
+    "file": "assets/electrical-hero-BGpHNlHI.svg",
+    "src": "src/assets/images/trades/electrical-hero.svg"
+  },
+  "src/assets/images/trades/electrical-panel.svg": {
+    "file": "assets/electrical-panel-C92eVcIu.svg",
+    "src": "src/assets/images/trades/electrical-panel.svg"
+  },
+  "src/assets/images/trades/electrical-technician.svg": {
+    "file": "assets/electrical-technician-KqB7hbWm.svg",
+    "src": "src/assets/images/trades/electrical-technician.svg"
+  },
+  "src/assets/images/trades/plumbing-detail.svg": {
+    "file": "assets/plumbing-detail-BnCEqSX-.svg",
+    "src": "src/assets/images/trades/plumbing-detail.svg"
+  },
+  "src/assets/images/trades/plumbing-hero.svg": {
+    "file": "assets/plumbing-hero-DMKuznkQ.svg",
+    "src": "src/assets/images/trades/plumbing-hero.svg"
+  },
+  "src/assets/images/trades/plumbing-system.svg": {
+    "file": "assets/plumbing-system-B9Zra_xS.svg",
+    "src": "src/assets/images/trades/plumbing-system.svg"
+  },
+  "src/assets/images/trades/plumbing-technician.svg": {
+    "file": "assets/plumbing-technician-DzWCTpJc.svg",
+    "src": "src/assets/images/trades/plumbing-technician.svg"
+  },
+  "src/main-app.tsx": {
+    "file": "assets/main-app-B5lFGJOU.js",
+    "name": "main-app",
+    "src": "src/main-app.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "assets": [
+      "assets/air-light-C80xz9Jy.jpg",
+      "assets/desert-home-G8ToyBSO.jpg",
+      "assets/diffuser-C0vLsC3b.jpg",
+      "assets/hero-residence-o2UMkgMv.jpg",
+      "assets/interior-warm-BymzQSHZ.jpg",
+      "assets/mechanical-room-BGrhsTWt.jpg",
+      "assets/technician-CqSi3E30.jpg",
+      "assets/thermostat-wKsnFN8j.jpg",
+      "assets/plumbing-hero-DMKuznkQ.svg",
+      "assets/plumbing-technician-DzWCTpJc.svg",
+      "assets/plumbing-system-B9Zra_xS.svg",
+      "assets/plumbing-detail-BnCEqSX-.svg",
+      "assets/electrical-hero-BGpHNlHI.svg",
+      "assets/electrical-technician-KqB7hbWm.svg",
+      "assets/electrical-panel-C92eVcIu.svg",
+      "assets/electrical-detail-BBOXuOPO.svg"
+    ]
+  }
+}

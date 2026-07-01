@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
+<<<<<<< HEAD
   "demos": [
     {
       "slug": "acapulco-barber-shop-00e7546",
@@ -62,4 +63,7 @@
       "updatedAt": "2026-06-30T19:05:43.984Z"
     }
   ]
+=======
+  "demos": []
+>>>>>>> b1de8e8 (feat: add Home Services runtime and reset demo catalog)
 }

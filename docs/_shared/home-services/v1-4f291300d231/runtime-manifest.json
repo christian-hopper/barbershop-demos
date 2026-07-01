@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "template": "home-services",
+  "templateVersion": "v1-4f291300d231",
+  "sharedBasePath": "/barbershop-demos/_shared/home-services/v1-4f291300d231/",
+  "runtimeDigest": "da7d48d2184349f7a387f418d31317b2e6ee73198bf166847719406b107b9452",
+  "immutable": true,
+  "createdAt": "2026-06-30T06:49:40.658Z"
+}

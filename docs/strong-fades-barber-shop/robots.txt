@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://christian-hopper.github.io/barbershop-demos/strong-fades-barber-shop/sitemap.xml

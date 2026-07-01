@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://christian-hopper.github.io/barbershop-demos/the-culture-barbershop/sitemap.xml

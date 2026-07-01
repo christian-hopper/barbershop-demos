@@ -1,19 +1,19 @@
-# Hopp Digital Barbershop Demos
+# Hopp Digital Demo Showroom
 
-Compiled demo websites published through GitHub Pages.
+This repository keeps the existing `barbershop-demos` name and GitHub Pages URL, but now publishes both protected demo families:
+
+- Barbershops
+- Home Services: HVAC, plumbing, and electrical
+
+The repository has been intentionally reset to a clean foundation. Business demos are commissioned only through Hopp Digital Sales OS.
 
 ```text
 docs/
 ├── .nojekyll
-├── shop-one/
-├── shop-two/
-└── ...
+├── _hopp/shared-demos.json
+└── _shared/
+    ├── barbershop/<version>/
+    └── home-services/<version>/
 ```
 
-Configure GitHub Pages to deploy the default branch from `/docs`.
-
-Do not edit compiled shop files manually. Update `src/data/business.ts` in the sibling reusable template and run:
-
-```bash
-npm run demo:publish
-```
+New commissions add thin business route folders and template-specific data under `_data/`. Do not edit compiled shared runtimes or generated business folders manually. Configure GitHub Pages to deploy the default branch from `/docs`.
