@@ -22,6 +22,16 @@
       "updatedAt": "2026-06-29T00:02:56.573Z"
     },
     {
+      "slug": "deiners-deep-cutz-on-the-go-5effd48",
+      "businessName": "Deiner's Deep Cutz On The Go",
+      "template": "barbershop",
+      "templateVersion": "v1-247f58cbdb2a",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/deiners-deep-cutz-on-the-go-5effd48/",
+      "dataPath": "_data/barbershop/deiners-deep-cutz-on-the-go-5effd48.json",
+      "dataSha256": "11a30e38b0b3f48c5419f85b0dcb3a9994decca031b4ee802d0e4184bec5d85a",
+      "updatedAt": "2026-07-02T18:19:36.701Z"
+    },
+    {
       "slug": "east-quarter-barber-downtown-dallas-texas-a46e479",
       "businessName": "East Quarter Barber",
       "template": "barbershop",
