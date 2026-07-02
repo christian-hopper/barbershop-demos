@@ -72,6 +72,16 @@
       "updatedAt": "2026-06-29T21:46:44.087Z"
     },
     {
+      "slug": "royal-cuts-0e5ce76",
+      "businessName": "ROYAL CUTS",
+      "template": "barbershop",
+      "templateVersion": "v1-247f58cbdb2a",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/royal-cuts-0e5ce76/",
+      "dataPath": "_data/barbershop/royal-cuts-0e5ce76.json",
+      "dataSha256": "520191af33a9845c000d869937e7e59c6a3a7d512f7978e7aae63b8be194c0e5",
+      "updatedAt": "2026-07-02T18:33:56.985Z"
+    },
+    {
       "slug": "trappin-cutz-barbershop-fc2f2d9",
       "businessName": "Trappin Cutz Barbershop",
       "template": "barbershop",
