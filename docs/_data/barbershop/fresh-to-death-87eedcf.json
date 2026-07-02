@@ -1,0 +1,1082 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-247f58cbdb2a",
+  "slug": "fresh-to-death-87eedcf",
+  "generatedAt": "2026-07-02T18:49:16.695Z",
+  "business": {
+    "brand": {
+      "name": "Fresh to Death",
+      "shortName": "Fresh to Death",
+      "category": "Barber shop",
+      "descriptor": "Professional cuts. Considered presentation.",
+      "logoTop": "Fresh to Death",
+      "logoBottom": "BARBERS · BAYTOWN",
+      "oversizedWordmark": "FRESH TO DEATH",
+      "establishedYear": 0,
+      "city": "Baytown",
+      "state": "Texas",
+      "cityState": "Baytown, Texas",
+      "copyrightName": "Fresh to Death",
+      "loaderStorageKey": "hopp-demo-loaded:fresh-to-death-87eedcf"
+    },
+    "contact": {
+      "phoneRaw": "2818397496",
+      "phoneFormatted": "(281) 839-7496",
+      "phoneHref": "tel:+12818397496",
+      "email": "",
+      "address": {
+        "line1": "2121 W Baker Rd Ste 150",
+        "line2": "Baytown TX 77520",
+        "full": "2121 W Baker Rd Ste 150, Baytown, TX 77520",
+        "short": "2121 W Baker Rd Ste 150",
+        "mapLabel": "2121 W Baker Rd Ste 150, Baytown, TX 77520",
+        "streetAddress": "2121 W Baker Rd Ste 150",
+        "locality": "Baytown",
+        "region": "TX",
+        "postalCode": "77520",
+        "country": "US"
+      },
+      "bookingUrl": "https://freshtodeath.glossgenius.com/",
+      "contactPath": "/visit",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=2121%20W%20Baker%20Rd%20Ste%20150%2C%20Baytown%2C%20TX%2077520",
+      "mapsUrl": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=2121%20W%20Baker%20Rd%20Ste%20150%2C%20Baytown%2C%20TX%2077520&output=embed",
+      "parking": "Call the shop for current parking and arrival details."
+    },
+    "socialLinks": {
+      "instagram": {
+        "label": "Google",
+        "handle": "Google Business",
+        "url": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+      }
+    },
+    "navigation": {
+      "main": [
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "Services",
+          "to": "/services"
+        },
+        {
+          "label": "Barbers",
+          "to": "/barbers"
+        },
+        {
+          "label": "Gallery",
+          "to": "/gallery"
+        },
+        {
+          "label": "About",
+          "to": "/about"
+        },
+        {
+          "label": "Visit",
+          "to": "/visit"
+        }
+      ],
+      "headerCta": {
+        "label": "Book Appointment",
+        "url": "https://freshtodeath.glossgenius.com/"
+      },
+      "mobileCta": {
+        "label": "Book Appointment",
+        "url": "https://freshtodeath.glossgenius.com/"
+      },
+      "footerHeading": "Explore",
+      "legal": [
+        {
+          "label": "Privacy",
+          "to": "/visit"
+        },
+        {
+          "label": "Accessibility",
+          "to": "/visit"
+        },
+        {
+          "label": "Contact",
+          "to": "/visit"
+        }
+      ],
+      "mobileLabels": {
+        "visit": "Visit",
+        "today": "Today",
+        "call": "Call",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu"
+      }
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "short": "Mon",
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 1,
+            "closeDay": 1,
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "short": "Tue",
+        "open": "",
+        "close": "",
+        "closed": true,
+        "open24Hours": false,
+        "display": "Closed",
+        "periods": []
+      },
+      {
+        "day": "Wednesday",
+        "short": "Wed",
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 3,
+            "closeDay": 3,
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "short": "Thu",
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 4,
+            "closeDay": 4,
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "short": "Fri",
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 5,
+            "closeDay": 5,
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "short": "Sat",
+        "open": "09:00",
+        "close": "15:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 3:00 PM",
+        "periods": [
+          {
+            "openDay": 6,
+            "closeDay": 6,
+            "open": "09:00",
+            "close": "15:00"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "short": "Sun",
+        "open": "12:00",
+        "close": "17:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "12:00 PM–5:00 PM",
+        "periods": [
+          {
+            "openDay": 0,
+            "closeDay": 0,
+            "open": "12:00",
+            "close": "17:00"
+          }
+        ]
+      }
+    ],
+    "metrics": {
+      "rating": "4.60",
+      "reviewCount": 202,
+      "ratingStars": "★ ★ ★ ★ ★",
+      "reviewSource": "Google"
+    },
+    "assets": {
+      "hero": {
+        "src": {
+          "__hoppAsset": "heroInteriorImage"
+        },
+        "alt": "Fresh to Death website concept imagery · hero"
+      },
+      "shopInterior": {
+        "src": {
+          "__hoppAsset": "shopInteriorImage"
+        },
+        "alt": "Fresh to Death website concept imagery · shop interior"
+      },
+      "detailTools": {
+        "src": {
+          "__hoppAsset": "detailToolsImage"
+        },
+        "alt": "Fresh to Death website concept imagery · detail tools"
+      },
+      "detailTowels": {
+        "src": {
+          "__hoppAsset": "detailTowelsImage"
+        },
+        "alt": "Fresh to Death website concept imagery · detail towels"
+      },
+      "workFade": {
+        "src": {
+          "__hoppAsset": "workFadeImage"
+        },
+        "alt": "Fresh to Death website concept imagery · work fade"
+      },
+      "workBeard": {
+        "src": {
+          "__hoppAsset": "workBeardImage"
+        },
+        "alt": "Fresh to Death website concept imagery · work beard"
+      },
+      "workScissor": {
+        "src": {
+          "__hoppAsset": "workScissorImage"
+        },
+        "alt": "Fresh to Death website concept imagery · work scissor"
+      }
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/fresh-to-death-87eedcf",
+      "defaultTitle": "Fresh to Death — Barbershop in Baytown, Texas",
+      "defaultDescription": "Explore a professional website concept for Fresh to Death, including verified contact details, services, team information, reviews, location, and booking access where publicly available.",
+      "author": "Fresh to Death",
+      "openGraph": {
+        "siteName": "Fresh to Death",
+        "type": "website",
+        "title": "Fresh to Death — Professional Barbershop Website Concept",
+        "description": "A polished website concept for Fresh to Death in Baytown, Texas.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Fresh to Death — Baytown, Texas",
+        "description": "Services, team information, reviews, location, and booking access for Fresh to Death.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "pages": {
+        "home": {
+          "title": "Fresh to Death — Barbershop in Baytown, Texas",
+          "description": "A professional website concept for Fresh to Death with verified contact, service, review, and booking information.",
+          "ogTitle": "Fresh to Death — Barbershop in Baytown, Texas",
+          "ogDescription": "A professional website concept for Fresh to Death with verified contact, service, review, and booking information.",
+          "path": "/"
+        },
+        "services": {
+          "title": "Services | Fresh to Death",
+          "description": "Review the services publicly listed for Fresh to Death and use the verified booking or contact path for current details.",
+          "ogTitle": "Services | Fresh to Death",
+          "ogDescription": "Review the services publicly listed for Fresh to Death and use the verified booking or contact path for current details.",
+          "path": "/services"
+        },
+        "barbers": {
+          "title": "Team | Fresh to Death",
+          "description": "Meet the publicly verified people associated with Fresh to Death.",
+          "ogTitle": "Team | Fresh to Death",
+          "ogDescription": "Meet the publicly verified people associated with Fresh to Death.",
+          "path": "/barbers"
+        },
+        "gallery": {
+          "title": "Visual Direction | Fresh to Death",
+          "description": "Approved concept imagery showing how Fresh to Death could present its work and shop experience online.",
+          "ogTitle": "Visual Direction | Fresh to Death",
+          "ogDescription": "Approved concept imagery showing how Fresh to Death could present its work and shop experience online.",
+          "path": "/gallery"
+        },
+        "about": {
+          "title": "About | Fresh to Death",
+          "description": "A clear, professional introduction to Fresh to Death using only verified public business information.",
+          "ogTitle": "About | Fresh to Death",
+          "ogDescription": "A clear, professional introduction to Fresh to Death using only verified public business information.",
+          "path": "/about"
+        },
+        "visit": {
+          "title": "Visit & Contact | Fresh to Death",
+          "description": "Current public contact, location, hours, directions, and booking access for Fresh to Death.",
+          "ogTitle": "Visit & Contact | Fresh to Death",
+          "ogDescription": "Current public contact, location, hours, directions, and booking access for Fresh to Death.",
+          "path": "/visit"
+        },
+        "notFound": {
+          "title": "Page Not Found | Fresh to Death",
+          "description": "The requested page could not be found.",
+          "path": "/404",
+          "ogTitle": "Page Not Found | Fresh to Death",
+          "ogDescription": "The requested page could not be found."
+        }
+      }
+    },
+    "servicesSection": {
+      "groups": [
+        {
+          "name": "Beard and Shave",
+          "intro": "Verified beard and shave services published by the shop."
+        },
+        {
+          "name": "Haircuts",
+          "intro": "Verified haircut and grooming options published by the shop."
+        }
+      ],
+      "services": [
+        {
+          "slug": "gentlemans-cut-and-7-step-shave",
+          "number": "01",
+          "name": "Gentleman's Cut & 7-Step Shave",
+          "price": 0,
+          "duration": 0,
+          "description": "Precision haircut plus a straight razor face shave with hot towels, pre-shave oil, rich lather, facial massage, exfoliation, toner, cold towel, and aftershave.",
+          "recommendedFor": "Use the shop's public booking or contact path to confirm the best fit for your appointment.",
+          "group": "Beard and Shave",
+          "featured": true,
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "ctaText": "View Availability →"
+        },
+        {
+          "slug": "gentlemans-cut-18-64",
+          "number": "02",
+          "name": "Gentleman's Cut 18-64",
+          "price": 42,
+          "duration": 30,
+          "description": "Precision haircut, shampoo with steam towel, straight razor nape shave, styled, finished with aftershave.",
+          "recommendedFor": "Use the shop's public booking or contact path to confirm the best fit for your appointment.",
+          "group": "Haircuts",
+          "featured": true,
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "ctaText": "View Availability →"
+        },
+        {
+          "slug": "gentlemans-cut-with-beard-trim",
+          "number": "03",
+          "name": "Gentleman's Cut With Beard Trim",
+          "price": 62,
+          "duration": 60,
+          "description": "Precision haircut, shampoo with hot steam towel, straight razor neck shave, beard shaping and lineup, finished with aftershave.",
+          "recommendedFor": "Use the shop's public booking or contact path to confirm the best fit for your appointment.",
+          "group": "Beard and Shave",
+          "featured": true,
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "ctaText": "View Availability →"
+        }
+      ],
+      "guidance": [
+        {
+          "title": "Gentleman's Cut & 7-Step Shave",
+          "description": "Precision haircut plus a straight razor face shave with hot towels, pre-shave oil, rich lather, facial massage, exfoliation, toner, cold towel, and aftershave."
+        },
+        {
+          "title": "Gentleman's Cut 18-64",
+          "description": "Precision haircut, shampoo with steam towel, straight razor nape shave, styled, finished with aftershave."
+        },
+        {
+          "title": "Gentleman's Cut With Beard Trim",
+          "description": "Precision haircut, shampoo with hot steam towel, straight razor neck shave, beard shaping and lineup, finished with aftershave."
+        }
+      ]
+    },
+    "teamSection": {
+      "members": [
+        {
+          "slug": "katy",
+          "name": "Katy",
+          "firstName": "Katy",
+          "role": "Owner",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "Katy is publicly listed as Owner at Fresh to Death.",
+          "bio": "Katy is publicly associated with Fresh to Death as Owner. Use the verified booking or contact path to review current services and availability.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "imageAlt": "Barbering concept imagery accompanying the public profile for Katy",
+          "availability": "Appointments at 2121 W Baker Rd Ste 150",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        },
+        {
+          "slug": "andrea-r",
+          "name": "Andrea R",
+          "firstName": "Andrea",
+          "role": "Cosmetologist / barber",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "Andrea R is publicly listed as Cosmetologist / barber at Fresh to Death.",
+          "bio": "Andrea R is publicly associated with Fresh to Death as Cosmetologist / barber. Use the verified booking or contact path to review current services and availability.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "imageAlt": "Barbering concept imagery accompanying the public profile for Andrea R",
+          "availability": "Appointments at 2121 W Baker Rd Ste 150",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        },
+        {
+          "slug": "book-memez-h",
+          "name": "Book Memez H",
+          "firstName": "Book",
+          "role": "Team member",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "Book Memez H is publicly listed as Team member at Fresh to Death.",
+          "bio": "Book Memez H is publicly associated with Fresh to Death as Team member. Use the verified booking or contact path to review current services and availability.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "imageAlt": "Barbering concept imagery accompanying the public profile for Book Memez H",
+          "availability": "Appointments at 2121 W Baker Rd Ste 150",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        },
+        {
+          "slug": "christina-b",
+          "name": "Christina B",
+          "firstName": "Christina",
+          "role": "Team member",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "Christina B is publicly listed as Team member at Fresh to Death.",
+          "bio": "Christina B is publicly associated with Fresh to Death as Team member. Use the verified booking or contact path to review current services and availability.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "imageAlt": "Barbering concept imagery accompanying the public profile for Christina B",
+          "availability": "Appointments at 2121 W Baker Rd Ste 150",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        },
+        {
+          "slug": "katy-v",
+          "name": "Katy V",
+          "firstName": "Katy",
+          "role": "Team member",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "Katy V is publicly listed as Team member at Fresh to Death.",
+          "bio": "Katy V is publicly associated with Fresh to Death as Team member. Use the verified booking or contact path to review current services and availability.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+          "bookingUrl": "https://freshtodeath.glossgenius.com/",
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "imageAlt": "Barbering concept imagery accompanying the public profile for Katy V",
+          "availability": "Appointments at 2121 W Baker Rd Ste 150",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        }
+      ],
+      "sampleWork": [
+        {
+          "__hoppAsset": "workFadeImage"
+        },
+        {
+          "__hoppAsset": "workBeardImage"
+        },
+        {
+          "__hoppAsset": "workScissorImage"
+        }
+      ]
+    },
+    "testimonialsSection": {
+      "eyebrow": "— 07 / Reviews",
+      "sectionTitle": "Public reputation",
+      "supportingCopy": "202 public Google reviews support the shop's local reputation. Individual review quotations are not reproduced in this concept.",
+      "reviewPlatformUrl": "https://maps.google.com/?cid=1740382478534381470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "googleReviewCta": "Read Google Reviews",
+      "reviews": []
+    },
+    "gallerySection": {
+      "categories": [
+        "All",
+        "Haircuts",
+        "Beard Work",
+        "The Shop"
+      ],
+      "items": [
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Precision grooming concept imagery for the Fresh to Death website demo",
+          "category": "Haircuts",
+          "service": "Precision grooming",
+          "barber": "Website concept",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard detailing concept imagery for the Fresh to Death website demo",
+          "category": "Beard Work",
+          "service": "Beard detailing",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Scissor work concept imagery for the Fresh to Death website demo",
+          "category": "Haircuts",
+          "service": "Scissor work",
+          "barber": "Website concept",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "alt": "Shop atmosphere concept imagery for the Fresh to Death website demo",
+          "category": "The Shop",
+          "service": "Shop atmosphere",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "alt": "Barber station concept imagery for the Fresh to Death website demo",
+          "category": "The Shop",
+          "service": "Barber station",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "alt": "Tools of the trade concept imagery for the Fresh to Death website demo",
+          "category": "The Shop",
+          "service": "Tools of the trade",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "alt": "Grooming ritual concept imagery for the Fresh to Death website demo",
+          "category": "The Shop",
+          "service": "Grooming ritual",
+          "barber": "Website concept",
+          "span": ""
+        }
+      ]
+    },
+    "homePage": {
+      "hero": {
+        "eyebrow": "Baytown, Texas",
+        "title": "Sharp presentation.",
+        "accentTitle": "A stronger first impression.",
+        "description": "A professional online presence for Fresh to Death, bringing verified services, contact details, reviews, location, and booking access into one composed experience.",
+        "primaryCta": "Book Appointment",
+        "secondaryCta": "Explore Services",
+        "secondaryCtaPath": "/services",
+        "reviewsLabel": "public reviews",
+        "scrollLabel": "Scroll"
+      },
+      "brandStatement": {
+        "eyebrow": "— 01 / The Presence",
+        "titleLines": [
+          "Great work deserves",
+          "an online presence"
+        ],
+        "accentTitle": "built to match.",
+        "description": "Fresh to Death already has public customer proof. This concept shows how the shop could present its services and make the next step clearer for new clients.",
+        "imageCaption": "Fresh to Death · Baytown, Texas"
+      },
+      "featuredServices": {
+        "eyebrow": "— 02 / The Menu",
+        "title": "Published services",
+        "description": "A clear view of the services verified in the shop's public information.",
+        "viewAllCta": "View Service Menu",
+        "reserveCta": "Book Appointment"
+      },
+      "principles": {
+        "eyebrow": "— 03 / The Standard",
+        "title": "A clearer path,",
+        "accentTitle": "from discovery to booking.",
+        "description": "A strong barbershop website should make the essentials easy to understand without inventing what the shop has not published.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Clear Services",
+            "body": "Customers can understand the shop's verified offerings before they call or book."
+          },
+          {
+            "number": "02",
+            "title": "Trusted Proof",
+            "body": "Public ratings and review volume support the shop's reputation without fabricated testimonials."
+          },
+          {
+            "number": "03",
+            "title": "Simple Booking",
+            "body": "The verified booking or contact path remains visible throughout the experience."
+          },
+          {
+            "number": "04",
+            "title": "Mobile Confidence",
+            "body": "Contact, directions, hours, and service information stay easy to use on a phone."
+          }
+        ]
+      },
+      "team": {
+        "eyebrow": "— 04 / The Team",
+        "title": "The people behind the shop",
+        "description": "Publicly verified people are presented without invented biographies, specialties, or experience claims.",
+        "viewProfileCta": "View →",
+        "viewTeamCta": "Meet the Team"
+      },
+      "shop": {
+        "eyebrow": "— 05 / The Experience",
+        "titleLines": [
+          "A composed place",
+          "to discover the"
+        ],
+        "accentTitle": "shop.",
+        "description": "This visual direction gives Fresh to Death a polished online setting while keeping business facts separate from approved concept imagery.",
+        "galleryCta": "View Visual Direction →"
+      },
+      "selectedWork": {
+        "eyebrow": "— 06 / Visual Direction",
+        "title": "The presentation",
+        "galleryCta": "Gallery →",
+        "instagramCta": "Google Profile →",
+        "items": [
+          {
+            "image": {
+              "__hoppAsset": "workFadeImage"
+            },
+            "label": "Precision grooming",
+            "barber": "Website concept",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "workBeardImage"
+            },
+            "label": "Beard detailing",
+            "barber": "Website concept",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "workScissorImage"
+            },
+            "label": "Scissor work",
+            "barber": "Website concept",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "shopInteriorImage"
+            },
+            "label": "Shop atmosphere",
+            "barber": "Website concept",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "heroInteriorImage"
+            },
+            "label": "Barber station",
+            "barber": "Website concept",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailToolsImage"
+            },
+            "label": "Tools of the trade",
+            "barber": "Website concept",
+            "span": ""
+          }
+        ]
+      },
+      "ritual": {
+        "eyebrow": "— 08 / The Journey",
+        "title": "From first look,",
+        "accentTitle": "to the next appointment.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Discover the shop",
+            "body": "Review the public reputation, location, and verified business information."
+          },
+          {
+            "number": "02",
+            "title": "Explore services",
+            "body": "See the service information currently published by the shop."
+          },
+          {
+            "number": "03",
+            "title": "Choose the next step",
+            "body": "Use the verified booking path or call the business directly."
+          },
+          {
+            "number": "04",
+            "title": "Confirm the details",
+            "body": "The shop remains the source of truth for current prices, availability, and policies."
+          }
+        ]
+      },
+      "visit": {
+        "eyebrow": "— 09 / Visit",
+        "title": "Find the shop",
+        "accentTitle": "and make contact.",
+        "hoursLabel": "Hours",
+        "getDirectionsCta": "Get Directions",
+        "mapCta": "Open in Maps →"
+      },
+      "faq": {
+        "eyebrow": "— 10 / Useful Details",
+        "title": "Before you visit.",
+        "items": [
+          {
+            "question": "How should I book?",
+            "answer": "Use the shop's verified public booking path for current availability."
+          },
+          {
+            "question": "Are prices and durations current?",
+            "answer": "Only publicly verified prices and durations are shown. Confirm current details directly with the shop before booking."
+          },
+          {
+            "question": "Can I choose a specific barber?",
+            "answer": "Use the verified team or booking information shown in this concept. The shop remains the source of truth for current availability."
+          },
+          {
+            "question": "Where is the shop located?",
+            "answer": "2121 W Baker Rd Ste 150, Baytown, TX 77520. Use the directions link for current navigation details."
+          }
+        ]
+      },
+      "finalCta": {
+        "eyebrow": "— Take the next step",
+        "title": "Ready to connect?",
+        "accentTitle": "Use the verified path.",
+        "description": "Contact Fresh to Death using the public details shown here.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "servicesPage": {
+      "header": {
+        "breadcrumb": "Services",
+        "eyebrow": "— The Menu",
+        "title": "Published",
+        "accentTitle": "services.",
+        "intro": "Only services found in the shop's verified public information are presented here."
+      },
+      "guidance": {
+        "eyebrow": "— Guidance",
+        "title": "Confirm the right appointment."
+      },
+      "finalCta": {
+        "title": "Ready for the",
+        "accentTitle": "next step?",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barbersPage": {
+      "header": {
+        "breadcrumb": "Barbers",
+        "eyebrow": "— The Team",
+        "title": "Meet the",
+        "accentTitle": "shop.",
+        "intro": "The people shown here were found in verified public sources or confirmed manually in Hopp Digital's private record."
+      },
+      "labels": {
+        "specialties": "Specialties",
+        "bestBookedFor": "Best Booked For",
+        "viewProfile": "View Profile",
+        "bookWith": "Book with"
+      },
+      "firstAvailable": {
+        "eyebrow": "— Booking",
+        "title": "Need the next opening?",
+        "accentTitle": "Use the public booking path.",
+        "description": "The shop's verified booking or contact path is the source of truth for current team availability.",
+        "cta": "Book Appointment"
+      },
+      "finalCta": {
+        "title": "Ready to connect?",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barberProfilePage": {
+      "backCta": "← All Barbers",
+      "instagramCta": "Instagram ↗",
+      "philosophyLabel": "— Public Profile",
+      "specialtiesLabel": "Verified specialties",
+      "servicesLabel": "Verified services",
+      "experienceLabel": "Public experience",
+      "availableAtLabel": "Available At",
+      "featuredWorkLabel": "— Concept Imagery",
+      "recentFromPrefix": "Visual direction for",
+      "clientNoteLabel": "— Public Review",
+      "reserveCta": "Reserve Your Chair",
+      "viewAllCta": "View All Barbers",
+      "notFound": {
+        "eyebrow": "Not Found",
+        "title": "That barber isn't on the team.",
+        "cta": "Meet the Team"
+      }
+    },
+    "galleryPage": {
+      "header": {
+        "breadcrumb": "Gallery",
+        "eyebrow": "— Visual Direction",
+        "title": "A stronger",
+        "accentTitle": "presentation.",
+        "intro": "Approved concept imagery demonstrates the visual quality of the proposed website and is not presented as business-owned photography."
+      },
+      "lightbox": {
+        "close": "Close ✕",
+        "previous": "Previous",
+        "next": "Next",
+        "bookCta": "Book This Service ↗"
+      },
+      "finalCta": {
+        "title": "Ready to take the next step?",
+        "description": "Use Fresh to Death's verified public booking or contact path.",
+        "primaryCta": "Book Appointment",
+        "instagramCta": "View Google Profile"
+      }
+    },
+    "aboutPage": {
+      "header": {
+        "breadcrumb": "About",
+        "eyebrow": "— The Shop",
+        "title": "A professional",
+        "titleLineTwo": "presence for",
+        "accentTitle": "Fresh to Death",
+        "intro": "Fresh to Death Barbershop in Baytown uses GlossGenius for booking and publishes service pricing online. Team names are listed on the site, but no owner is explicitly identified on the supplied pages."
+      },
+      "founding": {
+        "eyebrow": "— 01 / The Public Story",
+        "title": "What can be verified.",
+        "founderCaption": "Katy",
+        "paragraphs": [
+          "Fresh to Death Barbershop in Baytown uses GlossGenius for booking and publishes service pricing online. Team names are listed on the site, but no owner is explicitly identified on the supplied pages.",
+          "No founding year, ownership story, or leadership claim is presented unless it was verified in the collected public sources."
+        ]
+      },
+      "standard": {
+        "eyebrow": "— 02 / The Digital Standard",
+        "title": "A clearer",
+        "accentTitle": "customer journey.",
+        "paragraphs": [
+          "The website concept prioritizes the information customers need before they call or book.",
+          "Verified facts remain distinct from controlled design language and approved visual assets."
+        ]
+      },
+      "values": [
+        {
+          "number": "03",
+          "title": "Public reputation",
+          "body": "202 public Google reviews provide a meaningful signal of the shop's local reputation."
+        },
+        {
+          "number": "04",
+          "title": "Service clarity",
+          "body": "Verified service information is placed where customers can understand it quickly."
+        },
+        {
+          "number": "05",
+          "title": "Direct contact",
+          "body": "The public phone, location, directions, and booking path remain easy to reach."
+        },
+        {
+          "number": "06",
+          "title": "Truthful presentation",
+          "body": "Unknown history, specialties, prices, and customer quotations are not invented to fill the design."
+        }
+      ],
+      "founderNote": {
+        "eyebrow": "",
+        "quote": "",
+        "author": ""
+      },
+      "finalCta": {
+        "title": "Connect with",
+        "accentTitle": "Fresh to Death",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "visitPage": {
+      "header": {
+        "breadcrumb": "Visit",
+        "eyebrow": "— Plan Your Visit",
+        "title": "Find the",
+        "accentTitle": "shop.",
+        "intro": "Current public location, hours, directions, and contact information in one place."
+      },
+      "labels": {
+        "address": "— Address",
+        "contact": "— Contact",
+        "hours": "— Hours",
+        "directionsCta": "Get Directions",
+        "mapCta": "Open in Maps →",
+        "bookCta": "Book Appointment"
+      },
+      "form": {
+        "eyebrow": "— Send a Note",
+        "title": "Get in touch.",
+        "description": "For the fastest response, use the verified booking path or call the shop directly. This concept form remains visual only and does not transmit submissions.",
+        "availabilityCta": "Book Appointment",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          "email": {
+            "label": "Email",
+            "name": "email",
+            "type": "email",
+            "required": true
+          },
+          "phone": {
+            "label": "Phone",
+            "name": "phone",
+            "type": "tel",
+            "required": false
+          },
+          "reasonLabel": "Reason",
+          "messageLabel": "Message"
+        },
+        "reasons": [
+          "General Question",
+          "Appointment Question",
+          "Service Recommendation",
+          "Private Event or Group Booking",
+          "Business Inquiry"
+        ],
+        "submitLabel": "Send Message",
+        "successEyebrow": "— Sent",
+        "successMessage": "Thank you. This website concept does not transmit form submissions.",
+        "note": "This demo form is intentionally non-operational. Use the verified public booking or phone path to contact the shop."
+      }
+    },
+    "footer": {
+      "eyebrow": "Fresh to Death",
+      "title": "Professional presence.",
+      "accentTitle": "Clear next steps.",
+      "description": "A professional website concept for Fresh to Death, built around verified public information and a direct path to contact or booking.",
+      "visitHeading": "Visit",
+      "hoursHeading": "Hours",
+      "bookingCta": "Book Appointment",
+      "instagramCta": "Google Business ↗",
+      "rightsText": "All rights reserved."
+    },
+    "systemPages": {
+      "notFound": {
+        "eyebrow": "404 · Not Found",
+        "title": "This page is not on the menu.",
+        "description": "The page you're looking for has moved or never existed. Head back to the homepage and explore from there.",
+        "cta": "Return Home"
+      },
+      "error": {
+        "eyebrow": "Something went wrong",
+        "title": "This page didn't load.",
+        "description": "Try again, or return home and continue from there.",
+        "retryCta": "Try Again",
+        "homeCta": "Go Home"
+      }
+    }
+  }
+}
