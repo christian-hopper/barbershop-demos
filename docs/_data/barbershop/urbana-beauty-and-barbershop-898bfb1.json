@@ -1,0 +1,959 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-247f58cbdb2a",
+  "slug": "urbana-beauty-and-barbershop-898bfb1",
+  "generatedAt": "2026-07-02T01:11:03.581Z",
+  "business": {
+    "brand": {
+      "name": "URBANA BEAUTY & BARBERSHOP",
+      "shortName": "URBANA BEAUTY & BARBERSHOP",
+      "category": "Barber shop",
+      "descriptor": "Professional cuts. Considered presentation.",
+      "logoTop": "URBANA BEAUTY & BARBERSHOP",
+      "logoBottom": "BARBERS · HOUSTON",
+      "oversizedWordmark": "URBANA BEAUTY & BARBERSHOP",
+      "establishedYear": 0,
+      "city": "Houston",
+      "state": "Texas",
+      "cityState": "Houston, Texas",
+      "copyrightName": "URBANA BEAUTY & BARBERSHOP",
+      "loaderStorageKey": "hopp-demo-loaded:urbana-beauty-and-barbershop-898bfb1"
+    },
+    "contact": {
+      "phoneRaw": "3464064964",
+      "phoneFormatted": "(346) 406-4964",
+      "phoneHref": "tel:+13464064964",
+      "email": "",
+      "address": {
+        "line1": "811 Normandy St suit B100",
+        "line2": "Houston TX 77015",
+        "full": "811 Normandy St suit B100, Houston, TX 77015",
+        "short": "811 Normandy St suit B100",
+        "mapLabel": "811 Normandy St suit B100, Houston, TX 77015",
+        "streetAddress": "811 Normandy St suit B100",
+        "locality": "Houston",
+        "region": "TX",
+        "postalCode": "77015",
+        "country": "US"
+      },
+      "bookingUrl": "https://urbana-beauty-barbershop-109535.square.site/",
+      "contactPath": "/visit",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=811%20Normandy%20St%20suit%20B100%2C%20Houston%2C%20TX%2077015",
+      "mapsUrl": "https://maps.google.com/?cid=16485976386270574045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=811%20Normandy%20St%20suit%20B100%2C%20Houston%2C%20TX%2077015&output=embed",
+      "parking": "Call the shop for current parking and arrival details."
+    },
+    "socialLinks": {
+      "instagram": {
+        "label": "Google",
+        "handle": "Google Business",
+        "url": "https://maps.google.com/?cid=16485976386270574045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+      }
+    },
+    "navigation": {
+      "main": [
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "Services",
+          "to": "/services"
+        },
+        {
+          "label": "Barbers",
+          "to": "/barbers"
+        },
+        {
+          "label": "Gallery",
+          "to": "/gallery"
+        },
+        {
+          "label": "About",
+          "to": "/about"
+        },
+        {
+          "label": "Visit",
+          "to": "/visit"
+        }
+      ],
+      "headerCta": {
+        "label": "Book Appointment",
+        "url": "https://urbana-beauty-barbershop-109535.square.site/"
+      },
+      "mobileCta": {
+        "label": "Book Appointment",
+        "url": "https://urbana-beauty-barbershop-109535.square.site/"
+      },
+      "footerHeading": "Explore",
+      "legal": [
+        {
+          "label": "Privacy",
+          "to": "/visit"
+        },
+        {
+          "label": "Accessibility",
+          "to": "/visit"
+        },
+        {
+          "label": "Contact",
+          "to": "/visit"
+        }
+      ],
+      "mobileLabels": {
+        "visit": "Visit",
+        "today": "Today",
+        "call": "Call",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu"
+      }
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "short": "Mon",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 1,
+            "closeDay": 1,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "short": "Tue",
+        "open": "12:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "12:00 PM–7:00 PM",
+        "periods": [
+          {
+            "openDay": 2,
+            "closeDay": 2,
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "short": "Wed",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 3,
+            "closeDay": 3,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "short": "Thu",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 4,
+            "closeDay": 4,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "short": "Fri",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 5,
+            "closeDay": 5,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "short": "Sat",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 6,
+            "closeDay": 6,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "short": "Sun",
+        "open": "10:00",
+        "close": "19:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:00 AM – 7:00 PM",
+        "periods": [
+          {
+            "openDay": 0,
+            "closeDay": 0,
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      }
+    ],
+    "metrics": {
+      "rating": "4.90",
+      "reviewCount": 302,
+      "ratingStars": "★ ★ ★ ★ ★",
+      "reviewSource": "Google"
+    },
+    "assets": {
+      "hero": {
+        "src": {
+          "__hoppAsset": "heroInteriorImage"
+        },
+        "alt": "URBANA BEAUTY & BARBERSHOP website concept imagery · hero"
+      },
+      "shopInterior": {
+        "src": {
+          "__hoppAsset": "shopInteriorImage"
+        },
+        "alt": "URBANA BEAUTY & BARBERSHOP website concept imagery · shop interior"
+      },
+      "detailTools": {
+        "src": {
+          "__hoppAsset": "detailToolsImage"
+        },
+        "alt": "URBANA BEAUTY & BARBERSHOP website concept imagery · detail tools"
+      },
+      "detailTowels": {
+        "src": {
+          "__hoppAsset": "detailTowelsImage"
+        },
+        "alt": "URBANA BEAUTY & BARBERSHOP website concept imagery · detail towels"
+      },
+      "workFade": {
+        "src": {
+          "__hoppAsset": "workFadeImage"
+        },
+        "alt": "URBANA BEAUTY & BARBERSHOP website concept imagery · work fade"
+      },
+      "workBeard": {
+        "src": {
+          "__hoppAsset": "workBeardImage"
+        },
+        "alt": "URBANA BEAUTY & BARBERSHOP website concept imagery · work beard"
+      },
+      "workScissor": {
+        "src": {
+          "__hoppAsset": "workScissorImage"
+        },
+        "alt": "URBANA BEAUTY & BARBERSHOP website concept imagery · work scissor"
+      }
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/urbana-beauty-and-barbershop-898bfb1",
+      "defaultTitle": "URBANA BEAUTY & BARBERSHOP — Barbershop in Houston, Texas",
+      "defaultDescription": "Explore a professional website concept for URBANA BEAUTY & BARBERSHOP, including verified contact details, services, team information, reviews, location, and booking access where publicly available.",
+      "author": "URBANA BEAUTY & BARBERSHOP",
+      "openGraph": {
+        "siteName": "URBANA BEAUTY & BARBERSHOP",
+        "type": "website",
+        "title": "URBANA BEAUTY & BARBERSHOP — Professional Barbershop Website Concept",
+        "description": "A polished website concept for URBANA BEAUTY & BARBERSHOP in Houston, Texas.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "URBANA BEAUTY & BARBERSHOP — Houston, Texas",
+        "description": "Services, team information, reviews, location, and booking access for URBANA BEAUTY & BARBERSHOP.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "pages": {
+        "home": {
+          "title": "URBANA BEAUTY & BARBERSHOP — Barbershop in Houston, Texas",
+          "description": "A professional website concept for URBANA BEAUTY & BARBERSHOP with verified contact, service, review, and booking information.",
+          "ogTitle": "URBANA BEAUTY & BARBERSHOP — Barbershop in Houston, Texas",
+          "ogDescription": "A professional website concept for URBANA BEAUTY & BARBERSHOP with verified contact, service, review, and booking information.",
+          "path": "/"
+        },
+        "services": {
+          "title": "Services | URBANA BEAUTY & BARBERSHOP",
+          "description": "Review the services publicly listed for URBANA BEAUTY & BARBERSHOP and use the verified booking or contact path for current details.",
+          "ogTitle": "Services | URBANA BEAUTY & BARBERSHOP",
+          "ogDescription": "Review the services publicly listed for URBANA BEAUTY & BARBERSHOP and use the verified booking or contact path for current details.",
+          "path": "/services"
+        },
+        "barbers": {
+          "title": "Team | URBANA BEAUTY & BARBERSHOP",
+          "description": "Meet the publicly verified people associated with URBANA BEAUTY & BARBERSHOP.",
+          "ogTitle": "Team | URBANA BEAUTY & BARBERSHOP",
+          "ogDescription": "Meet the publicly verified people associated with URBANA BEAUTY & BARBERSHOP.",
+          "path": "/barbers"
+        },
+        "gallery": {
+          "title": "Visual Direction | URBANA BEAUTY & BARBERSHOP",
+          "description": "Approved concept imagery showing how URBANA BEAUTY & BARBERSHOP could present its work and shop experience online.",
+          "ogTitle": "Visual Direction | URBANA BEAUTY & BARBERSHOP",
+          "ogDescription": "Approved concept imagery showing how URBANA BEAUTY & BARBERSHOP could present its work and shop experience online.",
+          "path": "/gallery"
+        },
+        "about": {
+          "title": "About | URBANA BEAUTY & BARBERSHOP",
+          "description": "A clear, professional introduction to URBANA BEAUTY & BARBERSHOP using only verified public business information.",
+          "ogTitle": "About | URBANA BEAUTY & BARBERSHOP",
+          "ogDescription": "A clear, professional introduction to URBANA BEAUTY & BARBERSHOP using only verified public business information.",
+          "path": "/about"
+        },
+        "visit": {
+          "title": "Visit & Contact | URBANA BEAUTY & BARBERSHOP",
+          "description": "Current public contact, location, hours, directions, and booking access for URBANA BEAUTY & BARBERSHOP.",
+          "ogTitle": "Visit & Contact | URBANA BEAUTY & BARBERSHOP",
+          "ogDescription": "Current public contact, location, hours, directions, and booking access for URBANA BEAUTY & BARBERSHOP.",
+          "path": "/visit"
+        },
+        "notFound": {
+          "title": "Page Not Found | URBANA BEAUTY & BARBERSHOP",
+          "description": "The requested page could not be found.",
+          "path": "/404",
+          "ogTitle": "Page Not Found | URBANA BEAUTY & BARBERSHOP",
+          "ogDescription": "The requested page could not be found."
+        }
+      }
+    },
+    "servicesSection": {
+      "groups": [
+        {
+          "name": "Service Menu",
+          "intro": "Additional services currently listed by the shop."
+        }
+      ],
+      "services": [
+        {
+          "slug": "current-service-menu",
+          "number": "01",
+          "name": "Current Service Menu",
+          "price": 0,
+          "duration": 0,
+          "description": "The shop's public listing does not clearly publish a complete service menu. Contact the shop to confirm current services, pricing, and availability.",
+          "recommendedFor": "Use the shop's public booking or contact path to confirm the best fit for your appointment.",
+          "group": "Service Menu",
+          "featured": true,
+          "bookingUrl": "https://urbana-beauty-barbershop-109535.square.site/",
+          "ctaText": "View Availability →"
+        }
+      ],
+      "guidance": [
+        {
+          "title": "Current Service Menu",
+          "description": "The shop's public listing does not clearly publish a complete service menu. Contact the shop to confirm current services, pricing, and availability."
+        }
+      ]
+    },
+    "teamSection": {
+      "members": [
+        {
+          "slug": "urbana-beauty-and-barbershop-team",
+          "name": "URBANA BEAUTY & BARBERSHOP Team",
+          "firstName": "Team",
+          "role": "Barber Team",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "Individual barber profiles were not clearly published in the public sources collected for this shop.",
+          "bio": "The public listing does not name individual barbers. Use the shop's public booking or contact path to review current availability and choose the right appointment.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "https://maps.google.com/?cid=16485976386270574045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+          "bookingUrl": "https://urbana-beauty-barbershop-109535.square.site/",
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "imageAlt": "Interior concept imagery for URBANA BEAUTY & BARBERSHOP",
+          "availability": "Appointments at 811 Normandy St suit B100",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        }
+      ],
+      "sampleWork": [
+        {
+          "__hoppAsset": "workFadeImage"
+        },
+        {
+          "__hoppAsset": "workBeardImage"
+        },
+        {
+          "__hoppAsset": "workScissorImage"
+        }
+      ]
+    },
+    "testimonialsSection": {
+      "eyebrow": "— 07 / Reviews",
+      "sectionTitle": "Public reputation",
+      "supportingCopy": "302 public Google reviews support the shop's local reputation. Individual review quotations are not reproduced in this concept.",
+      "reviewPlatformUrl": "https://maps.google.com/?cid=16485976386270574045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "googleReviewCta": "Read Google Reviews",
+      "reviews": []
+    },
+    "gallerySection": {
+      "categories": [
+        "All",
+        "Haircuts",
+        "Beard Work",
+        "The Shop"
+      ],
+      "items": [
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "Precision grooming concept imagery for the URBANA BEAUTY & BARBERSHOP website demo",
+          "category": "Haircuts",
+          "service": "Precision grooming",
+          "barber": "Website concept",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "Beard detailing concept imagery for the URBANA BEAUTY & BARBERSHOP website demo",
+          "category": "Beard Work",
+          "service": "Beard detailing",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "Scissor work concept imagery for the URBANA BEAUTY & BARBERSHOP website demo",
+          "category": "Haircuts",
+          "service": "Scissor work",
+          "barber": "Website concept",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "alt": "Shop atmosphere concept imagery for the URBANA BEAUTY & BARBERSHOP website demo",
+          "category": "The Shop",
+          "service": "Shop atmosphere",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "alt": "Barber station concept imagery for the URBANA BEAUTY & BARBERSHOP website demo",
+          "category": "The Shop",
+          "service": "Barber station",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "alt": "Tools of the trade concept imagery for the URBANA BEAUTY & BARBERSHOP website demo",
+          "category": "The Shop",
+          "service": "Tools of the trade",
+          "barber": "Website concept",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "alt": "Grooming ritual concept imagery for the URBANA BEAUTY & BARBERSHOP website demo",
+          "category": "The Shop",
+          "service": "Grooming ritual",
+          "barber": "Website concept",
+          "span": ""
+        }
+      ]
+    },
+    "homePage": {
+      "hero": {
+        "eyebrow": "Houston, Texas",
+        "title": "Sharp presentation.",
+        "accentTitle": "A stronger first impression.",
+        "description": "A professional online presence for URBANA BEAUTY & BARBERSHOP, bringing verified services, contact details, reviews, location, and booking access into one composed experience.",
+        "primaryCta": "Book Appointment",
+        "secondaryCta": "Explore Services",
+        "secondaryCtaPath": "/services",
+        "reviewsLabel": "public reviews",
+        "scrollLabel": "Scroll"
+      },
+      "brandStatement": {
+        "eyebrow": "— 01 / The Presence",
+        "titleLines": [
+          "Great work deserves",
+          "an online presence"
+        ],
+        "accentTitle": "built to match.",
+        "description": "URBANA BEAUTY & BARBERSHOP already has public customer proof. This concept shows how the shop could present its services and make the next step clearer for new clients.",
+        "imageCaption": "URBANA BEAUTY & BARBERSHOP · Houston, Texas"
+      },
+      "featuredServices": {
+        "eyebrow": "— 02 / The Menu",
+        "title": "Published services",
+        "description": "A clear view of the services verified in the shop's public information.",
+        "viewAllCta": "View Service Menu",
+        "reserveCta": "Book Appointment"
+      },
+      "principles": {
+        "eyebrow": "— 03 / The Standard",
+        "title": "A clearer path,",
+        "accentTitle": "from discovery to booking.",
+        "description": "A strong barbershop website should make the essentials easy to understand without inventing what the shop has not published.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Clear Services",
+            "body": "Customers can understand the shop's verified offerings before they call or book."
+          },
+          {
+            "number": "02",
+            "title": "Trusted Proof",
+            "body": "Public ratings and review volume support the shop's reputation without fabricated testimonials."
+          },
+          {
+            "number": "03",
+            "title": "Simple Booking",
+            "body": "The verified booking or contact path remains visible throughout the experience."
+          },
+          {
+            "number": "04",
+            "title": "Mobile Confidence",
+            "body": "Contact, directions, hours, and service information stay easy to use on a phone."
+          }
+        ]
+      },
+      "team": {
+        "eyebrow": "— 04 / The Team",
+        "title": "The people behind the shop",
+        "description": "Individual barber profiles were not clearly published, so the concept presents the shop collectively.",
+        "viewProfileCta": "View →",
+        "viewTeamCta": "Meet the Team"
+      },
+      "shop": {
+        "eyebrow": "— 05 / The Experience",
+        "titleLines": [
+          "A composed place",
+          "to discover the"
+        ],
+        "accentTitle": "shop.",
+        "description": "This visual direction gives URBANA BEAUTY & BARBERSHOP a polished online setting while keeping business facts separate from approved concept imagery.",
+        "galleryCta": "View Visual Direction →"
+      },
+      "selectedWork": {
+        "eyebrow": "— 06 / Visual Direction",
+        "title": "The presentation",
+        "galleryCta": "Gallery →",
+        "instagramCta": "Google Profile →",
+        "items": [
+          {
+            "image": {
+              "__hoppAsset": "workFadeImage"
+            },
+            "label": "Precision grooming",
+            "barber": "Website concept",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "workBeardImage"
+            },
+            "label": "Beard detailing",
+            "barber": "Website concept",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "workScissorImage"
+            },
+            "label": "Scissor work",
+            "barber": "Website concept",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "shopInteriorImage"
+            },
+            "label": "Shop atmosphere",
+            "barber": "Website concept",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "heroInteriorImage"
+            },
+            "label": "Barber station",
+            "barber": "Website concept",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailToolsImage"
+            },
+            "label": "Tools of the trade",
+            "barber": "Website concept",
+            "span": ""
+          }
+        ]
+      },
+      "ritual": {
+        "eyebrow": "— 08 / The Journey",
+        "title": "From first look,",
+        "accentTitle": "to the next appointment.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Discover the shop",
+            "body": "Review the public reputation, location, and verified business information."
+          },
+          {
+            "number": "02",
+            "title": "Explore services",
+            "body": "See the service information currently published by the shop."
+          },
+          {
+            "number": "03",
+            "title": "Choose the next step",
+            "body": "Use the verified booking path or call the business directly."
+          },
+          {
+            "number": "04",
+            "title": "Confirm the details",
+            "body": "The shop remains the source of truth for current prices, availability, and policies."
+          }
+        ]
+      },
+      "visit": {
+        "eyebrow": "— 09 / Visit",
+        "title": "Find the shop",
+        "accentTitle": "and make contact.",
+        "hoursLabel": "Hours",
+        "getDirectionsCta": "Get Directions",
+        "mapCta": "Open in Maps →"
+      },
+      "faq": {
+        "eyebrow": "— 10 / Useful Details",
+        "title": "Before you visit.",
+        "items": [
+          {
+            "question": "How should I book?",
+            "answer": "Use the shop's verified public booking path for current availability."
+          },
+          {
+            "question": "Are prices and durations current?",
+            "answer": "Only publicly verified prices and durations are shown. Confirm current details directly with the shop before booking."
+          },
+          {
+            "question": "Can I choose a specific barber?",
+            "answer": "Individual barber profiles were not clearly published. Contact the shop to ask about current team availability."
+          },
+          {
+            "question": "Where is the shop located?",
+            "answer": "811 Normandy St suit B100, Houston, TX 77015. Use the directions link for current navigation details."
+          }
+        ]
+      },
+      "finalCta": {
+        "eyebrow": "— Take the next step",
+        "title": "Ready to connect?",
+        "accentTitle": "Use the verified path.",
+        "description": "Contact URBANA BEAUTY & BARBERSHOP using the public details shown here.",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "servicesPage": {
+      "header": {
+        "breadcrumb": "Services",
+        "eyebrow": "— The Menu",
+        "title": "Published",
+        "accentTitle": "services.",
+        "intro": "Only services found in the shop's verified public information are presented here."
+      },
+      "guidance": {
+        "eyebrow": "— Guidance",
+        "title": "Confirm the right appointment."
+      },
+      "finalCta": {
+        "title": "Ready for the",
+        "accentTitle": "next step?",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barbersPage": {
+      "header": {
+        "breadcrumb": "Barbers",
+        "eyebrow": "— The Team",
+        "title": "Meet the",
+        "accentTitle": "shop.",
+        "intro": "Individual team profiles were not clearly published, so this concept keeps the presentation collective and accurate."
+      },
+      "labels": {
+        "specialties": "Specialties",
+        "bestBookedFor": "Best Booked For",
+        "viewProfile": "View Profile",
+        "bookWith": "Book with"
+      },
+      "firstAvailable": {
+        "eyebrow": "— Booking",
+        "title": "Need the next opening?",
+        "accentTitle": "Use the public booking path.",
+        "description": "The shop's verified booking or contact path is the source of truth for current team availability.",
+        "cta": "Book Appointment"
+      },
+      "finalCta": {
+        "title": "Ready to connect?",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "barberProfilePage": {
+      "backCta": "← All Barbers",
+      "instagramCta": "Instagram ↗",
+      "philosophyLabel": "— Public Profile",
+      "specialtiesLabel": "Verified specialties",
+      "servicesLabel": "Verified services",
+      "experienceLabel": "Public experience",
+      "availableAtLabel": "Available At",
+      "featuredWorkLabel": "— Concept Imagery",
+      "recentFromPrefix": "Visual direction for",
+      "clientNoteLabel": "— Public Review",
+      "reserveCta": "Reserve Your Chair",
+      "viewAllCta": "View All Barbers",
+      "notFound": {
+        "eyebrow": "Not Found",
+        "title": "That barber isn't on the team.",
+        "cta": "Meet the Team"
+      }
+    },
+    "galleryPage": {
+      "header": {
+        "breadcrumb": "Gallery",
+        "eyebrow": "— Visual Direction",
+        "title": "A stronger",
+        "accentTitle": "presentation.",
+        "intro": "Approved concept imagery demonstrates the visual quality of the proposed website and is not presented as business-owned photography."
+      },
+      "lightbox": {
+        "close": "Close ✕",
+        "previous": "Previous",
+        "next": "Next",
+        "bookCta": "Book This Service ↗"
+      },
+      "finalCta": {
+        "title": "Ready to take the next step?",
+        "description": "Use URBANA BEAUTY & BARBERSHOP's verified public booking or contact path.",
+        "primaryCta": "Book Appointment",
+        "instagramCta": "View Google Profile"
+      }
+    },
+    "aboutPage": {
+      "header": {
+        "breadcrumb": "About",
+        "eyebrow": "— The Shop",
+        "title": "A professional",
+        "titleLineTwo": "presence for",
+        "accentTitle": "URBANA BEAUTY & BARBERSHOP",
+        "intro": "URBANA BEAUTY & BARBERSHOP in Houston has a public Square appointment page, but the supplied page text does not expose an owner, staff names, services, prices, or social profiles. Best next step is to verify the booking flow directly before calling."
+      },
+      "founding": {
+        "eyebrow": "— 01 / The Public Story",
+        "title": "What can be verified.",
+        "founderCaption": "Public leadership not listed",
+        "paragraphs": [
+          "URBANA BEAUTY & BARBERSHOP in Houston has a public Square appointment page, but the supplied page text does not expose an owner, staff names, services, prices, or social profiles. Best next step is to verify the booking flow directly before calling.",
+          "No founding year, ownership story, or leadership claim is presented unless it was verified in the collected public sources."
+        ]
+      },
+      "standard": {
+        "eyebrow": "— 02 / The Digital Standard",
+        "title": "A clearer",
+        "accentTitle": "customer journey.",
+        "paragraphs": [
+          "The website concept prioritizes the information customers need before they call or book.",
+          "Verified facts remain distinct from controlled design language and approved visual assets."
+        ]
+      },
+      "values": [
+        {
+          "number": "03",
+          "title": "Public reputation",
+          "body": "302 public Google reviews provide a meaningful signal of the shop's local reputation."
+        },
+        {
+          "number": "04",
+          "title": "Service clarity",
+          "body": "Verified service information is placed where customers can understand it quickly."
+        },
+        {
+          "number": "05",
+          "title": "Direct contact",
+          "body": "The public phone, location, directions, and booking path remain easy to reach."
+        },
+        {
+          "number": "06",
+          "title": "Truthful presentation",
+          "body": "Unknown history, specialties, prices, and customer quotations are not invented to fill the design."
+        }
+      ],
+      "founderNote": {
+        "eyebrow": "",
+        "quote": "",
+        "author": ""
+      },
+      "finalCta": {
+        "title": "Connect with",
+        "accentTitle": "URBANA BEAUTY & BARBERSHOP",
+        "primaryCta": "Book Appointment",
+        "callPrefix": "Call"
+      }
+    },
+    "visitPage": {
+      "header": {
+        "breadcrumb": "Visit",
+        "eyebrow": "— Plan Your Visit",
+        "title": "Find the",
+        "accentTitle": "shop.",
+        "intro": "Current public location, hours, directions, and contact information in one place."
+      },
+      "labels": {
+        "address": "— Address",
+        "contact": "— Contact",
+        "hours": "— Hours",
+        "directionsCta": "Get Directions",
+        "mapCta": "Open in Maps →",
+        "bookCta": "Book Appointment"
+      },
+      "form": {
+        "eyebrow": "— Send a Note",
+        "title": "Get in touch.",
+        "description": "For the fastest response, use the verified booking path or call the shop directly. This concept form remains visual only and does not transmit submissions.",
+        "availabilityCta": "Book Appointment",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          "email": {
+            "label": "Email",
+            "name": "email",
+            "type": "email",
+            "required": true
+          },
+          "phone": {
+            "label": "Phone",
+            "name": "phone",
+            "type": "tel",
+            "required": false
+          },
+          "reasonLabel": "Reason",
+          "messageLabel": "Message"
+        },
+        "reasons": [
+          "General Question",
+          "Appointment Question",
+          "Service Recommendation",
+          "Private Event or Group Booking",
+          "Business Inquiry"
+        ],
+        "submitLabel": "Send Message",
+        "successEyebrow": "— Sent",
+        "successMessage": "Thank you. This website concept does not transmit form submissions.",
+        "note": "This demo form is intentionally non-operational. Use the verified public booking or phone path to contact the shop."
+      }
+    },
+    "footer": {
+      "eyebrow": "URBANA BEAUTY & BARBERSHOP",
+      "title": "Professional presence.",
+      "accentTitle": "Clear next steps.",
+      "description": "A professional website concept for URBANA BEAUTY & BARBERSHOP, built around verified public information and a direct path to contact or booking.",
+      "visitHeading": "Visit",
+      "hoursHeading": "Hours",
+      "bookingCta": "Book Appointment",
+      "instagramCta": "Google Business ↗",
+      "rightsText": "All rights reserved."
+    },
+    "systemPages": {
+      "notFound": {
+        "eyebrow": "404 · Not Found",
+        "title": "This page is not on the menu.",
+        "description": "The page you're looking for has moved or never existed. Head back to the homepage and explore from there.",
+        "cta": "Return Home"
+      },
+      "error": {
+        "eyebrow": "Something went wrong",
+        "title": "This page didn't load.",
+        "description": "Try again, or return home and continue from there.",
+        "retryCta": "Try Again",
+        "homeCta": "Go Home"
+      }
+    }
+  }
+}

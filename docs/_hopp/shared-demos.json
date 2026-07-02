@@ -70,6 +70,16 @@
       "dataPath": "_data/barbershop/trappin-cutz-barbershop-fc2f2d9.json",
       "dataSha256": "645c99314bc6c7f7ae0b643b45ae10a16a9569d2fb94f0c02710f51bff209151",
       "updatedAt": "2026-06-30T19:05:43.983Z"
+    },
+    {
+      "slug": "urbana-beauty-and-barbershop-898bfb1",
+      "businessName": "URBANA BEAUTY & BARBERSHOP",
+      "template": "barbershop",
+      "templateVersion": "v1-247f58cbdb2a",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/urbana-beauty-and-barbershop-898bfb1/",
+      "dataPath": "_data/barbershop/urbana-beauty-and-barbershop-898bfb1.json",
+      "dataSha256": "9ea96c14ed3bea5e4861a49fc762b762b1a92a7a5c3e1f112f2d1933c0612eef",
+      "updatedAt": "2026-07-02T01:11:03.588Z"
     }
   ]
 }
