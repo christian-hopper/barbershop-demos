@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "template": "home-services",
+  "templateVersion": "v1-4f291300d231",
+  "slug": "carlos-and-sons-plumbing-879a7fd",
+  "generatedAt": "2026-07-06T05:07:53.987Z",
+  "industry": "plumbing",
+  "business": {
+    "serviceCatalog": [
+      {
+        "name": "Service Consultation",
+        "description": "Contact the company directly to confirm the service required for your property."
+      }
+    ],
+    "brand": {
+      "shortName": "Carlos & Sons Plumbing",
+      "fullName": "Carlos & Sons Plumbing",
+      "wordmarkPrimary": "Carlos & Sons",
+      "wordmarkSecondary": "Plumbing",
+      "city": "Waco",
+      "state": "Texas",
+      "stateCode": "TX",
+      "category": "Plumber",
+      "categoryLabel": "Plumbing services",
+      "establishedYear": null,
+      "license": ""
+    },
+    "contact": {
+      "phoneRaw": "2542772617",
+      "phoneFormatted": "(254) 277-2617",
+      "phoneLink": "tel:2542772617",
+      "email": "",
+      "emailLink": "",
+      "addressLineOne": "3526 N 19th St #8000, Waco, TX 76708",
+      "addressLineTwo": "Waco, TX",
+      "fullAddress": "3526 N 19th St #8000, Waco, TX 76708",
+      "googleMapsUrl": "https://maps.google.com/?cid=2741345511660635028&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "directionsUrl": "https://maps.google.com/?cid=2741345511660635028&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "bookingUrl": "/request-service",
+      "contactUrl": "/contact",
+      "emergencyNote": "Call to confirm urgent-service availability",
+      "studioLabel": "Public business location",
+      "serviceAreaSummary": "Waco, TX",
+      "footerServiceArea": "Waco, TX",
+      "serviceAreaLong": "Public business listing located in Waco, TX. Contact the company to confirm service coverage for your property."
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "opens": "",
+        "closes": "",
+        "closed": false,
+        "display": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "opens": "",
+        "closes": "",
+        "closed": false,
+        "display": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "opens": "",
+        "closes": "",
+        "closed": false,
+        "display": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "opens": "",
+        "closes": "",
+        "closed": false,
+        "display": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "opens": "",
+        "closes": "",
+        "closed": false,
+        "display": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "opens": "",
+        "closes": "",
+        "closed": false,
+        "display": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "opens": "",
+        "closes": "",
+        "closed": false,
+        "display": "Open 24 hours"
+      }
+    ],
+    "hoursSummary": "Open 24 hours",
+    "metrics": {
+      "rating": 4.7,
+      "reviewCount": 116,
+      "yearsInBusiness": null,
+      "appointmentCount": null,
+      "customerCount": null,
+      "rebookingRate": null
+    },
+    "socialLinks": {
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "youtube": "",
+      "x": "",
+      "linkedin": "",
+      "googleBusinessProfile": "https://maps.google.com/?cid=2741345511660635028&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "yelp": "",
+      "bookingPlatform": ""
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/carlos-and-sons-plumbing-879a7fd",
+      "defaultTitle": "Carlos & Sons Plumbing | Plumbing services in Waco, TX",
+      "titleTemplate": "%s | Carlos & Sons Plumbing",
+      "defaultDescription": "Carlos & Sons Plumbing is a Plumber with a public business listing in Waco, TX. Explore verified services and contact information.",
+      "siteName": "Carlos & Sons Plumbing",
+      "localBusinessDescription": "Plumbing services with a public business listing in Waco, TX.",
+      "areaServed": [
+        "Waco, TX"
+      ]
+    },
+    "footer": {
+      "description": "Carlos & Sons Plumbing is presented here through verified public listing details and researched service information."
+    },
+    "globalCta": {
+      "title": "Talk with Carlos & Sons Plumbing about the service your property needs.",
+      "description": "Use the verified public phone or official request path to confirm scope, timing, availability, and next steps.",
+      "secondary": {
+        "label": "Call Carlos & Sons Plumbing"
+      },
+      "serviceArea": "Public business listing: Waco, TX"
+    },
+    "requestForm": {
+      "services": [
+        "Service Consultation",
+        "Other"
+      ],
+      "submitLabel": "Review Request",
+      "privacyNote": "This concept does not collect or transmit form entries. Call the verified public business number to request service.",
+      "behaviorNote": "This Hopp Digital concept does not send form data or store visitor information.",
+      "submissionUrl": "/request-service",
+      "success": {
+        "descriptionPrefix": "This concept does not transmit requests. Please contact the company through its verified public phone number"
+      }
+    },
+    "pages": {
+      "home": {
+        "hero": {
+          "description": "Carlos & Sons Plumbing is presented with verified public contact information and researched service details for customers in Waco, TX."
+        },
+        "introduction": {
+          "paragraphs": [
+            "Carlos & Sons Plumbing has a public business presence in Waco, TX. This concept organizes the company’s verified contact path, service information, reviews summary, and location into one clear mobile experience.",
+            "Verified public information reviewed for this concept: Public phone: (254) 277-2617 · Public address: 3526 N 19th St #8000"
+          ],
+          "note": "Public listing centered in Waco, TX."
+        }
+      },
+      "about": {
+        "hero": {
+          "intro": "Carlos & Sons Plumbing is presented through confirmed public business information. Unsupported history, credentials, and ownership claims are intentionally omitted."
+        },
+        "position": {
+          "paragraphs": [
+            "Carlos & Sons Plumbing is a Plumber in Waco. Public listing data includes 116 reviews and a 4.70 rating.",
+            "This concept keeps leadership language neutral because a public owner or leadership profile was not confirmed."
+          ]
+        },
+        "team": {
+          "title": "Leadership and service professionals",
+          "description": "Individual leadership and technician profiles are not shown because verified public source material was not available.",
+          "placeholder": "No public individual profiles were published in this concept.",
+          "members": []
+        }
+      },
+      "reviews": {
+        "hero": {
+          "intro": "The public listing shows a 4.7 rating across 116 reviews. Individual review quotations are not republished without verified source text."
+        },
+        "categories": [],
+        "items": [],
+        "disclaimer": "No customer quotation, reviewer name, date, or experience has been invented. Visit the verified public listing to read current reviews directly.",
+        "sectionDescription": "Verified public rating summary.",
+        "averageRating": 4.7,
+        "reviewCount": 116,
+        "reviewPlatformUrl": "https://maps.google.com/?cid=2741345511660635028&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+      },
+      "serviceArea": {
+        "hero": {
+          "titleBefore": "Plumbing services in ",
+          "titleEmphasis": "Waco, TX",
+          "titleAfter": ".",
+          "intro": "The public listing for this business is centered in Waco, TX. Contact the company directly to confirm service availability for a specific address."
+        },
+        "cities": [
+          {
+            "name": "Waco, TX",
+            "description": "The verified public business location. Surrounding service coverage should be confirmed directly with the company."
+          }
+        ],
+        "mapPoints": [
+          {
+            "x": 200,
+            "y": 200,
+            "label": "Waco"
+          }
+        ],
+        "context": {
+          "eyebrow": "Local service",
+          "title": "Confirm availability for your property.",
+          "description": "Service boundaries, travel policies, and appointment availability can change. The company’s public phone or official request path is the accurate place to confirm coverage.",
+          "cta": "Request service information →"
+        },
+        "availability": {
+          "title": "Contact the company to confirm service for your address.",
+          "cta": "View contact options"
+        }
+      },
+      "contact": {
+        "direct": {
+          "studioLabel": "Public listing",
+          "reserveLabel": "Service requests",
+          "reserveText": "Call the verified public number or use the official request path when available."
+        },
+        "form": {
+          "description": "This concept does not collect form submissions. Use the company’s verified public contact information to request service."
+        }
+      }
+    }
+  }
+}
