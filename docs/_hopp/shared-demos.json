@@ -123,6 +123,16 @@
       "updatedAt": "2026-07-02T18:33:56.985Z"
     },
     {
+      "slug": "tacos-camilas-6049244",
+      "businessName": "Tacos Camila’s",
+      "template": "restaurant",
+      "templateVersion": "v1-da5e3d1568ff",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/tacos-camilas-6049244/",
+      "dataPath": "_data/restaurant/tacos-camilas-6049244.json",
+      "dataSha256": "4146159fd8b1c33d6235840e2e7d784fc38c6753cda9bfc05c0c8b78608471e4",
+      "updatedAt": "2026-09-27T04:19:15.747Z"
+    },
+    {
       "slug": "trappin-cutz-barbershop-fc2f2d9",
       "businessName": "Trappin Cutz Barbershop",
       "template": "barbershop",

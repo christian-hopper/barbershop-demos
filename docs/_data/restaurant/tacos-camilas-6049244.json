@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "template": "restaurant",
+  "templateVersion": "v1-da5e3d1568ff",
+  "slug": "tacos-camilas-6049244",
+  "generatedAt": "2026-09-27T04:19:15.741Z",
+  "business": {
+    "name": "Tacos Camila’s",
+    "category": "Taco restaurant",
+    "city": "Santa Ana",
+    "stateCode": "CA",
+    "address": "1247 Magnolia Ave, Santa Ana, CA 92707",
+    "phone": "(714) 592-9570",
+    "phoneHref": "tel:+17145929570",
+    "mapsUrl": "https://maps.google.com/?cid=14979890143581458380&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "siteUrl": "https://christian-hopper.github.io/barbershop-demos/tacos-camilas-6049244/",
+    "instagramUrl": null,
+    "presetKey": "harbor-table",
+    "details": {
+      "preset": "auto",
+      "cuisine": [],
+      "summary": "",
+      "menuUrl": null,
+      "reservationUrl": null,
+      "orderingUrl": null,
+      "menu": []
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "display": "10:00 AM – 10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "display": "10:00 AM – 10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "display": "9:00 AM – 5:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "display": "10:00 AM – 10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "display": "10:00 AM – 10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "display": "10:00 AM – 10:00 PM"
+      },
+      {
+        "day": "Sunday",
+        "display": "10:00 AM – 10:00 PM"
+      }
+    ],
+    "reviewNotes": [
+      "Illustrative photography: confirm that the selected style suits this restaurant before sharing.",
+      "This preview uses unpriced sample menu selections. Check their suitability or add the actual menu before sharing.",
+      "The About page uses the selected style’s editorial preset. Add a restaurant introduction here if you want to personalize it.",
+      "No confirmed booking or ordering link is set. The primary action calls the restaurant."
+    ],
+    "seo": {
+      "defaultTitle": "Tacos Camila’s — Santa Ana",
+      "defaultDescription": "Tacos Camila’s in Santa Ana. Explore the menu, contact details and location."
+    }
+  }
+}
