@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "template": "barbershop",
-  "templateVersion": "v1-76a9142bbad1",
+  "templateVersion": "v1-cbc4181eaf4a",
   "slug": "century-cuts-barbershop-2b4fb9d",
-  "generatedAt": "2026-09-26T17:22:21.535Z",
+  "generatedAt": "2026-09-27T04:08:03.158Z",
   "business": {
     "brand": {
       "name": "Century Cuts Barbershop",
       "shortName": "Century Cuts Barbershop",
       "category": "Barber shop",
-      "descriptor": "Professional cuts. Considered presentation.",
+      "descriptor": "Good cuts. Great company.",
       "logoTop": "Century Cuts Barbershop",
       "logoBottom": "BARBERS · GARDEN GROVE",
       "oversizedWordmark": "CENTURY CUTS BARBERSHOP",
@@ -283,13 +283,13 @@
     "seo": {
       "siteUrl": "https://christian-hopper.github.io/barbershop-demos/century-cuts-barbershop-2b4fb9d",
       "defaultTitle": "Century Cuts Barbershop — Barbershop in Garden Grove, California",
-      "defaultDescription": "Explore a professional website concept for Century Cuts Barbershop, including verified contact details, services, team information, reviews, location, and booking access where publicly available.",
+      "defaultDescription": "Find your next look at Century Cuts Barbershop in Garden Grove, California. Explore the shop, plan your visit, and book your next appointment.",
       "author": "Century Cuts Barbershop",
       "openGraph": {
         "siteName": "Century Cuts Barbershop",
         "type": "website",
-        "title": "Century Cuts Barbershop — Professional Barbershop Website Concept",
-        "description": "A polished website concept for Century Cuts Barbershop in Garden Grove, California.",
+        "title": "Century Cuts Barbershop — Your next fresh start",
+        "description": "A little time for yourself at Century Cuts Barbershop in Garden Grove, California. Plan your next appointment.",
         "image": {
           "__hoppAsset": "heroInteriorImage"
         }
@@ -305,44 +305,44 @@
       "pages": {
         "home": {
           "title": "Century Cuts Barbershop — Barbershop in Garden Grove, California",
-          "description": "A professional website concept for Century Cuts Barbershop with verified contact, service, review, and booking information.",
+          "description": "A fresh cut. A familiar place. Find Century Cuts Barbershop in Garden Grove, California and plan your next appointment.",
           "ogTitle": "Century Cuts Barbershop — Barbershop in Garden Grove, California",
-          "ogDescription": "A professional website concept for Century Cuts Barbershop with verified contact, service, review, and booking information.",
+          "ogDescription": "A fresh cut. A familiar place. Find Century Cuts Barbershop in Garden Grove, California and plan your next appointment.",
           "path": "/"
         },
         "services": {
           "title": "Services | Century Cuts Barbershop",
-          "description": "Review the services publicly listed for Century Cuts Barbershop and use the verified booking or contact path for current details.",
+          "description": "Find your next look. Explore grooming at Century Cuts Barbershop and choose your appointment.",
           "ogTitle": "Services | Century Cuts Barbershop",
-          "ogDescription": "Review the services publicly listed for Century Cuts Barbershop and use the verified booking or contact path for current details.",
+          "ogDescription": "Find your next look. Explore grooming at Century Cuts Barbershop and choose your appointment.",
           "path": "/services"
         },
         "barbers": {
           "title": "Team | Century Cuts Barbershop",
-          "description": "Meet the publicly verified people associated with Century Cuts Barbershop.",
+          "description": "The people behind the chair at Century Cuts Barbershop. Find an appointment with the team.",
           "ogTitle": "Team | Century Cuts Barbershop",
-          "ogDescription": "Meet the publicly verified people associated with Century Cuts Barbershop.",
+          "ogDescription": "The people behind the chair at Century Cuts Barbershop. Find an appointment with the team.",
           "path": "/barbers"
         },
         "gallery": {
-          "title": "Visual Direction | Century Cuts Barbershop",
-          "description": "Approved concept imagery showing how Century Cuts Barbershop could present its work and shop experience online.",
-          "ogTitle": "Visual Direction | Century Cuts Barbershop",
-          "ogDescription": "Approved concept imagery showing how Century Cuts Barbershop could present its work and shop experience online.",
+          "title": "Gallery | Century Cuts Barbershop",
+          "description": "The cuts, the details, the atmosphere. A closer look at the world of Century Cuts Barbershop.",
+          "ogTitle": "Gallery | Century Cuts Barbershop",
+          "ogDescription": "The cuts, the details, the atmosphere. A closer look at the world of Century Cuts Barbershop.",
           "path": "/gallery"
         },
         "about": {
           "title": "About | Century Cuts Barbershop",
-          "description": "A clear, professional introduction to Century Cuts Barbershop using only verified public business information.",
+          "description": "Get to know Century Cuts Barbershop. A place for good cuts, good conversation, and a fresh start.",
           "ogTitle": "About | Century Cuts Barbershop",
-          "ogDescription": "A clear, professional introduction to Century Cuts Barbershop using only verified public business information.",
+          "ogDescription": "Get to know Century Cuts Barbershop. A place for good cuts, good conversation, and a fresh start.",
           "path": "/about"
         },
         "visit": {
           "title": "Visit & Contact | Century Cuts Barbershop",
-          "description": "Current public contact, location, hours, directions, and booking access for Century Cuts Barbershop.",
+          "description": "Find Century Cuts Barbershop, check opening hours, and plan your next visit.",
           "ogTitle": "Visit & Contact | Century Cuts Barbershop",
-          "ogDescription": "Current public contact, location, hours, directions, and booking access for Century Cuts Barbershop.",
+          "ogDescription": "Find Century Cuts Barbershop, check opening hours, and plan your next visit.",
           "path": "/visit"
         },
         "notFound": {
@@ -357,29 +357,67 @@
     "servicesSection": {
       "groups": [
         {
-          "name": "Service Menu",
-          "intro": "Additional services currently listed by the shop."
+          "name": "Haircuts",
+          "intro": "Find your shape. Refine your style."
+        },
+        {
+          "name": "Beard and Shave",
+          "intro": "The finishing touches make the difference."
         }
       ],
       "services": [
         {
-          "slug": "current-service-menu",
+          "slug": "haircut-1",
           "number": "01",
-          "name": "Current Service Menu",
+          "name": "Haircut",
           "price": 0,
           "duration": 0,
-          "description": "The shop's public listing does not clearly publish a complete service menu. Contact the shop to confirm current services, pricing, and availability.",
-          "recommendedFor": "Use the shop's public booking or contact path to confirm the best fit for your appointment.",
-          "group": "Service Menu",
+          "description": "A fresh shape, considered detail, and a finish that feels like you. From a familiar look to a change of pace.",
+          "recommendedFor": "For your next fresh start.",
+          "group": "Haircuts",
           "featured": true,
           "bookingUrl": "https://lhkw.app.link/vVyPf7OflNb?_p=c1163fdc9a067af1e41f90fcefbd",
-          "ctaText": "View Availability →"
+          "ctaText": "Find an Appointment →"
+        },
+        {
+          "slug": "fade-and-taper-2",
+          "number": "02",
+          "name": "Fade & Taper",
+          "price": 0,
+          "duration": 0,
+          "description": "Clean transitions and a shape that works from every angle. Choose your length and make the look your own.",
+          "recommendedFor": "For your next fresh start.",
+          "group": "Haircuts",
+          "featured": true,
+          "bookingUrl": "https://lhkw.app.link/vVyPf7OflNb?_p=c1163fdc9a067af1e41f90fcefbd",
+          "ctaText": "Find an Appointment →"
+        },
+        {
+          "slug": "beard-trim-3",
+          "number": "03",
+          "name": "Beard Trim",
+          "price": 0,
+          "duration": 0,
+          "description": "Shape, balance, and a clean finish. Bring your preferred look, or talk it through with your barber.",
+          "recommendedFor": "For a little more definition.",
+          "group": "Beard and Shave",
+          "featured": true,
+          "bookingUrl": "https://lhkw.app.link/vVyPf7OflNb?_p=c1163fdc9a067af1e41f90fcefbd",
+          "ctaText": "Find an Appointment →"
         }
       ],
       "guidance": [
         {
-          "title": "Current Service Menu",
-          "description": "The shop's public listing does not clearly publish a complete service menu. Contact the shop to confirm current services, pricing, and availability."
+          "title": "Your usual, or something new?",
+          "description": "Bring a reference, describe what you like, or talk it through. A good appointment starts with a conversation."
+        },
+        {
+          "title": "Choose your appointment",
+          "description": "Check the booking menu for current options and prices. If you are unsure what to choose, give the shop a call."
+        },
+        {
+          "title": "Make it yours",
+          "description": "Length, shape, and finish are personal. Let your barber know how you wear your hair day to day."
         }
       ]
     },
@@ -392,8 +430,8 @@
           "role": "Barber Team",
           "experience": "",
           "specialties": [],
-          "shortBio": "Individual barber profiles were not clearly published in the public sources collected for this shop.",
-          "bio": "The public listing does not name individual barbers. Use the shop's public booking or contact path to review current availability and choose the right appointment.",
+          "shortBio": "Good conversation. A fresh perspective. Your next look starts here.",
+          "bio": "Whether you have a regular look or something new in mind, start with a conversation. Explore appointments with the team and find a time that works for you.",
           "philosophy": "",
           "services": [],
           "instagram": "https://maps.google.com/?cid=15557022318907065433&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
@@ -423,8 +461,8 @@
     },
     "testimonialsSection": {
       "eyebrow": "— 07 / Reviews",
-      "sectionTitle": "Public reputation",
-      "supportingCopy": "322 public Google reviews support the shop's local reputation. Individual review quotations are not reproduced in this concept.",
+      "sectionTitle": "Around the neighborhood",
+      "supportingCopy": "322 Google reviews. See what people are saying about Century Cuts Barbershop.",
       "reviewPlatformUrl": "https://maps.google.com/?cid=15557022318907065433&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "googleReviewCta": "Read Google Reviews",
       "reviews": []
@@ -447,7 +485,7 @@
           "alt": "Precision grooming concept imagery for the Century Cuts Barbershop website demo",
           "category": "Haircuts",
           "service": "Precision grooming",
-          "barber": "Website concept",
+          "barber": "",
           "span": "row-span-2"
         },
         {
@@ -460,7 +498,7 @@
           "alt": "Beard detailing concept imagery for the Century Cuts Barbershop website demo",
           "category": "Beard Work",
           "service": "Beard detailing",
-          "barber": "Website concept",
+          "barber": "",
           "span": ""
         },
         {
@@ -473,7 +511,7 @@
           "alt": "Scissor work concept imagery for the Century Cuts Barbershop website demo",
           "category": "Haircuts",
           "service": "Scissor work",
-          "barber": "Website concept",
+          "barber": "",
           "span": "row-span-2"
         },
         {
@@ -486,7 +524,7 @@
           "alt": "Shop atmosphere concept imagery for the Century Cuts Barbershop website demo",
           "category": "The Shop",
           "service": "Shop atmosphere",
-          "barber": "Website concept",
+          "barber": "",
           "span": ""
         },
         {
@@ -499,7 +537,7 @@
           "alt": "Barber station concept imagery for the Century Cuts Barbershop website demo",
           "category": "The Shop",
           "service": "Barber station",
-          "barber": "Website concept",
+          "barber": "",
           "span": ""
         },
         {
@@ -512,7 +550,7 @@
           "alt": "Tools of the trade concept imagery for the Century Cuts Barbershop website demo",
           "category": "The Shop",
           "service": "Tools of the trade",
-          "barber": "Website concept",
+          "barber": "",
           "span": ""
         },
         {
@@ -525,7 +563,7 @@
           "alt": "Grooming ritual concept imagery for the Century Cuts Barbershop website demo",
           "category": "The Shop",
           "service": "Grooming ritual",
-          "barber": "Website concept",
+          "barber": "",
           "span": ""
         }
       ]
@@ -533,89 +571,89 @@
     "homePage": {
       "hero": {
         "eyebrow": "Garden Grove, California",
-        "title": "Sharp presentation.",
-        "accentTitle": "A stronger first impression.",
-        "description": "A professional online presence for Century Cuts Barbershop, bringing verified services, contact details, reviews, location, and booking access into one composed experience.",
+        "title": "A good cut.",
+        "accentTitle": "A fresh perspective.",
+        "description": "Welcome to Century Cuts Barbershop. A place to find your next look, enjoy a little conversation, and make time for yourself.",
         "primaryCta": "Book Appointment",
         "secondaryCta": "Explore Services",
         "secondaryCtaPath": "/services",
-        "reviewsLabel": "public reviews",
+        "reviewsLabel": "Google reviews",
         "scrollLabel": "Scroll"
       },
       "brandStatement": {
-        "eyebrow": "— 01 / The Presence",
+        "eyebrow": "— 01 / The Shop",
         "titleLines": [
-          "Great work deserves",
-          "an online presence"
+          "Your style.",
+          "Your time."
         ],
-        "accentTitle": "built to match.",
-        "description": "Century Cuts Barbershop already has public customer proof. This concept shows how the shop could present its services and make the next step clearer for new clients.",
+        "accentTitle": "Your kind of place.",
+        "description": "A haircut is a small part of your day that can change the way you feel about the rest of it. Come with a look in mind, or start with a conversation.",
         "imageCaption": "Century Cuts Barbershop · Garden Grove, California"
       },
       "featuredServices": {
         "eyebrow": "— 02 / The Menu",
-        "title": "Published services",
-        "description": "A clear view of the services verified in the shop's public information.",
-        "viewAllCta": "View Service Menu",
+        "title": "Find your next look",
+        "description": "From a fresh shape to the finishing touches. Make your next appointment your own.",
+        "viewAllCta": "Explore Services",
         "reserveCta": "Book Appointment"
       },
       "principles": {
         "eyebrow": "— 03 / The Standard",
-        "title": "A clearer path,",
-        "accentTitle": "from discovery to booking.",
-        "description": "A strong barbershop website should make the essentials easy to understand without inventing what the shop has not published.",
+        "title": "It's in",
+        "accentTitle": "the details.",
+        "description": "A shape that suits you. A finish that feels right. The little things are what make a look your own.",
         "items": [
           {
             "number": "01",
-            "title": "Clear Services",
-            "body": "Customers can understand the shop's verified offerings before they call or book."
+            "title": "Your style",
+            "body": "Keep what you love about your look, or make room for something different."
           },
           {
             "number": "02",
-            "title": "Trusted Proof",
-            "body": "Public ratings and review volume support the shop's reputation without fabricated testimonials."
+            "title": "The conversation",
+            "body": "A photo, a few ideas, or your usual. Bring whatever helps tell your story."
           },
           {
             "number": "03",
-            "title": "Simple Booking",
-            "body": "The verified booking or contact path remains visible throughout the experience."
+            "title": "The details",
+            "body": "From the shape to the finish, think about the way you want to wear it."
           },
           {
             "number": "04",
-            "title": "Mobile Confidence",
-            "body": "Contact, directions, hours, and service information stay easy to use on a phone."
+            "title": "A fresh start",
+            "body": "A moment in the chair. A little more confidence for the day ahead."
           }
         ]
       },
       "team": {
         "eyebrow": "— 04 / The Team",
-        "title": "The people behind the shop",
-        "description": "Individual barber profiles were not clearly published, so the concept presents the shop collectively.",
+        "title": "Behind the chair",
+        "description": "A familiar face or a first visit. Find your next appointment with the team.",
         "viewProfileCta": "View →",
         "viewTeamCta": "Meet the Team"
       },
       "shop": {
         "eyebrow": "— 05 / The Experience",
         "titleLines": [
-          "A composed place",
-          "to discover the"
+          "A little time",
+          "to feel like"
         ],
-        "accentTitle": "shop.",
-        "description": "This visual direction gives Century Cuts Barbershop a polished online setting while keeping business facts separate from approved concept imagery.",
-        "galleryCta": "View Visual Direction →"
+        "accentTitle": "yourself.",
+        "description": "Step away from the rush. A fresh cut, a conversation, and a moment that belongs to you.",
+        "galleryCta": "Take a Look →"
       },
       "selectedWork": {
-        "eyebrow": "— 06 / Visual Direction",
-        "title": "The presentation",
+        "eyebrow": "— 06 / The Details",
+        "title": "A closer look",
         "galleryCta": "Gallery →",
-        "instagramCta": "Google Profile →",
+        "instagramCta": "Find Us →",
         "items": [
           {
             "image": {
               "__hoppAsset": "workFadeImage"
             },
             "label": "Precision grooming",
-            "barber": "Website concept",
+            "barber": "",
             "span": "row-span-2"
           },
           {
@@ -623,7 +661,7 @@
               "__hoppAsset": "workBeardImage"
             },
             "label": "Beard detailing",
-            "barber": "Website concept",
+            "barber": "",
             "span": ""
           },
           {
@@ -631,7 +669,7 @@
               "__hoppAsset": "workScissorImage"
             },
             "label": "Scissor work",
-            "barber": "Website concept",
+            "barber": "",
             "span": "row-span-2"
           },
           {
@@ -639,7 +677,7 @@
               "__hoppAsset": "shopInteriorImage"
             },
             "label": "Shop atmosphere",
-            "barber": "Website concept",
+            "barber": "",
             "span": ""
           },
           {
@@ -647,7 +685,7 @@
               "__hoppAsset": "heroInteriorImage"
             },
             "label": "Barber station",
-            "barber": "Website concept",
+            "barber": "",
             "span": ""
           },
           {
@@ -655,42 +693,42 @@
               "__hoppAsset": "detailToolsImage"
             },
             "label": "Tools of the trade",
-            "barber": "Website concept",
+            "barber": "",
             "span": ""
           }
         ]
       },
       "ritual": {
-        "eyebrow": "— 08 / The Journey",
-        "title": "From first look,",
-        "accentTitle": "to the next appointment.",
+        "eyebrow": "— 08 / Your Visit",
+        "title": "A simple ritual.",
+        "accentTitle": "A better kind of day.",
         "items": [
           {
             "number": "01",
-            "title": "Discover the shop",
-            "body": "Review the public reputation, location, and verified business information."
+            "title": "Find your time",
+            "body": "Choose an appointment that fits into your day."
           },
           {
             "number": "02",
-            "title": "Explore services",
-            "body": "See the service information currently published by the shop."
+            "title": "Bring your ideas",
+            "body": "A familiar style or a new direction. Start with what feels like you."
           },
           {
             "number": "03",
-            "title": "Choose the next step",
-            "body": "Use the verified booking path or call the business directly."
+            "title": "Take a seat",
+            "body": "Put the day on pause and make a little time for yourself."
           },
           {
             "number": "04",
-            "title": "Confirm the details",
-            "body": "The shop remains the source of truth for current prices, availability, and policies."
+            "title": "Make it your own",
+            "body": "Enjoy the fresh start, then get back to your day."
           }
         ]
       },
       "visit": {
         "eyebrow": "— 09 / Visit",
-        "title": "Find the shop",
-        "accentTitle": "and make contact.",
+        "title": "Your next stop.",
+        "accentTitle": "Your next look.",
         "hoursLabel": "Hours",
         "getDirectionsCta": "Get Directions",
         "mapCta": "Open in Maps →"
@@ -700,28 +738,28 @@
         "title": "Before you visit.",
         "items": [
           {
-            "question": "How should I book?",
-            "answer": "Use the shop's verified public booking path for current availability."
+            "question": "How do I book?",
+            "answer": "Follow the booking link to choose your appointment and check current availability."
           },
           {
-            "question": "Are prices and durations current?",
-            "answer": "Only publicly verified prices and durations are shown. Confirm current details directly with the shop before booking."
+            "question": "Which appointment should I choose?",
+            "answer": "Check the booking menu for options, prices, and appointment lengths. If you are unsure, call the shop and talk through what you have in mind."
           },
           {
-            "question": "Can I choose a specific barber?",
-            "answer": "Individual barber profiles were not clearly published. Contact the shop to ask about current team availability."
+            "question": "Can I choose a barber?",
+            "answer": "Explore the booking options for the team, or call to ask about your preferred barber's availability."
           },
           {
-            "question": "Where is the shop located?",
-            "answer": "13068 Century Blvd, Garden Grove, CA 92843. Use the directions link for current navigation details."
+            "question": "Where can I find you?",
+            "answer": "13068 Century Blvd, Garden Grove, CA 92843. Open the map for directions and plan your visit."
           }
         ]
       },
       "finalCta": {
-        "eyebrow": "— Take the next step",
-        "title": "Ready to connect?",
-        "accentTitle": "Use the verified path.",
-        "description": "Contact Century Cuts Barbershop using the public details shown here.",
+        "eyebrow": "— Make time for yourself",
+        "title": "Ready for",
+        "accentTitle": "a fresh start?",
+        "description": "Your next appointment at Century Cuts Barbershop starts here.",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
       }
@@ -730,17 +768,17 @@
       "header": {
         "breadcrumb": "Services",
         "eyebrow": "— The Menu",
-        "title": "Published",
-        "accentTitle": "services.",
-        "intro": "Only services found in the shop's verified public information are presented here."
+        "title": "Find your",
+        "accentTitle": "next look.",
+        "intro": "The shape, the detail, the finish. Explore the possibilities and choose your next appointment."
       },
       "guidance": {
-        "eyebrow": "— Guidance",
-        "title": "Confirm the right appointment."
+        "eyebrow": "— Before the Chair",
+        "title": "A little guidance."
       },
       "finalCta": {
-        "title": "Ready for the",
-        "accentTitle": "next step?",
+        "title": "Your time.",
+        "accentTitle": "Your next look.",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
       }
@@ -749,9 +787,9 @@
       "header": {
         "breadcrumb": "Barbers",
         "eyebrow": "— The Team",
-        "title": "Meet the",
-        "accentTitle": "shop.",
-        "intro": "Individual team profiles were not clearly published, so this concept keeps the presentation collective and accurate."
+        "title": "Behind",
+        "accentTitle": "the chair.",
+        "intro": "Good conversation and a fresh perspective. Get to know the team and find your next appointment."
       },
       "labels": {
         "specialties": "Specialties",
@@ -760,29 +798,29 @@
         "bookWith": "Book with"
       },
       "firstAvailable": {
-        "eyebrow": "— Booking",
-        "title": "Need the next opening?",
-        "accentTitle": "Use the public booking path.",
-        "description": "The shop's verified booking or contact path is the source of truth for current team availability.",
+        "eyebrow": "— Your Next Visit",
+        "title": "Find your time.",
+        "accentTitle": "Take your seat.",
+        "description": "Have a barber in mind? Explore appointments with the team or call the shop to plan your visit.",
         "cta": "Book Appointment"
       },
       "finalCta": {
-        "title": "Ready to connect?",
+        "title": "Your next fresh start.",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
       }
     },
     "barberProfilePage": {
       "backCta": "← All Barbers",
-      "instagramCta": "Instagram ↗",
-      "philosophyLabel": "— Public Profile",
-      "specialtiesLabel": "Verified specialties",
-      "servicesLabel": "Verified services",
-      "experienceLabel": "Public experience",
+      "instagramCta": "Find the Shop",
+      "philosophyLabel": "— Behind the Chair",
+      "specialtiesLabel": "Specialties",
+      "servicesLabel": "Services",
+      "experienceLabel": "Experience",
       "availableAtLabel": "Available At",
-      "featuredWorkLabel": "— Concept Imagery",
-      "recentFromPrefix": "Visual direction for",
-      "clientNoteLabel": "— Public Review",
+      "featuredWorkLabel": "— The Details",
+      "recentFromPrefix": "A closer look at",
+      "clientNoteLabel": "— A Word from the Chair",
       "reserveCta": "Reserve Your Chair",
       "viewAllCta": "View All Barbers",
       "notFound": {
@@ -794,10 +832,10 @@
     "galleryPage": {
       "header": {
         "breadcrumb": "Gallery",
-        "eyebrow": "— Visual Direction",
-        "title": "A stronger",
-        "accentTitle": "presentation.",
-        "intro": "Approved concept imagery demonstrates the visual quality of the proposed website and is not presented as business-owned photography."
+        "eyebrow": "— The Details",
+        "title": "Style,",
+        "accentTitle": "up close.",
+        "intro": "The shape of a fresh cut. The tools of the craft. A moment in the chair."
       },
       "lightbox": {
         "close": "Close ✕",
@@ -806,59 +844,59 @@
         "bookCta": "Book This Service ↗"
       },
       "finalCta": {
-        "title": "Ready to take the next step?",
-        "description": "Use Century Cuts Barbershop's verified public booking or contact path.",
+        "title": "Find your next look.",
+        "description": "Make time for yourself at Century Cuts Barbershop.",
         "primaryCta": "Book Appointment",
-        "instagramCta": "View Google Profile"
+        "instagramCta": "Find Us on Google"
       }
     },
     "aboutPage": {
       "header": {
         "breadcrumb": "About",
         "eyebrow": "— The Shop",
-        "title": "A professional",
-        "titleLineTwo": "presence for",
+        "title": "Good cuts.",
+        "titleLineTwo": "Good company.",
         "accentTitle": "Century Cuts Barbershop",
-        "intro": "Century Cuts Barbershop in Garden Grove appears to use Booksy for booking. The public source provided only confirms a Booksy customer link; no owner, staff names, services, prices, or social profiles were visible in the supplied pages."
+        "intro": "More than a stop on your calendar. A little time to look sharp, catch up, and feel like yourself."
       },
       "founding": {
-        "eyebrow": "— 01 / The Public Story",
-        "title": "What can be verified.",
-        "founderCaption": "Public leadership not listed",
+        "eyebrow": "— 01 / Our Kind of Place",
+        "title": "Come as you are.",
+        "founderCaption": "Century Cuts Barbershop",
         "paragraphs": [
-          "Century Cuts Barbershop in Garden Grove appears to use Booksy for booking. The public source provided only confirms a Booksy customer link; no owner, staff names, services, prices, or social profiles were visible in the supplied pages.",
-          "No founding year, ownership story, or leadership claim is presented unless it was verified in the collected public sources."
+          "At Century Cuts Barbershop, the chair is a place to pause. Whether you are settling into your usual style or ready to try something different, it begins with a conversation.",
+          "Bring your ideas, your reference photo, or simply yourself. A fresh look should feel personal — something you can make your own long after you leave the chair."
         ]
       },
       "standard": {
-        "eyebrow": "— 02 / The Digital Standard",
-        "title": "A clearer",
-        "accentTitle": "customer journey.",
+        "eyebrow": "— 02 / The Details",
+        "title": "A good cut.",
+        "accentTitle": "An everyday difference.",
         "paragraphs": [
-          "The website concept prioritizes the information customers need before they call or book.",
-          "Verified facts remain distinct from controlled design language and approved visual assets."
+          "Style is personal. The way you part it, the length you like, the finish you choose — small details that add up to a look that feels right.",
+          "Some visits are about keeping a favorite look. Others are the start of something new. Wherever you are headed, make a little time for yourself along the way."
         ]
       },
       "values": [
         {
           "number": "03",
-          "title": "Public reputation",
-          "body": "322 public Google reviews provide a meaningful signal of the shop's local reputation."
+          "title": "Individual style",
+          "body": "A familiar look or a fresh direction. Start with what feels like you."
         },
         {
           "number": "04",
-          "title": "Service clarity",
-          "body": "Verified service information is placed where customers can understand it quickly."
+          "title": "Good conversation",
+          "body": "Share your ideas. Talk through the details. Enjoy a moment away from the day."
         },
         {
           "number": "05",
-          "title": "Direct contact",
-          "body": "The public phone, location, directions, and booking path remain easy to reach."
+          "title": "The finishing touch",
+          "body": "Shape, balance, and the little details that bring a look together."
         },
         {
           "number": "06",
-          "title": "Truthful presentation",
-          "body": "Unknown history, specialties, prices, and customer quotations are not invented to fill the design."
+          "title": "Time for yourself",
+          "body": "A place in your week for a fresh start and a little confidence."
         }
       ],
       "founderNote": {
@@ -867,7 +905,7 @@
         "author": ""
       },
       "finalCta": {
-        "title": "Connect with",
+        "title": "See you at",
         "accentTitle": "Century Cuts Barbershop",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
@@ -877,9 +915,9 @@
       "header": {
         "breadcrumb": "Visit",
         "eyebrow": "— Plan Your Visit",
-        "title": "Find the",
-        "accentTitle": "shop.",
-        "intro": "Current public location, hours, directions, and contact information in one place."
+        "title": "A place",
+        "accentTitle": "in your day.",
+        "intro": "Find the shop, choose your time, and make your next visit a good one."
       },
       "labels": {
         "address": "— Address",
@@ -892,7 +930,7 @@
       "form": {
         "eyebrow": "— Send a Note",
         "title": "Get in touch.",
-        "description": "For the fastest response, use the verified booking path or call the shop directly. This concept form remains visual only and does not transmit submissions.",
+        "description": "Ready to find your next appointment? Book directly or give the shop a call.",
         "availabilityCta": "Book Appointment",
         "fields": {
           "name": {
@@ -925,19 +963,19 @@
         ],
         "submitLabel": "Send Message",
         "successEyebrow": "— Sent",
-        "successMessage": "Thank you. This website concept does not transmit form submissions.",
-        "note": "This demo form is intentionally non-operational. Use the verified public booking or phone path to contact the shop."
+        "successMessage": "This preview does not send messages. Please book directly or call the shop.",
+        "note": "Preview form · Messages are not sent. Use the booking link or call to get in touch."
       }
     },
     "footer": {
       "eyebrow": "Century Cuts Barbershop",
-      "title": "Professional presence.",
-      "accentTitle": "Clear next steps.",
-      "description": "A professional website concept for Century Cuts Barbershop, built around verified public information and a direct path to contact or booking.",
+      "title": "Your next look.",
+      "accentTitle": "Your kind of place.",
+      "description": "Website preview · Illustrative photography and service selections. Confirm appointments and current services with the shop.",
       "visitHeading": "Visit",
       "hoursHeading": "Hours",
       "bookingCta": "Book Appointment",
-      "instagramCta": "Google Business ↗",
+      "instagramCta": "Find Us ↗",
       "rightsText": "All rights reserved."
     },
     "systemPages": {
