@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-fadaed137ea7",
+  "sharedBasePath": "/barbershop-demos/_shared/barbershop/v1-fadaed137ea7/",
+  "runtimeDigest": "0d92f41b27753f6ef0db5f5bc0e9c55e768984c5466aa1c79b71b9a4b467b64b",
+  "immutable": true,
+  "createdAt": "2026-10-05T02:56:27.353Z"
+}

@@ -73,6 +73,16 @@
       "updatedAt": "2026-07-02T18:49:16.703Z"
     },
     {
+      "slug": "high-society-shave-parlor-barbershop-e830c99",
+      "businessName": "High Society Shave Parlor Barbershop",
+      "template": "barbershop",
+      "templateVersion": "v1-fadaed137ea7",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/high-society-shave-parlor-barbershop-e830c99/",
+      "dataPath": "_data/barbershop/high-society-shave-parlor-barbershop-e830c99.json",
+      "dataSha256": "46777b364e7b9e56eeb7a4e93bed2989c7ec5c2273aeb0f87dc1ca79968e08de",
+      "updatedAt": "2026-10-05T02:56:27.362Z"
+    },
+    {
       "slug": "jmajor-cutz-and-mobile-barber-d3d5612",
       "businessName": "JMajor Cutz & Mobile Barber",
       "template": "barbershop",
