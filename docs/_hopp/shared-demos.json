@@ -83,6 +83,16 @@
       "updatedAt": "2026-06-29T21:42:05.830Z"
     },
     {
+      "slug": "la-choza-peruvian-and-mexican-restaurant-3950c26",
+      "businessName": "La Choza | Peruvian & Mexican Restaurant",
+      "template": "restaurant",
+      "templateVersion": "v1-5319360f65e4",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/la-choza-peruvian-and-mexican-restaurant-3950c26/",
+      "dataPath": "_data/restaurant/la-choza-peruvian-and-mexican-restaurant-3950c26.json",
+      "dataSha256": "8438a85a06028ec489fc3c84f28a5c7614dff99f369b1a7297162db70056aaea",
+      "updatedAt": "2026-10-05T02:48:52.853Z"
+    },
+    {
       "slug": "legends-barbershop-106ea7d",
       "businessName": "Legends Barbershop",
       "template": "barbershop",
