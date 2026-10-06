@@ -1,0 +1,996 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-3ab6d5d99b48",
+  "slug": "toms-barber-shop-0fab2b4",
+  "generatedAt": "2026-10-06T04:36:19.777Z",
+  "business": {
+    "brand": {
+      "name": "Tom’s Barber Shop",
+      "shortName": "Tom’s Barber Shop",
+      "category": "Barber shop",
+      "descriptor": "Good cuts. Great company.",
+      "logoTop": "Tom’s Barber Shop",
+      "logoBottom": "BARBERS · TEMECULA",
+      "oversizedWordmark": "TOM’S BARBER SHOP",
+      "establishedYear": 0,
+      "city": "Temecula",
+      "state": "California",
+      "cityState": "Temecula, California",
+      "copyrightName": "Tom’s Barber Shop",
+      "loaderStorageKey": "hopp-demo-loaded:toms-barber-shop-0fab2b4"
+    },
+    "contact": {
+      "phoneRaw": "9513033700",
+      "phoneFormatted": "(951) 303-3700",
+      "phoneHref": "tel:+19513033700",
+      "email": "",
+      "address": {
+        "line1": "31725 Temecula Pkwy C",
+        "line2": "Temecula CA 92592",
+        "full": "31725 Temecula Pkwy C, Temecula, CA 92592",
+        "short": "31725 Temecula Pkwy C",
+        "mapLabel": "31725 Temecula Pkwy C, Temecula, CA 92592",
+        "streetAddress": "31725 Temecula Pkwy C",
+        "locality": "Temecula",
+        "region": "CA",
+        "postalCode": "92592",
+        "country": "US"
+      },
+      "bookingUrl": "tel:+19513033700",
+      "contactPath": "/visit",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=31725%20Temecula%20Pkwy%20C%2C%20Temecula%2C%20CA%2092592",
+      "mapsUrl": "https://maps.google.com/?cid=9036443824621204079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=31725%20Temecula%20Pkwy%20C%2C%20Temecula%2C%20CA%2092592&output=embed",
+      "parking": "Call the shop for current parking and arrival details."
+    },
+    "socialLinks": {
+      "instagram": {
+        "label": "Google",
+        "handle": "Google Business",
+        "url": "https://maps.google.com/?cid=9036443824621204079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    "navigation": {
+      "main": [
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "Services",
+          "to": "/services"
+        },
+        {
+          "label": "Barbers",
+          "to": "/barbers"
+        },
+        {
+          "label": "Gallery",
+          "to": "/gallery"
+        },
+        {
+          "label": "About",
+          "to": "/about"
+        },
+        {
+          "label": "Visit",
+          "to": "/visit"
+        }
+      ],
+      "headerCta": {
+        "label": "Call to Book",
+        "url": "tel:+19513033700"
+      },
+      "mobileCta": {
+        "label": "Call to Book",
+        "url": "tel:+19513033700"
+      },
+      "footerHeading": "Explore",
+      "legal": [
+        {
+          "label": "Privacy",
+          "to": "/visit"
+        },
+        {
+          "label": "Accessibility",
+          "to": "/visit"
+        },
+        {
+          "label": "Contact",
+          "to": "/visit"
+        }
+      ],
+      "mobileLabels": {
+        "visit": "Visit",
+        "today": "Today",
+        "call": "Call",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu"
+      }
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "short": "Mon",
+        "open": "09:00",
+        "close": "17:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 5:00 PM",
+        "periods": [
+          {
+            "openDay": 1,
+            "closeDay": 1,
+            "open": "09:00",
+            "close": "17:00"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "short": "Tue",
+        "open": "09:00",
+        "close": "17:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 5:00 PM",
+        "periods": [
+          {
+            "openDay": 2,
+            "closeDay": 2,
+            "open": "09:00",
+            "close": "17:00"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "short": "Wed",
+        "open": "09:00",
+        "close": "17:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 5:00 PM",
+        "periods": [
+          {
+            "openDay": 3,
+            "closeDay": 3,
+            "open": "09:00",
+            "close": "17:00"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "short": "Thu",
+        "open": "09:00",
+        "close": "17:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 5:00 PM",
+        "periods": [
+          {
+            "openDay": 4,
+            "closeDay": 4,
+            "open": "09:00",
+            "close": "17:00"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "short": "Fri",
+        "open": "09:00",
+        "close": "17:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 5:00 PM",
+        "periods": [
+          {
+            "openDay": 5,
+            "closeDay": 5,
+            "open": "09:00",
+            "close": "17:00"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "short": "Sat",
+        "open": "09:00",
+        "close": "15:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 3:00 PM",
+        "periods": [
+          {
+            "openDay": 6,
+            "closeDay": 6,
+            "open": "09:00",
+            "close": "15:00"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "short": "Sun",
+        "open": "09:00",
+        "close": "15:00",
+        "closed": false,
+        "open24Hours": false,
+        "display": "9:00 AM – 3:00 PM",
+        "periods": [
+          {
+            "openDay": 0,
+            "closeDay": 0,
+            "open": "09:00",
+            "close": "15:00"
+          }
+        ]
+      }
+    ],
+    "metrics": {
+      "rating": 4.7,
+      "reviewCount": 222,
+      "ratingStars": "★ ★ ★ ★ ★",
+      "reviewSource": "Google"
+    },
+    "assets": {
+      "hero": {
+        "src": {
+          "__hoppAsset": "heroInteriorImage"
+        },
+        "alt": "Barber chairs and workstations"
+      },
+      "shopInterior": {
+        "src": {
+          "__hoppAsset": "shopInteriorImage"
+        },
+        "alt": "A barber chair and workstation"
+      },
+      "detailTools": {
+        "src": {
+          "__hoppAsset": "detailToolsImage"
+        },
+        "alt": "Scissors and grooming tools on a workstation"
+      },
+      "detailTowels": {
+        "src": {
+          "__hoppAsset": "detailTowelsImage"
+        },
+        "alt": "Barbering tools arranged on a work surface"
+      },
+      "workFade": {
+        "src": {
+          "__hoppAsset": "workFadeImage"
+        },
+        "alt": "A barber shaping a haircut"
+      },
+      "workBeard": {
+        "src": {
+          "__hoppAsset": "workBeardImage"
+        },
+        "alt": "A barber refining a client's hairline"
+      },
+      "workScissor": {
+        "src": {
+          "__hoppAsset": "workScissorImage"
+        },
+        "alt": "A haircut in progress"
+      }
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/toms-barber-shop-0fab2b4",
+      "defaultTitle": "Tom’s Barber Shop — Barbershop in Temecula, California",
+      "defaultDescription": "Find your next look at Tom’s Barber Shop in Temecula, California. Explore the shop, plan your visit, and book your next appointment.",
+      "author": "Tom’s Barber Shop",
+      "openGraph": {
+        "siteName": "Tom’s Barber Shop",
+        "type": "website",
+        "title": "Tom’s Barber Shop — Your next fresh start",
+        "description": "A little time for yourself at Tom’s Barber Shop in Temecula, California. Plan your next appointment.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Tom’s Barber Shop — Temecula, California",
+        "description": "Services, team information, reviews, location, and booking access for Tom’s Barber Shop.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "pages": {
+        "home": {
+          "title": "Tom’s Barber Shop — Barbershop in Temecula, California",
+          "description": "A fresh cut. A familiar place. Find Tom’s Barber Shop in Temecula, California and plan your next appointment.",
+          "ogTitle": "Tom’s Barber Shop — Barbershop in Temecula, California",
+          "ogDescription": "A fresh cut. A familiar place. Find Tom’s Barber Shop in Temecula, California and plan your next appointment.",
+          "path": "/"
+        },
+        "services": {
+          "title": "Services | Tom’s Barber Shop",
+          "description": "Find your next look. Explore grooming at Tom’s Barber Shop and choose your appointment.",
+          "ogTitle": "Services | Tom’s Barber Shop",
+          "ogDescription": "Find your next look. Explore grooming at Tom’s Barber Shop and choose your appointment.",
+          "path": "/services"
+        },
+        "barbers": {
+          "title": "Team | Tom’s Barber Shop",
+          "description": "The people behind the chair at Tom’s Barber Shop. Find an appointment with the team.",
+          "ogTitle": "Team | Tom’s Barber Shop",
+          "ogDescription": "The people behind the chair at Tom’s Barber Shop. Find an appointment with the team.",
+          "path": "/barbers"
+        },
+        "gallery": {
+          "title": "Gallery | Tom’s Barber Shop",
+          "description": "The cuts, the details, the atmosphere. A closer look at the world of Tom’s Barber Shop.",
+          "ogTitle": "Gallery | Tom’s Barber Shop",
+          "ogDescription": "The cuts, the details, the atmosphere. A closer look at the world of Tom’s Barber Shop.",
+          "path": "/gallery"
+        },
+        "about": {
+          "title": "About | Tom’s Barber Shop",
+          "description": "Get to know Tom’s Barber Shop. A place for good cuts, good conversation, and a fresh start.",
+          "ogTitle": "About | Tom’s Barber Shop",
+          "ogDescription": "Get to know Tom’s Barber Shop. A place for good cuts, good conversation, and a fresh start.",
+          "path": "/about"
+        },
+        "visit": {
+          "title": "Visit & Contact | Tom’s Barber Shop",
+          "description": "Find Tom’s Barber Shop, check opening hours, and plan your next visit.",
+          "ogTitle": "Visit & Contact | Tom’s Barber Shop",
+          "ogDescription": "Find Tom’s Barber Shop, check opening hours, and plan your next visit.",
+          "path": "/visit"
+        },
+        "notFound": {
+          "title": "Page Not Found | Tom’s Barber Shop",
+          "description": "The requested page could not be found.",
+          "path": "/404",
+          "ogTitle": "Page Not Found | Tom’s Barber Shop",
+          "ogDescription": "The requested page could not be found."
+        }
+      }
+    },
+    "servicesSection": {
+      "groups": [
+        {
+          "name": "Haircuts",
+          "intro": "Find your shape. Refine your style."
+        },
+        {
+          "name": "Beard and Shave",
+          "intro": "The finishing touches make the difference."
+        }
+      ],
+      "services": [
+        {
+          "slug": "haircut-1",
+          "number": "01",
+          "name": "Haircut",
+          "price": 0,
+          "duration": 0,
+          "description": "A fresh shape, considered detail, and a finish that feels like you. From a familiar look to a change of pace.",
+          "recommendedFor": "For your next fresh start.",
+          "group": "Haircuts",
+          "featured": true,
+          "bookingUrl": "tel:+19513033700",
+          "ctaText": "Call to Book →"
+        },
+        {
+          "slug": "fade-and-taper-2",
+          "number": "02",
+          "name": "Fade & Taper",
+          "price": 0,
+          "duration": 0,
+          "description": "Clean transitions and a shape that works from every angle. Choose your length and make the look your own.",
+          "recommendedFor": "For your next fresh start.",
+          "group": "Haircuts",
+          "featured": true,
+          "bookingUrl": "tel:+19513033700",
+          "ctaText": "Call to Book →"
+        },
+        {
+          "slug": "beard-trim-3",
+          "number": "03",
+          "name": "Beard Trim",
+          "price": 0,
+          "duration": 0,
+          "description": "Shape, balance, and a clean finish. Bring your preferred look, or talk it through with your barber.",
+          "recommendedFor": "For a little more definition.",
+          "group": "Beard and Shave",
+          "featured": true,
+          "bookingUrl": "tel:+19513033700",
+          "ctaText": "Call to Book →"
+        }
+      ],
+      "guidance": [
+        {
+          "title": "Your usual, or something new?",
+          "description": "Bring a reference, describe what you like, or talk it through. A good appointment starts with a conversation."
+        },
+        {
+          "title": "Choose your appointment",
+          "description": "Check the booking menu for current options and prices. If you are unsure what to choose, give the shop a call."
+        },
+        {
+          "title": "Make it yours",
+          "description": "Length, shape, and finish are personal. Let your barber know how you wear your hair day to day."
+        }
+      ]
+    },
+    "teamSection": {
+      "members": [
+        {
+          "slug": "toms-barber-shop-team",
+          "name": "Tom’s Barber Shop Team",
+          "firstName": "Team",
+          "role": "Barber Team",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "Good conversation. A fresh perspective. Your next look starts here.",
+          "bio": "Whether you have a regular look or something new in mind, start with a conversation. Explore appointments with the team and find a time that works for you.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "https://maps.google.com/?cid=9036443824621204079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "bookingUrl": "tel:+19513033700",
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "imageAlt": "A barber chair and workstation",
+          "availability": "Appointments at 31725 Temecula Pkwy C",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        }
+      ],
+      "sampleWork": [
+        {
+          "__hoppAsset": "workFadeImage"
+        },
+        {
+          "__hoppAsset": "workBeardImage"
+        },
+        {
+          "__hoppAsset": "workScissorImage"
+        }
+      ]
+    },
+    "testimonialsSection": {
+      "eyebrow": "— 07 / Reviews",
+      "sectionTitle": "Around the neighborhood",
+      "supportingCopy": "222 Google reviews. See what people are saying about Tom’s Barber Shop.",
+      "reviewPlatformUrl": "https://maps.google.com/?cid=9036443824621204079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleReviewCta": "Read Google Reviews",
+      "reviews": []
+    },
+    "gallerySection": {
+      "categories": [
+        "All",
+        "Haircuts",
+        "The Shop"
+      ],
+      "items": [
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "A barber shaping a haircut",
+          "category": "Haircuts",
+          "service": "Precision grooming",
+          "barber": "",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "A barber refining a client's hairline",
+          "category": "Haircuts",
+          "service": "Finishing touches",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "A haircut in progress",
+          "category": "Haircuts",
+          "service": "Scissor work",
+          "barber": "",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "alt": "A barber chair and workstation",
+          "category": "The Shop",
+          "service": "Shop atmosphere",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "alt": "Barber chairs and workstations",
+          "category": "The Shop",
+          "service": "Barber station",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "alt": "Scissors and grooming tools on a workstation",
+          "category": "The Shop",
+          "service": "Tools of the trade",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "alt": "Barbering tools arranged on a work surface",
+          "category": "The Shop",
+          "service": "Grooming ritual",
+          "barber": "",
+          "span": ""
+        }
+      ]
+    },
+    "homePage": {
+      "hero": {
+        "eyebrow": "Temecula, California",
+        "title": "A good cut.",
+        "accentTitle": "A fresh perspective.",
+        "description": "Welcome to Tom’s Barber Shop. A place to find your next look, enjoy a little conversation, and make time for yourself.",
+        "primaryCta": "Call to Book",
+        "secondaryCta": "Explore Services",
+        "secondaryCtaPath": "/services",
+        "reviewsLabel": "Google reviews",
+        "scrollLabel": "Scroll"
+      },
+      "brandStatement": {
+        "eyebrow": "— 01 / The Shop",
+        "titleLines": [
+          "Your style.",
+          "Your time."
+        ],
+        "accentTitle": "Your kind of place.",
+        "description": "A haircut is a small part of your day that can change the way you feel about the rest of it. Come with a look in mind, or start with a conversation.",
+        "imageCaption": "Tom’s Barber Shop · Temecula, California"
+      },
+      "featuredServices": {
+        "eyebrow": "— 02 / The Menu",
+        "title": "Find your next look",
+        "description": "From a fresh shape to the finishing touches. Make your next appointment your own.",
+        "viewAllCta": "Explore Services",
+        "reserveCta": "Call to Book"
+      },
+      "principles": {
+        "eyebrow": "— 03 / The Standard",
+        "title": "It's in",
+        "accentTitle": "the details.",
+        "description": "A shape that suits you. A finish that feels right. The little things are what make a look your own.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Your style",
+            "body": "Keep what you love about your look, or make room for something different."
+          },
+          {
+            "number": "02",
+            "title": "The conversation",
+            "body": "A photo, a few ideas, or your usual. Bring whatever helps tell your story."
+          },
+          {
+            "number": "03",
+            "title": "The details",
+            "body": "From the shape to the finish, think about the way you want to wear it."
+          },
+          {
+            "number": "04",
+            "title": "A fresh start",
+            "body": "A moment in the chair. A little more confidence for the day ahead."
+          }
+        ]
+      },
+      "team": {
+        "eyebrow": "— 04 / The Team",
+        "title": "Behind the chair",
+        "description": "A familiar face or a first visit. Find your next appointment with the team.",
+        "viewProfileCta": "View →",
+        "viewTeamCta": "Meet the Team"
+      },
+      "shop": {
+        "eyebrow": "— 05 / The Experience",
+        "titleLines": [
+          "A little time",
+          "to feel like"
+        ],
+        "accentTitle": "yourself.",
+        "description": "Step away from the rush. A fresh cut, a conversation, and a moment that belongs to you.",
+        "galleryCta": "Take a Look →"
+      },
+      "selectedWork": {
+        "eyebrow": "— 06 / The Details",
+        "title": "A closer look",
+        "galleryCta": "Gallery →",
+        "instagramCta": "Find Us →",
+        "items": [
+          {
+            "image": {
+              "__hoppAsset": "workFadeImage"
+            },
+            "label": "Precision grooming",
+            "barber": "",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "workBeardImage"
+            },
+            "label": "Finishing touches",
+            "barber": "",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "workScissorImage"
+            },
+            "label": "Scissor work",
+            "barber": "",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "shopInteriorImage"
+            },
+            "label": "Shop atmosphere",
+            "barber": "",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "heroInteriorImage"
+            },
+            "label": "Barber station",
+            "barber": "",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailToolsImage"
+            },
+            "label": "Tools of the trade",
+            "barber": "",
+            "span": ""
+          }
+        ]
+      },
+      "ritual": {
+        "eyebrow": "— 08 / Your Visit",
+        "title": "A simple ritual.",
+        "accentTitle": "A better kind of day.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Find your time",
+            "body": "Choose an appointment that fits into your day."
+          },
+          {
+            "number": "02",
+            "title": "Bring your ideas",
+            "body": "A familiar style or a new direction. Start with what feels like you."
+          },
+          {
+            "number": "03",
+            "title": "Take a seat",
+            "body": "Put the day on pause and make a little time for yourself."
+          },
+          {
+            "number": "04",
+            "title": "Make it your own",
+            "body": "Enjoy the fresh start, then get back to your day."
+          }
+        ]
+      },
+      "visit": {
+        "eyebrow": "— 09 / Visit",
+        "title": "Your next stop.",
+        "accentTitle": "Your next look.",
+        "hoursLabel": "Hours",
+        "getDirectionsCta": "Get Directions",
+        "mapCta": "Open in Maps →"
+      },
+      "faq": {
+        "eyebrow": "— 10 / Useful Details",
+        "title": "Before you visit.",
+        "items": [
+          {
+            "question": "How do I book?",
+            "answer": "Give the shop a call to find an appointment that works for you."
+          },
+          {
+            "question": "Which appointment should I choose?",
+            "answer": "Check the booking menu for options, prices, and appointment lengths. If you are unsure, call the shop and talk through what you have in mind."
+          },
+          {
+            "question": "Can I choose a barber?",
+            "answer": "Explore the booking options for the team, or call to ask about your preferred barber's availability."
+          },
+          {
+            "question": "Where can I find you?",
+            "answer": "31725 Temecula Pkwy C, Temecula, CA 92592. Open the map for directions and plan your visit."
+          }
+        ]
+      },
+      "finalCta": {
+        "eyebrow": "— Make time for yourself",
+        "title": "Ready for",
+        "accentTitle": "a fresh start?",
+        "description": "Your next appointment at Tom’s Barber Shop starts here.",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "servicesPage": {
+      "header": {
+        "breadcrumb": "Services",
+        "eyebrow": "— The Menu",
+        "title": "Find your",
+        "accentTitle": "next look.",
+        "intro": "The shape, the detail, the finish. Explore the possibilities and choose your next appointment."
+      },
+      "guidance": {
+        "eyebrow": "— Before the Chair",
+        "title": "A little guidance."
+      },
+      "finalCta": {
+        "title": "Your time.",
+        "accentTitle": "Your next look.",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "barbersPage": {
+      "header": {
+        "breadcrumb": "Barbers",
+        "eyebrow": "— The Team",
+        "title": "Behind",
+        "accentTitle": "the chair.",
+        "intro": "Good conversation and a fresh perspective. Get to know the team and find your next appointment."
+      },
+      "labels": {
+        "specialties": "Specialties",
+        "bestBookedFor": "Best Booked For",
+        "viewProfile": "View Profile",
+        "bookWith": "Book with"
+      },
+      "firstAvailable": {
+        "eyebrow": "— Your Next Visit",
+        "title": "Find your time.",
+        "accentTitle": "Take your seat.",
+        "description": "Have a barber in mind? Explore appointments with the team or call the shop to plan your visit.",
+        "cta": "Call to Book"
+      },
+      "finalCta": {
+        "title": "Your next fresh start.",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "barberProfilePage": {
+      "backCta": "← All Barbers",
+      "instagramCta": "Find the Shop",
+      "philosophyLabel": "— Behind the Chair",
+      "specialtiesLabel": "Specialties",
+      "servicesLabel": "Services",
+      "experienceLabel": "Experience",
+      "availableAtLabel": "Available At",
+      "featuredWorkLabel": "— The Details",
+      "recentFromPrefix": "A closer look at",
+      "clientNoteLabel": "— A Word from the Chair",
+      "reserveCta": "Reserve Your Chair",
+      "viewAllCta": "View All Barbers",
+      "notFound": {
+        "eyebrow": "Not Found",
+        "title": "That barber isn't on the team.",
+        "cta": "Meet the Team"
+      }
+    },
+    "galleryPage": {
+      "header": {
+        "breadcrumb": "Gallery",
+        "eyebrow": "— The Details",
+        "title": "Style,",
+        "accentTitle": "up close.",
+        "intro": "The shape of a fresh cut. The tools of the craft. A moment in the chair."
+      },
+      "lightbox": {
+        "close": "Close ✕",
+        "previous": "Previous",
+        "next": "Next",
+        "bookCta": "Book This Service ↗"
+      },
+      "finalCta": {
+        "title": "Find your next look.",
+        "description": "Make time for yourself at Tom’s Barber Shop.",
+        "primaryCta": "Call to Book",
+        "instagramCta": "Find Us on Google"
+      }
+    },
+    "aboutPage": {
+      "header": {
+        "breadcrumb": "About",
+        "eyebrow": "— The Shop",
+        "title": "Good cuts.",
+        "titleLineTwo": "Good company.",
+        "accentTitle": "Tom’s Barber Shop",
+        "intro": "More than a stop on your calendar. A little time to look sharp, catch up, and feel like yourself."
+      },
+      "founding": {
+        "eyebrow": "— 01 / Our Kind of Place",
+        "title": "Come as you are.",
+        "founderCaption": "Tom’s Barber Shop",
+        "paragraphs": [
+          "At Tom’s Barber Shop, the chair is a place to pause. Whether you are settling into your usual style or ready to try something different, it begins with a conversation.",
+          "Bring your ideas, your reference photo, or simply yourself. A fresh look should feel personal — something you can make your own long after you leave the chair."
+        ]
+      },
+      "standard": {
+        "eyebrow": "— 02 / The Details",
+        "title": "A good cut.",
+        "accentTitle": "An everyday difference.",
+        "paragraphs": [
+          "Style is personal. The way you part it, the length you like, the finish you choose — small details that add up to a look that feels right.",
+          "Some visits are about keeping a favorite look. Others are the start of something new. Wherever you are headed, make a little time for yourself along the way."
+        ]
+      },
+      "values": [
+        {
+          "number": "03",
+          "title": "Individual style",
+          "body": "A familiar look or a fresh direction. Start with what feels like you."
+        },
+        {
+          "number": "04",
+          "title": "Good conversation",
+          "body": "Share your ideas. Talk through the details. Enjoy a moment away from the day."
+        },
+        {
+          "number": "05",
+          "title": "The finishing touch",
+          "body": "Shape, balance, and the little details that bring a look together."
+        },
+        {
+          "number": "06",
+          "title": "Time for yourself",
+          "body": "A place in your week for a fresh start and a little confidence."
+        }
+      ],
+      "founderNote": {
+        "eyebrow": "",
+        "quote": "",
+        "author": ""
+      },
+      "finalCta": {
+        "title": "See you at",
+        "accentTitle": "Tom’s Barber Shop",
+        "primaryCta": "Call to Book",
+        "callPrefix": "Call"
+      }
+    },
+    "visitPage": {
+      "header": {
+        "breadcrumb": "Visit",
+        "eyebrow": "— Plan Your Visit",
+        "title": "A place",
+        "accentTitle": "in your day.",
+        "intro": "Find the shop, choose your time, and make your next visit a good one."
+      },
+      "labels": {
+        "address": "— Address",
+        "contact": "— Contact",
+        "hours": "— Hours",
+        "directionsCta": "Get Directions",
+        "mapCta": "Open in Maps →",
+        "bookCta": "Book Appointment"
+      },
+      "form": {
+        "eyebrow": "— Send a Note",
+        "title": "Get in touch.",
+        "description": "Ready to find your next appointment? Book directly or give the shop a call.",
+        "availabilityCta": "Call to Book",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          "email": {
+            "label": "Email",
+            "name": "email",
+            "type": "email",
+            "required": true
+          },
+          "phone": {
+            "label": "Phone",
+            "name": "phone",
+            "type": "tel",
+            "required": false
+          },
+          "reasonLabel": "Reason",
+          "messageLabel": "Message"
+        },
+        "reasons": [
+          "General Question",
+          "Appointment Question",
+          "Service Recommendation",
+          "Private Event or Group Booking",
+          "Business Inquiry"
+        ],
+        "submitLabel": "Send Message",
+        "successEyebrow": "— Sent",
+        "successMessage": "Book directly or give the shop a call to arrange your visit.",
+        "note": ""
+      }
+    },
+    "footer": {
+      "eyebrow": "Tom’s Barber Shop",
+      "title": "Your next look.",
+      "accentTitle": "Your kind of place.",
+      "description": "A fresh cut, a little conversation, and time for yourself. Find your next appointment with the team.",
+      "visitHeading": "Visit",
+      "hoursHeading": "Hours",
+      "bookingCta": "Call to Book",
+      "instagramCta": "Find Us ↗",
+      "rightsText": "All rights reserved."
+    },
+    "systemPages": {
+      "notFound": {
+        "eyebrow": "404 · Not Found",
+        "title": "This page is not on the menu.",
+        "description": "The page you're looking for has moved or never existed. Head back to the homepage and explore from there.",
+        "cta": "Return Home"
+      },
+      "error": {
+        "eyebrow": "Something went wrong",
+        "title": "This page didn't load.",
+        "description": "Try again, or return home and continue from there.",
+        "retryCta": "Try Again",
+        "homeCta": "Go Home"
+      }
+    }
+  }
+}

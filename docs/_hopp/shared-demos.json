@@ -153,6 +153,16 @@
       "updatedAt": "2026-09-27T04:19:15.747Z"
     },
     {
+      "slug": "toms-barber-shop-0fab2b4",
+      "businessName": "Tom’s Barber Shop",
+      "template": "barbershop",
+      "templateVersion": "v1-3ab6d5d99b48",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/toms-barber-shop-0fab2b4/",
+      "dataPath": "_data/barbershop/toms-barber-shop-0fab2b4.json",
+      "dataSha256": "b1b393f842d3c8f4fb8966039f4e0fef1c9c48412f9336f21cd2402b9056fa05",
+      "updatedAt": "2026-10-06T04:36:19.782Z"
+    },
+    {
       "slug": "trappin-cutz-barbershop-fc2f2d9",
       "businessName": "Trappin Cutz Barbershop",
       "template": "barbershop",
