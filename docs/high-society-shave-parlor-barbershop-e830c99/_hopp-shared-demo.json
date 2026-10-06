@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "template": "barbershop",
-  "templateVersion": "v1-fadaed137ea7",
+  "templateVersion": "v1-3ab6d5d99b48",
   "slug": "high-society-shave-parlor-barbershop-e830c99",
   "dataPath": "_data/barbershop/high-society-shave-parlor-barbershop-e830c99.json",
-  "dataSha256": "46777b364e7b9e56eeb7a4e93bed2989c7ec5c2273aeb0f87dc1ca79968e08de",
-  "publishedAt": "2026-10-05T02:56:27.359Z"
+  "dataSha256": "d2db5518493273bf5f5694c27883d5ec776b238d4ada55118e5f6e34626a121d",
+  "publishedAt": "2026-10-06T04:40:33.859Z"
 }

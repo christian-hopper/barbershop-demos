@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "template": "barbershop",
-  "templateVersion": "v1-fadaed137ea7",
+  "templateVersion": "v1-3ab6d5d99b48",
   "slug": "high-society-shave-parlor-barbershop-e830c99",
-  "generatedAt": "2026-10-05T02:56:27.355Z",
+  "generatedAt": "2026-10-06T04:40:33.852Z",
   "business": {
     "brand": {
       "name": "High Society Shave Parlor Barbershop",
@@ -948,15 +948,15 @@
         ],
         "submitLabel": "Send Message",
         "successEyebrow": "— Sent",
-        "successMessage": "This preview does not send messages. Please book directly or call the shop.",
-        "note": "Preview form · Messages are not sent. Use the booking link or call to get in touch."
+        "successMessage": "Book directly or give the shop a call to arrange your visit.",
+        "note": ""
       }
     },
     "footer": {
       "eyebrow": "High Society Shave Parlor Barbershop",
       "title": "Your next look.",
       "accentTitle": "Your kind of place.",
-      "description": "Editorial photography and service selections. Contact the shop for current services and appointments.",
+      "description": "A fresh cut, a little conversation, and time for yourself. Find your next appointment with the team.",
       "visitHeading": "Visit",
       "hoursHeading": "Hours",
       "bookingCta": "Book Appointment",
