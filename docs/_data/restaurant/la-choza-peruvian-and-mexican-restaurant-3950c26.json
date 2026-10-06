@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "template": "restaurant",
-  "templateVersion": "v1-5319360f65e4",
+  "templateVersion": "v1-0ec43bd7e5c2",
   "slug": "la-choza-peruvian-and-mexican-restaurant-3950c26",
-  "generatedAt": "2026-10-05T02:48:52.847Z",
+  "generatedAt": "2026-10-06T04:47:19.889Z",
   "business": {
     "name": "La Choza | Peruvian & Mexican Restaurant",
     "category": "Peruvian restaurant",
@@ -17,9 +17,9 @@
     "instagramUrl": null,
     "presetKey": "harbor-table",
     "classification": {
-      "cuisine": "general",
-      "confidence": "low",
-      "source": "unknown"
+      "cuisine": "burger",
+      "confidence": "high",
+      "source": "category"
     },
     "details": {
       "preset": "auto",
@@ -59,13 +59,6 @@
         "day": "Sunday",
         "display": "Closed"
       }
-    ],
-    "reviewNotes": [
-      "Illustrative photography: confirm that the selected style suits this restaurant before sharing.",
-      "This preview uses unpriced sample menu selections. Check their suitability or add the actual menu before sharing.",
-      "The About page uses the selected style’s editorial preset. Add a restaurant introduction here if you want to personalize it.",
-      "No confirmed booking or ordering link is set. The primary action calls the restaurant.",
-      "Cuisine is uncertain or has no dedicated pack. Neutral real photography and general menu sections are used."
     ],
     "seo": {
       "defaultTitle": "La Choza | Peruvian & Mexican Restaurant — Temecula",

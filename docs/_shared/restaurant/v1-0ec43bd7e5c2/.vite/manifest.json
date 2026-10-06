@@ -1,0 +1,689 @@
+{
+  "index.html": {
+    "file": "assets/index-DSPQvtYU.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/main-app.tsx"
+    ],
+    "css": [
+      "assets/index-DqFacyI0.css"
+    ],
+    "assets": [
+      "assets/manrope-latin-DHIcAJRg.woff2",
+      "assets/newsreader-latin-s-izfB6B.woff2"
+    ]
+  },
+  "src/assets/approved/photo-1552056776-9b5657118ca4.webp": {
+    "file": "assets/photo-1552056776-9b5657118ca4-BicC8tuW.webp",
+    "src": "src/assets/approved/photo-1552056776-9b5657118ca4.webp"
+  },
+  "src/assets/approved/photo-1566889110088-1119b49ce526.webp": {
+    "file": "assets/photo-1566889110088-1119b49ce526-DV_XkeFg.webp",
+    "src": "src/assets/approved/photo-1566889110088-1119b49ce526.webp"
+  },
+  "src/assets/approved/photo-1639020715360-e5ebeb9cd4d9.webp": {
+    "file": "assets/photo-1639020715360-e5ebeb9cd4d9-naqw5S3J.webp",
+    "src": "src/assets/approved/photo-1639020715360-e5ebeb9cd4d9.webp"
+  },
+  "src/assets/approved/photo-1678774055677-f61466b1cd5d.webp": {
+    "file": "assets/photo-1678774055677-f61466b1cd5d-av8DB-Fk.webp",
+    "src": "src/assets/approved/photo-1678774055677-f61466b1cd5d.webp"
+  },
+  "src/assets/approved/photo-1687945512099-400cbe94460c.webp": {
+    "file": "assets/photo-1687945512099-400cbe94460c-DgXS1uc7.webp",
+    "src": "src/assets/approved/photo-1687945512099-400cbe94460c.webp"
+  },
+  "src/assets/approved/photo-1703219338500-90f646e60c1b.webp": {
+    "file": "assets/photo-1703219338500-90f646e60c1b-DHJf8rGw.webp",
+    "src": "src/assets/approved/photo-1703219338500-90f646e60c1b.webp"
+  },
+  "src/assets/approved/photo-1759277513572-677ce91d6b5f.webp": {
+    "file": "assets/photo-1759277513572-677ce91d6b5f-D6XU6Bex.webp",
+    "src": "src/assets/approved/photo-1759277513572-677ce91d6b5f.webp"
+  },
+  "src/assets/approved/photo-1760390952355-a6b9cf50a7a2.webp": {
+    "file": "assets/photo-1760390952355-a6b9cf50a7a2-C4o_GaXc.webp",
+    "src": "src/assets/approved/photo-1760390952355-a6b9cf50a7a2.webp"
+  },
+  "src/assets/approved/photo-1771508558419-02528a292af2.webp": {
+    "file": "assets/photo-1771508558419-02528a292af2-zov3oWA_.webp",
+    "src": "src/assets/approved/photo-1771508558419-02528a292af2.webp"
+  },
+  "src/assets/approved/photo-1774509627260-4f97e8cd1af1.webp": {
+    "file": "assets/photo-1774509627260-4f97e8cd1af1-C6VgWjpZ.webp",
+    "src": "src/assets/approved/photo-1774509627260-4f97e8cd1af1.webp"
+  },
+  "src/assets/approved/photo-1774989423979-6a7bf5add3f0.webp": {
+    "file": "assets/photo-1774989423979-6a7bf5add3f0-CbTbClQ8.webp",
+    "src": "src/assets/approved/photo-1774989423979-6a7bf5add3f0.webp"
+  },
+  "src/assets/approved/photo-1776290347384-9e54dbb2ee29.webp": {
+    "file": "assets/photo-1776290347384-9e54dbb2ee29-Dn83crfZ.webp",
+    "src": "src/assets/approved/photo-1776290347384-9e54dbb2ee29.webp"
+  },
+  "src/assets/approved/photo-1776763255189-3c8237aec808.webp": {
+    "file": "assets/photo-1776763255189-3c8237aec808-3BgQnybI.webp",
+    "src": "src/assets/approved/photo-1776763255189-3c8237aec808.webp"
+  },
+  "src/assets/approved/photo-1777502286448-35389817f504.webp": {
+    "file": "assets/photo-1777502286448-35389817f504-BTNeHh_f.webp",
+    "src": "src/assets/approved/photo-1777502286448-35389817f504.webp"
+  },
+  "src/assets/approved/photo-1779265312208-ea9eb64ee359.webp": {
+    "file": "assets/photo-1779265312208-ea9eb64ee359-Bk53DaUK.webp",
+    "src": "src/assets/approved/photo-1779265312208-ea9eb64ee359.webp"
+  },
+  "src/assets/approved/photo-1779738193005-c4b3ac8ef870.webp": {
+    "file": "assets/photo-1779738193005-c4b3ac8ef870-n90hfXsU.webp",
+    "src": "src/assets/approved/photo-1779738193005-c4b3ac8ef870.webp"
+  },
+  "src/assets/approved/photo-1780397453393-cfc5aac82666.webp": {
+    "file": "assets/photo-1780397453393-cfc5aac82666-Cf00tAmZ.webp",
+    "src": "src/assets/approved/photo-1780397453393-cfc5aac82666.webp"
+  },
+  "src/assets/approved/photo-1780805664774-ef6082baeb03.webp": {
+    "file": "assets/photo-1780805664774-ef6082baeb03-eH6VE0B-.webp",
+    "src": "src/assets/approved/photo-1780805664774-ef6082baeb03.webp"
+  },
+  "src/assets/approved/photo-1781181727460-ccd6962647d4.webp": {
+    "file": "assets/photo-1781181727460-ccd6962647d4-sKs7OqAt.webp",
+    "src": "src/assets/approved/photo-1781181727460-ccd6962647d4.webp"
+  },
+  "src/assets/approved/photo-1782174177186-9026d6c74413.webp": {
+    "file": "assets/photo-1782174177186-9026d6c74413-CqNsREZT.webp",
+    "src": "src/assets/approved/photo-1782174177186-9026d6c74413.webp"
+  },
+  "src/assets/approved/photo-1782983595358-d8f8d59ae442.webp": {
+    "file": "assets/photo-1782983595358-d8f8d59ae442-xybHiJtY.webp",
+    "src": "src/assets/approved/photo-1782983595358-d8f8d59ae442.webp"
+  },
+  "src/assets/atmosphere-room.jpg": {
+    "file": "assets/atmosphere-room-BF6EhwXd.jpg",
+    "src": "src/assets/atmosphere-room.jpg"
+  },
+  "src/assets/cta-table.jpg": {
+    "file": "assets/cta-table-CeJXmNeW.jpg",
+    "src": "src/assets/cta-table.jpg"
+  },
+  "src/assets/detail-coffee.jpg": {
+    "file": "assets/detail-coffee-CJQx0-1z.jpg",
+    "src": "src/assets/detail-coffee.jpg"
+  },
+  "src/assets/detail-pastry.jpg": {
+    "file": "assets/detail-pastry-CP4xSUhE.jpg",
+    "src": "src/assets/detail-pastry.jpg"
+  },
+  "src/assets/detail-table.jpg": {
+    "file": "assets/detail-table-DabIqyvB.jpg",
+    "src": "src/assets/detail-table.jpg"
+  },
+  "src/assets/dish-frenchtoast.jpg": {
+    "file": "assets/dish-frenchtoast-DgoTlurr.jpg",
+    "src": "src/assets/dish-frenchtoast.jpg"
+  },
+  "src/assets/dish-hash.jpg": {
+    "file": "assets/dish-hash-Bk7QRExw.jpg",
+    "src": "src/assets/dish-hash.jpg"
+  },
+  "src/assets/dish-pancakes.jpg": {
+    "file": "assets/dish-pancakes-C58EQgvB.jpg",
+    "src": "src/assets/dish-pancakes.jpg"
+  },
+  "src/assets/dish-scramble.jpg": {
+    "file": "assets/dish-scramble-DbS5FEm0.jpg",
+    "src": "src/assets/dish-scramble.jpg"
+  },
+  "src/assets/dish-yogurt.jpg": {
+    "file": "assets/dish-yogurt-HnjFqWxX.jpg",
+    "src": "src/assets/dish-yogurt.jpg"
+  },
+  "src/assets/fonts/manrope-latin.woff2": {
+    "file": "assets/manrope-latin-DHIcAJRg.woff2",
+    "src": "src/assets/fonts/manrope-latin.woff2"
+  },
+  "src/assets/fonts/newsreader-latin.woff2": {
+    "file": "assets/newsreader-latin-s-izfB6B.woff2",
+    "src": "src/assets/fonts/newsreader-latin.woff2"
+  },
+  "src/assets/hero-room.jpg": {
+    "file": "assets/hero-room-H4GnMpTG.jpg",
+    "src": "src/assets/hero-room.jpg"
+  },
+  "src/assets/photography/breakfast-coffee.webp": {
+    "file": "assets/breakfast-coffee-CMV8C1-M.webp",
+    "src": "src/assets/photography/breakfast-coffee.webp"
+  },
+  "src/assets/photography/burger.webp": {
+    "file": "assets/burger-D8NyE63i.webp",
+    "src": "src/assets/photography/burger.webp"
+  },
+  "src/assets/photography/chinese-dumplings.webp": {
+    "file": "assets/chinese-dumplings-D0M47m67.webp",
+    "src": "src/assets/photography/chinese-dumplings.webp"
+  },
+  "src/assets/photography/indian-plate.webp": {
+    "file": "assets/indian-plate-BtQp35Uu.webp",
+    "src": "src/assets/photography/indian-plate.webp"
+  },
+  "src/assets/photography/italian-pasta.webp": {
+    "file": "assets/italian-pasta-B4pFjZmE.webp",
+    "src": "src/assets/photography/italian-pasta.webp"
+  },
+  "src/assets/photography/italian-table.webp": {
+    "file": "assets/italian-table-D25R7wQC.webp",
+    "src": "src/assets/photography/italian-table.webp"
+  },
+  "src/assets/photography/mediterranean-hummus.webp": {
+    "file": "assets/mediterranean-hummus-D6Jv9ExR.webp",
+    "src": "src/assets/photography/mediterranean-hummus.webp"
+  },
+  "src/assets/photography/mexican-table.webp": {
+    "file": "assets/mexican-table-C9WKF9YP.webp",
+    "src": "src/assets/photography/mexican-table.webp"
+  },
+  "src/assets/photography/mexican-tacos.webp": {
+    "file": "assets/mexican-tacos-BG5CVkww.webp",
+    "src": "src/assets/photography/mexican-tacos.webp"
+  },
+  "src/assets/photography/photo-1480455454781-1af590be2a58.webp": {
+    "file": "assets/photo-1480455454781-1af590be2a58-p6zHXJtz.webp",
+    "src": "src/assets/photography/photo-1480455454781-1af590be2a58.webp"
+  },
+  "src/assets/photography/photo-1506372023823-741c83b836fe.webp": {
+    "file": "assets/photo-1506372023823-741c83b836fe-msf_tu67.webp",
+    "src": "src/assets/photography/photo-1506372023823-741c83b836fe.webp"
+  },
+  "src/assets/photography/photo-1511690656952-34342bb7c2f2.webp": {
+    "file": "assets/photo-1511690656952-34342bb7c2f2-qerIGrxD.webp",
+    "src": "src/assets/photography/photo-1511690656952-34342bb7c2f2.webp"
+  },
+  "src/assets/photography/photo-1533776992670-a72f4c28235e.webp": {
+    "file": "assets/photo-1533776992670-a72f4c28235e-BXHoXuHo.webp",
+    "src": "src/assets/photography/photo-1533776992670-a72f4c28235e.webp"
+  },
+  "src/assets/photography/photo-1542372147193-a7aca54189cd.webp": {
+    "file": "assets/photo-1542372147193-a7aca54189cd-mCYqtPy3.webp",
+    "src": "src/assets/photography/photo-1542372147193-a7aca54189cd.webp"
+  },
+  "src/assets/photography/photo-1552056776-9b5657118ca4.webp": {
+    "file": "assets/photo-1552056776-9b5657118ca4-BNYjQK-r.webp",
+    "src": "src/assets/photography/photo-1552056776-9b5657118ca4.webp"
+  },
+  "src/assets/photography/photo-1557869458-63870977545f.webp": {
+    "file": "assets/photo-1557869458-63870977545f-DrJ5Iztq.webp",
+    "src": "src/assets/photography/photo-1557869458-63870977545f.webp"
+  },
+  "src/assets/photography/photo-1562436260-126d541901e0.webp": {
+    "file": "assets/photo-1562436260-126d541901e0-TfRcmTOF.webp",
+    "src": "src/assets/photography/photo-1562436260-126d541901e0.webp"
+  },
+  "src/assets/photography/photo-1562565652-a0d8f0c59eb4.webp": {
+    "file": "assets/photo-1562565652-a0d8f0c59eb4-ppgSz4n9.webp",
+    "src": "src/assets/photography/photo-1562565652-a0d8f0c59eb4.webp"
+  },
+  "src/assets/photography/photo-1566889110088-1119b49ce526.webp": {
+    "file": "assets/photo-1566889110088-1119b49ce526-DneIHwvY.webp",
+    "src": "src/assets/photography/photo-1566889110088-1119b49ce526.webp"
+  },
+  "src/assets/photography/photo-1568901346375-23c9450c58cd.webp": {
+    "file": "assets/photo-1568901346375-23c9450c58cd-Bp5PiUm8.webp",
+    "src": "src/assets/photography/photo-1568901346375-23c9450c58cd.webp"
+  },
+  "src/assets/photography/photo-1571951286227-7a28b07822ea.webp": {
+    "file": "assets/photo-1571951286227-7a28b07822ea-C4i_BL8s.webp",
+    "src": "src/assets/photography/photo-1571951286227-7a28b07822ea.webp"
+  },
+  "src/assets/photography/photo-1572802419224-296b0aeee0d9.webp": {
+    "file": "assets/photo-1572802419224-296b0aeee0d9-NX1kllKs.webp",
+    "src": "src/assets/photography/photo-1572802419224-296b0aeee0d9.webp"
+  },
+  "src/assets/photography/photo-1574578831425-41dbec20aa5c.webp": {
+    "file": "assets/photo-1574578831425-41dbec20aa5c-llBd0kya.webp",
+    "src": "src/assets/photography/photo-1574578831425-41dbec20aa5c.webp"
+  },
+  "src/assets/photography/photo-1585032226651-759b368d7246.webp": {
+    "file": "assets/photo-1585032226651-759b368d7246-DmNWE53b.webp",
+    "src": "src/assets/photography/photo-1585032226651-759b368d7246.webp"
+  },
+  "src/assets/photography/photo-1585937421612-70a008356fbe.webp": {
+    "file": "assets/photo-1585937421612-70a008356fbe-DvpSN3n_.webp",
+    "src": "src/assets/photography/photo-1585937421612-70a008356fbe.webp"
+  },
+  "src/assets/photography/photo-1586190848861-99aa4a171e90.webp": {
+    "file": "assets/photo-1586190848861-99aa4a171e90-COgzmIgX.webp",
+    "src": "src/assets/photography/photo-1586190848861-99aa4a171e90.webp"
+  },
+  "src/assets/photography/photo-1601050690597-df0568f70950.webp": {
+    "file": "assets/photo-1601050690597-df0568f70950-CK_Z6Z7g.webp",
+    "src": "src/assets/photography/photo-1601050690597-df0568f70950.webp"
+  },
+  "src/assets/photography/photo-1602232037779-30b01ac3c457.webp": {
+    "file": "assets/photo-1602232037779-30b01ac3c457-KaoSgZQM.webp",
+    "src": "src/assets/photography/photo-1602232037779-30b01ac3c457.webp"
+  },
+  "src/assets/photography/photo-1602273660127-a0000560a4c1.webp": {
+    "file": "assets/photo-1602273660127-a0000560a4c1-6hZh9W6i.webp",
+    "src": "src/assets/photography/photo-1602273660127-a0000560a4c1.webp"
+  },
+  "src/assets/photography/photo-1610632380989-680fe40816c6.webp": {
+    "file": "assets/photo-1610632380989-680fe40816c6-Bz1lA8in.webp",
+    "src": "src/assets/photography/photo-1610632380989-680fe40816c6.webp"
+  },
+  "src/assets/photography/photo-1611143669185-af224c5e3252.webp": {
+    "file": "assets/photo-1611143669185-af224c5e3252-Cw34LzM5.webp",
+    "src": "src/assets/photography/photo-1611143669185-af224c5e3252.webp"
+  },
+  "src/assets/photography/photo-1613409385222-3d0decb6742a.webp": {
+    "file": "assets/photo-1613409385222-3d0decb6742a-Ds185Yu_.webp",
+    "src": "src/assets/photography/photo-1613409385222-3d0decb6742a.webp"
+  },
+  "src/assets/photography/photo-1614563637806-1d0e645e0940.webp": {
+    "file": "assets/photo-1614563637806-1d0e645e0940-FKPP_K83.webp",
+    "src": "src/assets/photography/photo-1614563637806-1d0e645e0940.webp"
+  },
+  "src/assets/photography/photo-1623689048105-a17b1e1936b8.webp": {
+    "file": "assets/photo-1623689048105-a17b1e1936b8-CY94FhL9.webp",
+    "src": "src/assets/photography/photo-1623689048105-a17b1e1936b8.webp"
+  },
+  "src/assets/photography/photo-1625398407796-82650a8c135f.webp": {
+    "file": "assets/photo-1625398407796-82650a8c135f-Dx5r4VOL.webp",
+    "src": "src/assets/photography/photo-1625398407796-82650a8c135f.webp"
+  },
+  "src/assets/photography/photo-1627308595186-e6bb36712645.webp": {
+    "file": "assets/photo-1627308595186-e6bb36712645-DhRLH07M.webp",
+    "src": "src/assets/photography/photo-1627308595186-e6bb36712645.webp"
+  },
+  "src/assets/photography/photo-1629684782790-385ed5adb497.webp": {
+    "file": "assets/photo-1629684782790-385ed5adb497-ednPVc7w.webp",
+    "src": "src/assets/photography/photo-1629684782790-385ed5adb497.webp"
+  },
+  "src/assets/photography/photo-1631709497146-a239ef373cf1.webp": {
+    "file": "assets/photo-1631709497146-a239ef373cf1-CZ2bhcT0.webp",
+    "src": "src/assets/photography/photo-1631709497146-a239ef373cf1.webp"
+  },
+  "src/assets/photography/photo-1633271306917-a668495ba567.webp": {
+    "file": "assets/photo-1633271306917-a668495ba567-Bvua5mAn.webp",
+    "src": "src/assets/photography/photo-1633271306917-a668495ba567.webp"
+  },
+  "src/assets/photography/photo-1637806930600-37fa8892069d.webp": {
+    "file": "assets/photo-1637806930600-37fa8892069d-DsrOucMa.webp",
+    "src": "src/assets/photography/photo-1637806930600-37fa8892069d.webp"
+  },
+  "src/assets/photography/photo-1639020715360-e5ebeb9cd4d9.webp": {
+    "file": "assets/photo-1639020715360-e5ebeb9cd4d9-W_hRhBXV.webp",
+    "src": "src/assets/photography/photo-1639020715360-e5ebeb9cd4d9.webp"
+  },
+  "src/assets/photography/photo-1643123755923-71c0736878e4.webp": {
+    "file": "assets/photo-1643123755923-71c0736878e4-CvkidzSo.webp",
+    "src": "src/assets/photography/photo-1643123755923-71c0736878e4.webp"
+  },
+  "src/assets/photography/photo-1648437595587-e6a8b0cdf1f9.webp": {
+    "file": "assets/photo-1648437595587-e6a8b0cdf1f9-y3NpNXb2.webp",
+    "src": "src/assets/photography/photo-1648437595587-e6a8b0cdf1f9.webp"
+  },
+  "src/assets/photography/photo-1653611540493-b3a896319fbf.webp": {
+    "file": "assets/photo-1653611540493-b3a896319fbf-Cslqt9RV.webp",
+    "src": "src/assets/photography/photo-1653611540493-b3a896319fbf.webp"
+  },
+  "src/assets/photography/photo-1666025959951-da3036b03b29.webp": {
+    "file": "assets/photo-1666025959951-da3036b03b29-CXm8NQLC.webp",
+    "src": "src/assets/photography/photo-1666025959951-da3036b03b29.webp"
+  },
+  "src/assets/photography/photo-1666251214795-a1296307d29c.webp": {
+    "file": "assets/photo-1666251214795-a1296307d29c-HE0YtJbn.webp",
+    "src": "src/assets/photography/photo-1666251214795-a1296307d29c.webp"
+  },
+  "src/assets/photography/photo-1667388969250-1c7220bf3f37.webp": {
+    "file": "assets/photo-1667388969250-1c7220bf3f37-DI_5XgQQ.webp",
+    "src": "src/assets/photography/photo-1667388969250-1c7220bf3f37.webp"
+  },
+  "src/assets/photography/photo-1673960854897-749f9d9ebafc.webp": {
+    "file": "assets/photo-1673960854897-749f9d9ebafc-Ck8Z3huz.webp",
+    "src": "src/assets/photography/photo-1673960854897-749f9d9ebafc.webp"
+  },
+  "src/assets/photography/photo-1675150277436-9c7348972c11.webp": {
+    "file": "assets/photo-1675150277436-9c7348972c11-CXFLoRof.webp",
+    "src": "src/assets/photography/photo-1675150277436-9c7348972c11.webp"
+  },
+  "src/assets/photography/photo-1678774055677-f61466b1cd5d.webp": {
+    "file": "assets/photo-1678774055677-f61466b1cd5d-sODk9EDK.webp",
+    "src": "src/assets/photography/photo-1678774055677-f61466b1cd5d.webp"
+  },
+  "src/assets/photography/photo-1679541946014-a47f1ec0dc1a.webp": {
+    "file": "assets/photo-1679541946014-a47f1ec0dc1a-Q4vRdUj3.webp",
+    "src": "src/assets/photography/photo-1679541946014-a47f1ec0dc1a.webp"
+  },
+  "src/assets/photography/photo-1680405531955-8b4981bb1b0c.webp": {
+    "file": "assets/photo-1680405531955-8b4981bb1b0c-DlhhOQ1G.webp",
+    "src": "src/assets/photography/photo-1680405531955-8b4981bb1b0c.webp"
+  },
+  "src/assets/photography/photo-1680675228874-9b9963812b7c.webp": {
+    "file": "assets/photo-1680675228874-9b9963812b7c-qVeN9gVN.webp",
+    "src": "src/assets/photography/photo-1680675228874-9b9963812b7c.webp"
+  },
+  "src/assets/photography/photo-1687945512099-400cbe94460c.webp": {
+    "file": "assets/photo-1687945512099-400cbe94460c-BxMlOCkP.webp",
+    "src": "src/assets/photography/photo-1687945512099-400cbe94460c.webp"
+  },
+  "src/assets/photography/photo-1703219338500-90f646e60c1b.webp": {
+    "file": "assets/photo-1703219338500-90f646e60c1b-DZdbR8Ri.webp",
+    "src": "src/assets/photography/photo-1703219338500-90f646e60c1b.webp"
+  },
+  "src/assets/photography/photo-1703266095956-c7e7a63d8bda.webp": {
+    "file": "assets/photo-1703266095956-c7e7a63d8bda-C2rDYNza.webp",
+    "src": "src/assets/photography/photo-1703266095956-c7e7a63d8bda.webp"
+  },
+  "src/assets/photography/photo-1707013533606-62919aa3aa29.webp": {
+    "file": "assets/photo-1707013533606-62919aa3aa29-DmkSYeD4.webp",
+    "src": "src/assets/photography/photo-1707013533606-62919aa3aa29.webp"
+  },
+  "src/assets/photography/photo-1707603571504-86c1ea50903e.webp": {
+    "file": "assets/photo-1707603571504-86c1ea50903e-DsieOOIH.webp",
+    "src": "src/assets/photography/photo-1707603571504-86c1ea50903e.webp"
+  },
+  "src/assets/photography/photo-1709548145082-04d0cde481d4.webp": {
+    "file": "assets/photo-1709548145082-04d0cde481d4-BszZo6OE.webp",
+    "src": "src/assets/photography/photo-1709548145082-04d0cde481d4.webp"
+  },
+  "src/assets/photography/photo-1711488735436-cccd5917b26c.webp": {
+    "file": "assets/photo-1711488735436-cccd5917b26c-rURHns6l.webp",
+    "src": "src/assets/photography/photo-1711488735436-cccd5917b26c.webp"
+  },
+  "src/assets/photography/photo-1715925717150-2a6d181d8846.webp": {
+    "file": "assets/photo-1715925717150-2a6d181d8846-B0Vg1TTL.webp",
+    "src": "src/assets/photography/photo-1715925717150-2a6d181d8846.webp"
+  },
+  "src/assets/photography/photo-1741148707552-61a82cfa9119.webp": {
+    "file": "assets/photo-1741148707552-61a82cfa9119-D2vym2nY.webp",
+    "src": "src/assets/photography/photo-1741148707552-61a82cfa9119.webp"
+  },
+  "src/assets/photography/photo-1741177330414-af2c3e7661fa.webp": {
+    "file": "assets/photo-1741177330414-af2c3e7661fa-DjZVrJtb.webp",
+    "src": "src/assets/photography/photo-1741177330414-af2c3e7661fa.webp"
+  },
+  "src/assets/photography/photo-1742395811938-21dce60be36b.webp": {
+    "file": "assets/photo-1742395811938-21dce60be36b-CTLhvLQS.webp",
+    "src": "src/assets/photography/photo-1742395811938-21dce60be36b.webp"
+  },
+  "src/assets/photography/photo-1748540459503-19efc015143b.webp": {
+    "file": "assets/photo-1748540459503-19efc015143b-BqXlErzK.webp",
+    "src": "src/assets/photography/photo-1748540459503-19efc015143b.webp"
+  },
+  "src/assets/photography/photo-1753525808072-1e422963eacd.webp": {
+    "file": "assets/photo-1753525808072-1e422963eacd-ng8ZyHO_.webp",
+    "src": "src/assets/photography/photo-1753525808072-1e422963eacd.webp"
+  },
+  "src/assets/photography/photo-1754586254034-4d2566ea5854.webp": {
+    "file": "assets/photo-1754586254034-4d2566ea5854-D_RQ_lcn.webp",
+    "src": "src/assets/photography/photo-1754586254034-4d2566ea5854.webp"
+  },
+  "src/assets/photography/photo-1758537697448-dbfc1cb83e49.webp": {
+    "file": "assets/photo-1758537697448-dbfc1cb83e49-DZgyl_NP.webp",
+    "src": "src/assets/photography/photo-1758537697448-dbfc1cb83e49.webp"
+  },
+  "src/assets/photography/photo-1760322327968-d5a0184003bb.webp": {
+    "file": "assets/photo-1760322327968-d5a0184003bb-BEpuOhs-.webp",
+    "src": "src/assets/photography/photo-1760322327968-d5a0184003bb.webp"
+  },
+  "src/assets/photography/photo-1760390952355-a6b9cf50a7a2.webp": {
+    "file": "assets/photo-1760390952355-a6b9cf50a7a2-BdGzc1Xq.webp",
+    "src": "src/assets/photography/photo-1760390952355-a6b9cf50a7a2.webp"
+  },
+  "src/assets/photography/photo-1762958118340-6d09cfe236a5.webp": {
+    "file": "assets/photo-1762958118340-6d09cfe236a5-BE2tbqtP.webp",
+    "src": "src/assets/photography/photo-1762958118340-6d09cfe236a5.webp"
+  },
+  "src/assets/photography/photo-1765021093883-b9ee22cc9840.webp": {
+    "file": "assets/photo-1765021093883-b9ee22cc9840-DcEVBSoC.webp",
+    "src": "src/assets/photography/photo-1765021093883-b9ee22cc9840.webp"
+  },
+  "src/assets/photography/photo-1765646772493-7b5341714eea.webp": {
+    "file": "assets/photo-1765646772493-7b5341714eea-CYaCgNIk.webp",
+    "src": "src/assets/photography/photo-1765646772493-7b5341714eea.webp"
+  },
+  "src/assets/photography/photo-1772479036537-2f24be392ab0.webp": {
+    "file": "assets/photo-1772479036537-2f24be392ab0-BsS_Hn_5.webp",
+    "src": "src/assets/photography/photo-1772479036537-2f24be392ab0.webp"
+  },
+  "src/assets/photography/photo-1773848946930-fa8580b0a286.webp": {
+    "file": "assets/photo-1773848946930-fa8580b0a286-yQlCM-zE.webp",
+    "src": "src/assets/photography/photo-1773848946930-fa8580b0a286.webp"
+  },
+  "src/assets/photography/photo-1774509627260-4f97e8cd1af1.webp": {
+    "file": "assets/photo-1774509627260-4f97e8cd1af1-7E1ppYbt.webp",
+    "src": "src/assets/photography/photo-1774509627260-4f97e8cd1af1.webp"
+  },
+  "src/assets/photography/photo-1774989423979-6a7bf5add3f0.webp": {
+    "file": "assets/photo-1774989423979-6a7bf5add3f0-Cndqp_Hz.webp",
+    "src": "src/assets/photography/photo-1774989423979-6a7bf5add3f0.webp"
+  },
+  "src/assets/photography/photo-1776290347384-9e54dbb2ee29.webp": {
+    "file": "assets/photo-1776290347384-9e54dbb2ee29-D2iaNEe5.webp",
+    "src": "src/assets/photography/photo-1776290347384-9e54dbb2ee29.webp"
+  },
+  "src/assets/photography/photo-1776763255189-3c8237aec808.webp": {
+    "file": "assets/photo-1776763255189-3c8237aec808-BTGanAP9.webp",
+    "src": "src/assets/photography/photo-1776763255189-3c8237aec808.webp"
+  },
+  "src/assets/photography/photo-1777013485814-288099531e5a.webp": {
+    "file": "assets/photo-1777013485814-288099531e5a-CdnS6Ufw.webp",
+    "src": "src/assets/photography/photo-1777013485814-288099531e5a.webp"
+  },
+  "src/assets/photography/photo-1777502286448-35389817f504.webp": {
+    "file": "assets/photo-1777502286448-35389817f504-BZhwIX6v.webp",
+    "src": "src/assets/photography/photo-1777502286448-35389817f504.webp"
+  },
+  "src/assets/photography/photo-1780397453393-cfc5aac82666.webp": {
+    "file": "assets/photo-1780397453393-cfc5aac82666-pIYY3Ki-.webp",
+    "src": "src/assets/photography/photo-1780397453393-cfc5aac82666.webp"
+  },
+  "src/assets/photography/photo-1780805664774-ef6082baeb03.webp": {
+    "file": "assets/photo-1780805664774-ef6082baeb03-BL8_vjkX.webp",
+    "src": "src/assets/photography/photo-1780805664774-ef6082baeb03.webp"
+  },
+  "src/assets/photography/photo-1781181727460-ccd6962647d4.webp": {
+    "file": "assets/photo-1781181727460-ccd6962647d4-Bcb7BbwY.webp",
+    "src": "src/assets/photography/photo-1781181727460-ccd6962647d4.webp"
+  },
+  "src/assets/photography/photo-1782983595358-d8f8d59ae442.webp": {
+    "file": "assets/photo-1782983595358-d8f8d59ae442-DroV_h21.webp",
+    "src": "src/assets/photography/photo-1782983595358-d8f8d59ae442.webp"
+  },
+  "src/assets/photography/photo-1786209677036-1580ca1b280d.webp": {
+    "file": "assets/photo-1786209677036-1580ca1b280d-Ccrdy1f7.webp",
+    "src": "src/assets/photography/photo-1786209677036-1580ca1b280d.webp"
+  },
+  "src/assets/photography/restaurant-room.webp": {
+    "file": "assets/restaurant-room-B9vSdiaF.webp",
+    "src": "src/assets/photography/restaurant-room.webp"
+  },
+  "src/assets/photography/sushi-board.webp": {
+    "file": "assets/sushi-board-CCTzqL3D.webp",
+    "src": "src/assets/photography/sushi-board.webp"
+  },
+  "src/assets/photography/sushi-table.webp": {
+    "file": "assets/sushi-table-DLPmdAFh.webp",
+    "src": "src/assets/photography/sushi-table.webp"
+  },
+  "src/assets/photography/table-detail.webp": {
+    "file": "assets/table-detail-Cb4JaSav.webp",
+    "src": "src/assets/photography/table-detail.webp"
+  },
+  "src/assets/photography/table-setting.webp": {
+    "file": "assets/table-setting-CzCGuMY3.webp",
+    "src": "src/assets/photography/table-setting.webp"
+  },
+  "src/assets/photography/thai-noodles.webp": {
+    "file": "assets/thai-noodles-BWFSauIu.webp",
+    "src": "src/assets/photography/thai-noodles.webp"
+  },
+  "src/assets/photography/vietnamese-pho.webp": {
+    "file": "assets/vietnamese-pho-D3O8P0eW.webp",
+    "src": "src/assets/photography/vietnamese-pho.webp"
+  },
+  "src/assets/room-corner.jpg": {
+    "file": "assets/room-corner-z2dubPQ9.jpg",
+    "src": "src/assets/room-corner.jpg"
+  },
+  "src/assets/service-moment.jpg": {
+    "file": "assets/service-moment-CnDeLRP1.jpg",
+    "src": "src/assets/service-moment.jpg"
+  },
+  "src/assets/story-kitchen.jpg": {
+    "file": "assets/story-kitchen-u64VfnLh.jpg",
+    "src": "src/assets/story-kitchen.jpg"
+  },
+  "src/main-app.tsx": {
+    "file": "assets/main-app-DFGLdZRX.js",
+    "name": "main-app",
+    "src": "src/main-app.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/pages/ReservationsPage.tsx"
+    ],
+    "assets": [
+      "assets/atmosphere-room-BF6EhwXd.jpg",
+      "assets/cta-table-CeJXmNeW.jpg",
+      "assets/detail-coffee-CJQx0-1z.jpg",
+      "assets/detail-pastry-CP4xSUhE.jpg",
+      "assets/detail-table-DabIqyvB.jpg",
+      "assets/dish-frenchtoast-DgoTlurr.jpg",
+      "assets/dish-hash-Bk7QRExw.jpg",
+      "assets/dish-pancakes-C58EQgvB.jpg",
+      "assets/dish-scramble-DbS5FEm0.jpg",
+      "assets/dish-yogurt-HnjFqWxX.jpg",
+      "assets/hero-room-H4GnMpTG.jpg",
+      "assets/room-corner-z2dubPQ9.jpg",
+      "assets/service-moment-CnDeLRP1.jpg",
+      "assets/story-kitchen-u64VfnLh.jpg",
+      "assets/photo-1552056776-9b5657118ca4-BicC8tuW.webp",
+      "assets/photo-1566889110088-1119b49ce526-DV_XkeFg.webp",
+      "assets/photo-1639020715360-e5ebeb9cd4d9-naqw5S3J.webp",
+      "assets/photo-1678774055677-f61466b1cd5d-av8DB-Fk.webp",
+      "assets/photo-1687945512099-400cbe94460c-DgXS1uc7.webp",
+      "assets/photo-1703219338500-90f646e60c1b-DHJf8rGw.webp",
+      "assets/photo-1759277513572-677ce91d6b5f-D6XU6Bex.webp",
+      "assets/photo-1760390952355-a6b9cf50a7a2-C4o_GaXc.webp",
+      "assets/photo-1771508558419-02528a292af2-zov3oWA_.webp",
+      "assets/photo-1774509627260-4f97e8cd1af1-C6VgWjpZ.webp",
+      "assets/photo-1774989423979-6a7bf5add3f0-CbTbClQ8.webp",
+      "assets/photo-1776290347384-9e54dbb2ee29-Dn83crfZ.webp",
+      "assets/photo-1776763255189-3c8237aec808-3BgQnybI.webp",
+      "assets/photo-1777502286448-35389817f504-BTNeHh_f.webp",
+      "assets/photo-1779265312208-ea9eb64ee359-Bk53DaUK.webp",
+      "assets/photo-1779738193005-c4b3ac8ef870-n90hfXsU.webp",
+      "assets/photo-1780397453393-cfc5aac82666-Cf00tAmZ.webp",
+      "assets/photo-1780805664774-ef6082baeb03-eH6VE0B-.webp",
+      "assets/photo-1781181727460-ccd6962647d4-sKs7OqAt.webp",
+      "assets/photo-1782174177186-9026d6c74413-CqNsREZT.webp",
+      "assets/photo-1782983595358-d8f8d59ae442-xybHiJtY.webp",
+      "assets/breakfast-coffee-CMV8C1-M.webp",
+      "assets/burger-D8NyE63i.webp",
+      "assets/chinese-dumplings-D0M47m67.webp",
+      "assets/indian-plate-BtQp35Uu.webp",
+      "assets/italian-pasta-B4pFjZmE.webp",
+      "assets/italian-table-D25R7wQC.webp",
+      "assets/mediterranean-hummus-D6Jv9ExR.webp",
+      "assets/mexican-table-C9WKF9YP.webp",
+      "assets/mexican-tacos-BG5CVkww.webp",
+      "assets/photo-1480455454781-1af590be2a58-p6zHXJtz.webp",
+      "assets/photo-1506372023823-741c83b836fe-msf_tu67.webp",
+      "assets/photo-1511690656952-34342bb7c2f2-qerIGrxD.webp",
+      "assets/photo-1533776992670-a72f4c28235e-BXHoXuHo.webp",
+      "assets/photo-1542372147193-a7aca54189cd-mCYqtPy3.webp",
+      "assets/photo-1552056776-9b5657118ca4-BNYjQK-r.webp",
+      "assets/photo-1557869458-63870977545f-DrJ5Iztq.webp",
+      "assets/photo-1562436260-126d541901e0-TfRcmTOF.webp",
+      "assets/photo-1562565652-a0d8f0c59eb4-ppgSz4n9.webp",
+      "assets/photo-1566889110088-1119b49ce526-DneIHwvY.webp",
+      "assets/photo-1568901346375-23c9450c58cd-Bp5PiUm8.webp",
+      "assets/photo-1571951286227-7a28b07822ea-C4i_BL8s.webp",
+      "assets/photo-1572802419224-296b0aeee0d9-NX1kllKs.webp",
+      "assets/photo-1574578831425-41dbec20aa5c-llBd0kya.webp",
+      "assets/photo-1585032226651-759b368d7246-DmNWE53b.webp",
+      "assets/photo-1585937421612-70a008356fbe-DvpSN3n_.webp",
+      "assets/photo-1586190848861-99aa4a171e90-COgzmIgX.webp",
+      "assets/photo-1601050690597-df0568f70950-CK_Z6Z7g.webp",
+      "assets/photo-1602232037779-30b01ac3c457-KaoSgZQM.webp",
+      "assets/photo-1602273660127-a0000560a4c1-6hZh9W6i.webp",
+      "assets/photo-1610632380989-680fe40816c6-Bz1lA8in.webp",
+      "assets/photo-1611143669185-af224c5e3252-Cw34LzM5.webp",
+      "assets/photo-1613409385222-3d0decb6742a-Ds185Yu_.webp",
+      "assets/photo-1614563637806-1d0e645e0940-FKPP_K83.webp",
+      "assets/photo-1623689048105-a17b1e1936b8-CY94FhL9.webp",
+      "assets/photo-1625398407796-82650a8c135f-Dx5r4VOL.webp",
+      "assets/photo-1627308595186-e6bb36712645-DhRLH07M.webp",
+      "assets/photo-1629684782790-385ed5adb497-ednPVc7w.webp",
+      "assets/photo-1631709497146-a239ef373cf1-CZ2bhcT0.webp",
+      "assets/photo-1633271306917-a668495ba567-Bvua5mAn.webp",
+      "assets/photo-1637806930600-37fa8892069d-DsrOucMa.webp",
+      "assets/photo-1639020715360-e5ebeb9cd4d9-W_hRhBXV.webp",
+      "assets/photo-1643123755923-71c0736878e4-CvkidzSo.webp",
+      "assets/photo-1648437595587-e6a8b0cdf1f9-y3NpNXb2.webp",
+      "assets/photo-1653611540493-b3a896319fbf-Cslqt9RV.webp",
+      "assets/photo-1666025959951-da3036b03b29-CXm8NQLC.webp",
+      "assets/photo-1666251214795-a1296307d29c-HE0YtJbn.webp",
+      "assets/photo-1667388969250-1c7220bf3f37-DI_5XgQQ.webp",
+      "assets/photo-1673960854897-749f9d9ebafc-Ck8Z3huz.webp",
+      "assets/photo-1675150277436-9c7348972c11-CXFLoRof.webp",
+      "assets/photo-1678774055677-f61466b1cd5d-sODk9EDK.webp",
+      "assets/photo-1679541946014-a47f1ec0dc1a-Q4vRdUj3.webp",
+      "assets/photo-1680405531955-8b4981bb1b0c-DlhhOQ1G.webp",
+      "assets/photo-1680675228874-9b9963812b7c-qVeN9gVN.webp",
+      "assets/photo-1687945512099-400cbe94460c-BxMlOCkP.webp",
+      "assets/photo-1703219338500-90f646e60c1b-DZdbR8Ri.webp",
+      "assets/photo-1703266095956-c7e7a63d8bda-C2rDYNza.webp",
+      "assets/photo-1707013533606-62919aa3aa29-DmkSYeD4.webp",
+      "assets/photo-1707603571504-86c1ea50903e-DsieOOIH.webp",
+      "assets/photo-1709548145082-04d0cde481d4-BszZo6OE.webp",
+      "assets/photo-1711488735436-cccd5917b26c-rURHns6l.webp",
+      "assets/photo-1715925717150-2a6d181d8846-B0Vg1TTL.webp",
+      "assets/photo-1741148707552-61a82cfa9119-D2vym2nY.webp",
+      "assets/photo-1741177330414-af2c3e7661fa-DjZVrJtb.webp",
+      "assets/photo-1742395811938-21dce60be36b-CTLhvLQS.webp",
+      "assets/photo-1748540459503-19efc015143b-BqXlErzK.webp",
+      "assets/photo-1753525808072-1e422963eacd-ng8ZyHO_.webp",
+      "assets/photo-1754586254034-4d2566ea5854-D_RQ_lcn.webp",
+      "assets/photo-1758537697448-dbfc1cb83e49-DZgyl_NP.webp",
+      "assets/photo-1760322327968-d5a0184003bb-BEpuOhs-.webp",
+      "assets/photo-1760390952355-a6b9cf50a7a2-BdGzc1Xq.webp",
+      "assets/photo-1762958118340-6d09cfe236a5-BE2tbqtP.webp",
+      "assets/photo-1765021093883-b9ee22cc9840-DcEVBSoC.webp",
+      "assets/photo-1765646772493-7b5341714eea-CYaCgNIk.webp",
+      "assets/photo-1772479036537-2f24be392ab0-BsS_Hn_5.webp",
+      "assets/photo-1773848946930-fa8580b0a286-yQlCM-zE.webp",
+      "assets/photo-1774509627260-4f97e8cd1af1-7E1ppYbt.webp",
+      "assets/photo-1774989423979-6a7bf5add3f0-Cndqp_Hz.webp",
+      "assets/photo-1776290347384-9e54dbb2ee29-D2iaNEe5.webp",
+      "assets/photo-1776763255189-3c8237aec808-BTGanAP9.webp",
+      "assets/photo-1777013485814-288099531e5a-CdnS6Ufw.webp",
+      "assets/photo-1777502286448-35389817f504-BZhwIX6v.webp",
+      "assets/photo-1780397453393-cfc5aac82666-pIYY3Ki-.webp",
+      "assets/photo-1780805664774-ef6082baeb03-BL8_vjkX.webp",
+      "assets/photo-1781181727460-ccd6962647d4-Bcb7BbwY.webp",
+      "assets/photo-1782983595358-d8f8d59ae442-DroV_h21.webp",
+      "assets/photo-1786209677036-1580ca1b280d-Ccrdy1f7.webp",
+      "assets/restaurant-room-B9vSdiaF.webp",
+      "assets/sushi-board-CCTzqL3D.webp",
+      "assets/sushi-table-DLPmdAFh.webp",
+      "assets/table-detail-Cb4JaSav.webp",
+      "assets/table-setting-CzCGuMY3.webp",
+      "assets/thai-noodles-BWFSauIu.webp",
+      "assets/vietnamese-pho-D3O8P0eW.webp"
+    ]
+  },
+  "src/pages/ReservationsPage.tsx": {
+    "file": "assets/ReservationsPage--FSCyAno.js",
+    "name": "ReservationsPage",
+    "src": "src/pages/ReservationsPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main-app.tsx"
+    ]
+  }
+}
