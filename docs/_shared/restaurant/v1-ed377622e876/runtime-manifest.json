@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "template": "restaurant",
+  "templateVersion": "v1-ed377622e876",
+  "sharedBasePath": "/barbershop-demos/_shared/restaurant/v1-ed377622e876/",
+  "runtimeDigest": "2a80daffc3c953cc54bec9d4c3aa80f52ef64448533147891beb9e6d6b452317",
+  "immutable": true,
+  "createdAt": "2026-10-07T03:04:58.774Z"
+}

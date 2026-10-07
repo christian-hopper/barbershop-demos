@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "template": "restaurant",
-  "templateVersion": "v1-0ec43bd7e5c2",
+  "templateVersion": "v1-ed377622e876",
   "slug": "la-choza-peruvian-and-mexican-restaurant-3950c26",
-  "generatedAt": "2026-10-06T04:47:19.889Z",
+  "generatedAt": "2026-10-07T03:04:58.775Z",
   "business": {
     "name": "La Choza | Peruvian & Mexican Restaurant",
     "category": "Peruvian restaurant",
@@ -17,7 +17,7 @@
     "instagramUrl": null,
     "presetKey": "harbor-table",
     "classification": {
-      "cuisine": "burger",
+      "cuisine": "mexican",
       "confidence": "high",
       "source": "category"
     },

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "template": "restaurant",
-  "templateVersion": "v1-0ec43bd7e5c2",
+  "templateVersion": "v1-ed377622e876",
   "slug": "la-choza-peruvian-and-mexican-restaurant-3950c26",
   "dataPath": "_data/restaurant/la-choza-peruvian-and-mexican-restaurant-3950c26.json",
-  "dataSha256": "4437b692100389aef2c9bbbec10dc8319b7c22a6a53e7b590c0847e6dd5abd82",
-  "publishedAt": "2026-10-06T04:47:19.895Z"
+  "dataSha256": "2f8b2b2c3cab25f9bd17f08553ef9d5213da08c53ac7a2b7ea641b4b440f799e",
+  "publishedAt": "2026-10-07T03:04:58.780Z"
 }
