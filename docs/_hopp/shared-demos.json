@@ -133,6 +133,16 @@
       "updatedAt": "2026-06-29T21:46:44.087Z"
     },
     {
+      "slug": "peony-chinese-cuisine-18b8a08",
+      "businessName": "Peony Chinese Cuisine",
+      "template": "restaurant",
+      "templateVersion": "v1-ed377622e876",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/peony-chinese-cuisine-18b8a08/",
+      "dataPath": "_data/restaurant/peony-chinese-cuisine-18b8a08.json",
+      "dataSha256": "e12996bc0f41cedcad94d145fc9486bfaac543e2457ad1017e4eb050f6a813a8",
+      "updatedAt": "2026-10-07T16:26:08.958Z"
+    },
+    {
       "slug": "royal-cuts-0e5ce76",
       "businessName": "ROYAL CUTS",
       "template": "barbershop",

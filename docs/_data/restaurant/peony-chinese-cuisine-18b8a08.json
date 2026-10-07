@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "template": "restaurant",
+  "templateVersion": "v1-ed377622e876",
+  "slug": "peony-chinese-cuisine-18b8a08",
+  "generatedAt": "2026-10-07T16:26:08.953Z",
+  "business": {
+    "name": "Peony Chinese Cuisine",
+    "category": "Chinese restaurant",
+    "city": "Temecula",
+    "stateCode": "CA",
+    "address": "29742 Rancho California Rd, Temecula, CA 92591",
+    "phone": "(951) 695-1878",
+    "phoneHref": "tel:+19516951878",
+    "mapsUrl": "https://maps.google.com/?cid=8993632568840358240&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "siteUrl": "https://christian-hopper.github.io/barbershop-demos/peony-chinese-cuisine-18b8a08/",
+    "instagramUrl": null,
+    "presetKey": "harbor-table",
+    "classification": {
+      "cuisine": "chinese",
+      "confidence": "high",
+      "source": "category"
+    },
+    "details": {
+      "preset": "auto",
+      "cuisine": [],
+      "summary": "",
+      "menuUrl": null,
+      "reservationUrl": null,
+      "orderingUrl": null,
+      "menu": []
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "display": "11:00 AM – 8:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "display": "11:00 AM – 8:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "display": "11:00 AM – 8:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "display": "11:00 AM – 8:00 PM"
+      },
+      {
+        "day": "Friday",
+        "display": "11:00 AM – 8:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "display": "11:00 AM – 8:00 PM"
+      },
+      {
+        "day": "Sunday",
+        "display": "11:00 AM – 8:00 PM"
+      }
+    ],
+    "seo": {
+      "defaultTitle": "Peony Chinese Cuisine — Temecula",
+      "defaultDescription": "Peony Chinese Cuisine in Temecula. Explore the menu, contact details and location."
+    }
+  }
+}
