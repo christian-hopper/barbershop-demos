@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
   "template": "restaurant",
-  "templateVersion": "v1-ed377622e876",
+  "templateVersion": "v1-1400aaffc065",
   "slug": "la-choza-peruvian-and-mexican-restaurant-3950c26",
-  "generatedAt": "2026-10-07T03:04:58.775Z",
+  "generatedAt": "2026-10-11T06:24:23.618Z",
   "business": {
     "name": "La Choza | Peruvian & Mexican Restaurant",
     "category": "Peruvian restaurant",
+    "cuisineIdentity": "Peruvian & Mexican",
+    "menuStyle": "standard",
     "city": "Temecula",
     "stateCode": "CA",
     "address": "29760 Rancho California Rd #115, Temecula, CA 92591",
