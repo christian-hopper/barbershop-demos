@@ -113,6 +113,16 @@
       "updatedAt": "2026-07-01T16:48:40.962Z"
     },
     {
+      "slug": "louies-barber-shop-2268e51",
+      "businessName": "Louie's Barber Shop",
+      "template": "barbershop",
+      "templateVersion": "v1-4f58107c42ad",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/louies-barber-shop-2268e51/",
+      "dataPath": "_data/barbershop/louies-barber-shop-2268e51.json",
+      "dataSha256": "94c0975831863f92dcbd211ba11b5db8344f767fc55d5a78e7185e830e52c6cb",
+      "updatedAt": "2026-10-11T06:21:49.710Z"
+    },
+    {
       "slug": "o-cs-shave-parlor-ce1cd4a",
       "businessName": "O.C’S Shave Parlor",
       "template": "barbershop",
