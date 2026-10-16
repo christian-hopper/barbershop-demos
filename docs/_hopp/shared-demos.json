@@ -201,6 +201,16 @@
       "dataPath": "_data/barbershop/urbana-beauty-and-barbershop-898bfb1.json",
       "dataSha256": "9ea96c14ed3bea5e4861a49fc762b762b1a92a7a5c3e1f112f2d1933c0612eef",
       "updatedAt": "2026-07-02T01:11:03.588Z"
+    },
+    {
+      "slug": "webbs-03f6d4b",
+      "businessName": "Webb's",
+      "template": "barbershop",
+      "templateVersion": "v1-4f58107c42ad",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/webbs-03f6d4b/",
+      "dataPath": "_data/barbershop/webbs-03f6d4b.json",
+      "dataSha256": "81fee793b9a8b2150e748eef592ba99d8ebd1c95d870a9410914c78fba2e1764",
+      "updatedAt": "2026-10-16T05:43:18.414Z"
     }
   ]
 }
