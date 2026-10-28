@@ -32,6 +32,16 @@
       "updatedAt": "2026-06-29T00:02:56.573Z"
     },
     {
+      "slug": "campus-cuts-1ee1a47",
+      "businessName": "Campus Cuts",
+      "template": "barbershop",
+      "templateVersion": "v1-4f58107c42ad",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/campus-cuts-1ee1a47/",
+      "dataPath": "_data/barbershop/campus-cuts-1ee1a47.json",
+      "dataSha256": "2a6512033326e777f15bf9a18b16fdea6d84a81b70ca6bef65b27c5289ab7a51",
+      "updatedAt": "2026-10-28T19:29:55.333Z"
+    },
+    {
       "slug": "carlos-and-sons-plumbing-879a7fd",
       "businessName": "Carlos & Sons Plumbing",
       "template": "home-services",
