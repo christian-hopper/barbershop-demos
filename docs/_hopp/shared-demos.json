@@ -233,6 +233,16 @@
       "updatedAt": "2026-10-06T04:36:19.782Z"
     },
     {
+      "slug": "top-notch-barbershop-685a587",
+      "businessName": "Top Notch Barbershop",
+      "template": "barbershop",
+      "templateVersion": "v1-4f58107c42ad",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/top-notch-barbershop-685a587/",
+      "dataPath": "_data/barbershop/top-notch-barbershop-685a587.json",
+      "dataSha256": "95c665252b24a585b265f1cc7b87e2d5ee57f1c7d0e6e00adc04d52647bf53b9",
+      "updatedAt": "2026-10-28T19:37:52.125Z"
+    },
+    {
       "slug": "trappin-cutz-barbershop-fc2f2d9",
       "businessName": "Trappin Cutz Barbershop",
       "template": "barbershop",
