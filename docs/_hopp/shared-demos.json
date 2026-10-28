@@ -63,6 +63,16 @@
       "updatedAt": "2026-09-27T04:08:03.164Z"
     },
     {
+      "slug": "consolidated-barber-shop-54ddfb8",
+      "businessName": "Consolidated Barber Shop",
+      "template": "barbershop",
+      "templateVersion": "v1-4f58107c42ad",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/consolidated-barber-shop-54ddfb8/",
+      "dataPath": "_data/barbershop/consolidated-barber-shop-54ddfb8.json",
+      "dataSha256": "b9b21b2e47dba336d89c6561e7e458a7445db5716972f3af2c9640b1e78e6123",
+      "updatedAt": "2026-10-28T20:49:53.413Z"
+    },
+    {
       "slug": "deiners-deep-cutz-on-the-go-5effd48",
       "businessName": "Deiner's Deep Cutz On The Go",
       "template": "barbershop",
