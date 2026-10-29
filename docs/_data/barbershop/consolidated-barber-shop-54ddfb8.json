@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "template": "barbershop",
-  "templateVersion": "v1-4f58107c42ad",
+  "templateVersion": "v1-ff06e026081d",
   "slug": "consolidated-barber-shop-54ddfb8",
-  "generatedAt": "2026-10-28T20:49:53.408Z",
+  "generatedAt": "2026-10-29T04:06:51.410Z",
   "business": {
     "brand": {
       "name": "Consolidated Barber Shop",
       "shortName": "Consolidated Barber Shop",
       "category": "Barber shop",
-      "descriptor": "Good cuts. Great company.",
+      "descriptor": "Barbershop in Flint",
       "logoTop": "Consolidated Barber Shop",
       "logoBottom": "BARBERS · FLINT",
       "oversizedWordmark": "CONSOLIDATED BARBER SHOP",
@@ -39,7 +39,7 @@
       },
       "bookingUrl": "https://www.vagaro.com/cbs5vc?fbclid=PAQ0xDSwLiDgpleHRuA2FlbQIxMQABp7-T6nUg4PHDxFj9oPJK54QYrt0_dHgJQK3xCSchDHkol2Xg5IxBvRc7exfM_aem_s7By48VvyMHfXlY0taFpZA",
       "contactPath": "/visit",
-      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=107%20W%20Kearsley%20St%2C%20Flint%2C%20MI%2048502",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Consolidated%20Barber%20Shop%20107%20W%20Kearsley%20St%2C%20Flint%2C%20MI%2048502",
       "mapsUrl": "https://maps.google.com/?cid=16596627962819599583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "mapsEmbedUrl": "https://www.google.com/maps?q=107%20W%20Kearsley%20St%2C%20Flint%2C%20MI%2048502&output=embed",
       "parking": "Call the shop for current parking and arrival details."
@@ -62,7 +62,7 @@
           "to": "/services"
         },
         {
-          "label": "Barbers",
+          "label": "Team",
           "to": "/barbers"
         },
         {
@@ -268,14 +268,14 @@
     },
     "seo": {
       "siteUrl": "https://christian-hopper.github.io/barbershop-demos/consolidated-barber-shop-54ddfb8",
-      "defaultTitle": "Consolidated Barber Shop — Barbershop in Flint, Michigan",
-      "defaultDescription": "Find your next look at Consolidated Barber Shop in Flint, Michigan. Explore the shop, plan your visit, and book your next appointment.",
+      "defaultTitle": "Consolidated Barber Shop — Flint, Michigan",
+      "defaultDescription": "Consolidated Barber Shop is a barbershop in Flint, Michigan. Find contact details, directions and help planning a visit here.",
       "author": "Consolidated Barber Shop",
       "openGraph": {
         "siteName": "Consolidated Barber Shop",
         "type": "website",
-        "title": "Consolidated Barber Shop — Your next fresh start",
-        "description": "A little time for yourself at Consolidated Barber Shop in Flint, Michigan. Plan your next appointment.",
+        "title": "Consolidated Barber Shop — Flint, Michigan",
+        "description": "Consolidated Barber Shop is a barbershop in Flint, Michigan. Find contact details, directions and help planning a visit here.",
         "image": {
           "__hoppAsset": "heroInteriorImage"
         }
@@ -283,127 +283,123 @@
       "twitter": {
         "card": "summary_large_image",
         "title": "Consolidated Barber Shop — Flint, Michigan",
-        "description": "Services, team information, reviews, location, and booking access for Consolidated Barber Shop.",
+        "description": "Consolidated Barber Shop is a barbershop in Flint, Michigan. Find contact details, directions and help planning a visit here.",
         "image": {
           "__hoppAsset": "heroInteriorImage"
         }
       },
       "pages": {
         "home": {
-          "title": "Consolidated Barber Shop — Barbershop in Flint, Michigan",
-          "description": "A fresh cut. A familiar place. Find Consolidated Barber Shop in Flint, Michigan and plan your next appointment.",
-          "ogTitle": "Consolidated Barber Shop — Barbershop in Flint, Michigan",
-          "ogDescription": "A fresh cut. A familiar place. Find Consolidated Barber Shop in Flint, Michigan and plan your next appointment.",
+          "title": "Consolidated Barber Shop — Flint, Michigan",
+          "description": "Consolidated Barber Shop is a barbershop in Flint, Michigan. Find contact details, directions and help planning a visit here.",
+          "ogTitle": "Consolidated Barber Shop — Flint, Michigan",
+          "ogDescription": "Consolidated Barber Shop is a barbershop in Flint, Michigan. Find contact details, directions and help planning a visit here.",
           "path": "/"
         },
         "services": {
           "title": "Services | Consolidated Barber Shop",
-          "description": "Find your next look. Explore grooming at Consolidated Barber Shop and choose your appointment.",
+          "description": "Haircuts, fades, tapers and beard shaping. Find the service you have in mind, then arrange an appointment.",
           "ogTitle": "Services | Consolidated Barber Shop",
-          "ogDescription": "Find your next look. Explore grooming at Consolidated Barber Shop and choose your appointment.",
+          "ogDescription": "Haircuts, fades, tapers and beard shaping. Find the service you have in mind, then arrange an appointment.",
           "path": "/services"
         },
         "barbers": {
           "title": "Team | Consolidated Barber Shop",
-          "description": "The people behind the chair at Consolidated Barber Shop. Find an appointment with the team.",
+          "description": "Meet the people at Consolidated Barber Shop. Contact the shop for appointments.",
           "ogTitle": "Team | Consolidated Barber Shop",
-          "ogDescription": "The people behind the chair at Consolidated Barber Shop. Find an appointment with the team.",
+          "ogDescription": "Meet the people at Consolidated Barber Shop. Contact the shop for appointments.",
           "path": "/barbers"
         },
         "gallery": {
           "title": "Gallery | Consolidated Barber Shop",
-          "description": "The cuts, the details, the atmosphere. A closer look at the world of Consolidated Barber Shop.",
+          "description": "Haircuts, tools and barbering techniques.",
           "ogTitle": "Gallery | Consolidated Barber Shop",
-          "ogDescription": "The cuts, the details, the atmosphere. A closer look at the world of Consolidated Barber Shop.",
+          "ogDescription": "Haircuts, tools and barbering techniques.",
           "path": "/gallery"
         },
         "about": {
           "title": "About | Consolidated Barber Shop",
-          "description": "Get to know Consolidated Barber Shop. A place for good cuts, good conversation, and a fresh start.",
+          "description": "Andy is the owner.",
           "ogTitle": "About | Consolidated Barber Shop",
-          "ogDescription": "Get to know Consolidated Barber Shop. A place for good cuts, good conversation, and a fresh start.",
+          "ogDescription": "Andy is the owner.",
           "path": "/about"
         },
         "visit": {
           "title": "Visit & Contact | Consolidated Barber Shop",
-          "description": "Find Consolidated Barber Shop, check opening hours, and plan your next visit.",
+          "description": "Find the shop at 107 W Kearsley St, Flint, MI 48502. Open the map for directions from your starting point.",
           "ogTitle": "Visit & Contact | Consolidated Barber Shop",
-          "ogDescription": "Find Consolidated Barber Shop, check opening hours, and plan your next visit.",
+          "ogDescription": "Find the shop at 107 W Kearsley St, Flint, MI 48502. Open the map for directions from your starting point.",
           "path": "/visit"
         },
         "notFound": {
           "title": "Page Not Found | Consolidated Barber Shop",
-          "description": "The requested page could not be found.",
+          "description": "Return to the home page.",
           "path": "/404",
           "ogTitle": "Page Not Found | Consolidated Barber Shop",
-          "ogDescription": "The requested page could not be found."
+          "ogDescription": "Return to the home page."
         }
       }
     },
     "servicesSection": {
       "groups": [
         {
-          "name": "Haircuts",
-          "intro": "Find your shape. Refine your style."
-        },
-        {
-          "name": "Beard and Shave",
-          "intro": "The finishing touches make the difference."
+          "name": "Hair & beard",
+          "intro": "Discuss the length, shape and upkeep when choosing a service."
         }
       ],
       "services": [
         {
-          "slug": "haircut-1",
+          "slug": "haircuts-1",
           "number": "01",
-          "name": "Haircut",
+          "name": "Haircuts",
           "price": 0,
           "duration": 0,
-          "description": "A fresh shape, considered detail, and a finish that feels like you. From a familiar look to a change of pace.",
-          "recommendedFor": "For your next fresh start.",
-          "group": "Haircuts",
+          "description": "A cut shaped around the length on top, the sides and the neckline.",
+          "recommendedFor": "",
+          "group": "Hair & beard",
           "featured": true,
           "bookingUrl": "https://www.vagaro.com/cbs5vc?fbclid=PAQ0xDSwLiDgpleHRuA2FlbQIxMQABp7-T6nUg4PHDxFj9oPJK54QYrt0_dHgJQK3xCSchDHkol2Xg5IxBvRc7exfM_aem_s7By48VvyMHfXlY0taFpZA",
-          "ctaText": "Find an Appointment →"
+          "ctaText": "Appointment options →"
         },
         {
-          "slug": "fade-and-taper-2",
+          "slug": "fades-and-tapers-2",
           "number": "02",
-          "name": "Fade & Taper",
+          "name": "Fades & tapers",
           "price": 0,
           "duration": 0,
-          "description": "Clean transitions and a shape that works from every angle. Choose your length and make the look your own.",
-          "recommendedFor": "For your next fresh start.",
-          "group": "Haircuts",
+          "description": "A gradual transition from shorter sides to more length above.",
+          "recommendedFor": "",
+          "group": "Hair & beard",
           "featured": true,
           "bookingUrl": "https://www.vagaro.com/cbs5vc?fbclid=PAQ0xDSwLiDgpleHRuA2FlbQIxMQABp7-T6nUg4PHDxFj9oPJK54QYrt0_dHgJQK3xCSchDHkol2Xg5IxBvRc7exfM_aem_s7By48VvyMHfXlY0taFpZA",
-          "ctaText": "Find an Appointment →"
+          "ctaText": "Appointment options →"
         },
         {
-          "slug": "beard-trim-3",
+          "slug": "beard-shaping-3",
           "number": "03",
-          "name": "Beard Trim",
+          "name": "Beard shaping",
           "price": 0,
           "duration": 0,
-          "description": "Shape, balance, and a clean finish. Bring your preferred look, or talk it through with your barber.",
-          "recommendedFor": "For a little more definition.",
-          "group": "Beard and Shave",
+          "description": "Length and shape through the beard, with attention to the cheek line and neckline.",
+          "recommendedFor": "",
+          "group": "Hair & beard",
           "featured": true,
           "bookingUrl": "https://www.vagaro.com/cbs5vc?fbclid=PAQ0xDSwLiDgpleHRuA2FlbQIxMQABp7-T6nUg4PHDxFj9oPJK54QYrt0_dHgJQK3xCSchDHkol2Xg5IxBvRc7exfM_aem_s7By48VvyMHfXlY0taFpZA",
-          "ctaText": "Find an Appointment →"
+          "ctaText": "Appointment options →"
         }
       ],
       "guidance": [
         {
-          "title": "Your usual, or something new?",
-          "description": "Bring a reference, describe what you like, or talk it through. A good appointment starts with a conversation."
+          "title": "Bring a reference",
+          "description": "A front and side photo can explain length and shape more clearly than a style name alone."
         },
         {
-          "title": "Choose your appointment",
-          "description": "Check the booking menu for current options and prices. If you are unsure what to choose, give the shop a call."
+          "title": "Arrange an appointment",
+          "description": "Open the booking service to check available appointments. Call the shop if you need help choosing."
         },
         {
-          "title": "Make it yours",
-          "description": "Length, shape, and finish are personal. Let your barber know how you wear your hair day to day."
+          "title": "Explain the upkeep",
+          "description": "Mention how often you want a trim and how much styling you do at home. Both help when discussing the cut."
         }
       ]
     },
@@ -416,8 +412,8 @@
           "role": "Owner",
           "experience": "",
           "specialties": [],
-          "shortBio": "Owner at Consolidated Barber Shop. Find a time, bring your ideas, and make your next appointment your own.",
-          "bio": "Meet Andy, owner at Consolidated Barber Shop. Looking to maintain your style or try something different? Explore appointment options and start the conversation.",
+          "shortBio": "Owner at Consolidated Barber Shop.",
+          "bio": "Andy — Owner at Consolidated Barber Shop. Contact the shop to ask about appointments.",
           "philosophy": "",
           "services": [],
           "instagram": "https://maps.google.com/?cid=16596627962819599583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -426,7 +422,7 @@
             "__hoppAsset": "detailToolsImage"
           },
           "imageAlt": "Scissors and grooming tools on a workstation",
-          "availability": "Appointments at 107 W Kearsley St",
+          "availability": "107 W Kearsley St, Flint, MI 48502",
           "testimonial": {
             "quote": "",
             "author": ""
@@ -436,11 +432,11 @@
           "slug": "zac",
           "name": "Zac",
           "firstName": "Zac",
-          "role": "Barber",
+          "role": "Team member",
           "experience": "",
           "specialties": [],
-          "shortBio": "Barber at Consolidated Barber Shop. Find a time, bring your ideas, and make your next appointment your own.",
-          "bio": "Meet Zac, barber at Consolidated Barber Shop. Looking to maintain your style or try something different? Explore appointment options and start the conversation.",
+          "shortBio": "Team member at Consolidated Barber Shop.",
+          "bio": "Zac — Team member at Consolidated Barber Shop. Contact the shop to ask about appointments.",
           "philosophy": "",
           "services": [],
           "instagram": "https://maps.google.com/?cid=16596627962819599583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -449,7 +445,7 @@
             "__hoppAsset": "detailTowelsImage"
           },
           "imageAlt": "Barbering tools arranged on a work surface",
-          "availability": "Appointments at 107 W Kearsley St",
+          "availability": "107 W Kearsley St, Flint, MI 48502",
           "testimonial": {
             "quote": "",
             "author": ""
@@ -469,9 +465,9 @@
       ]
     },
     "testimonialsSection": {
-      "eyebrow": "— 07 / Reviews",
-      "sectionTitle": "Around the neighborhood",
-      "supportingCopy": "294 Google reviews. See what people are saying about Consolidated Barber Shop.",
+      "eyebrow": "— Google reviews",
+      "sectionTitle": "From the people who visit.",
+      "supportingCopy": "4.8 out of 5 from 294 Google reviews.",
       "reviewPlatformUrl": "https://maps.google.com/?cid=16596627962819599583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "googleReviewCta": "Read Google Reviews",
       "reviews": []
@@ -480,7 +476,7 @@
       "categories": [
         "All",
         "Haircuts",
-        "The Shop"
+        "Tools & spaces"
       ],
       "items": [
         {
@@ -530,8 +526,8 @@
             "__hoppAsset": "shopInteriorImage"
           },
           "alt": "A barber chair and workstation",
-          "category": "The Shop",
-          "service": "Shop atmosphere",
+          "category": "Tools & spaces",
+          "service": "Barbering spaces",
           "barber": "",
           "span": ""
         },
@@ -543,7 +539,7 @@
             "__hoppAsset": "heroInteriorImage"
           },
           "alt": "Barber chairs and workstations",
-          "category": "The Shop",
+          "category": "Tools & spaces",
           "service": "Barber station",
           "barber": "",
           "span": ""
@@ -556,7 +552,7 @@
             "__hoppAsset": "detailToolsImage"
           },
           "alt": "Scissors and grooming tools on a workstation",
-          "category": "The Shop",
+          "category": "Tools & spaces",
           "service": "Tools of the trade",
           "barber": "",
           "span": ""
@@ -569,8 +565,8 @@
             "__hoppAsset": "detailTowelsImage"
           },
           "alt": "Barbering tools arranged on a work surface",
-          "category": "The Shop",
-          "service": "Grooming ritual",
+          "category": "Tools & spaces",
+          "service": "Tools & textures",
           "barber": "",
           "span": ""
         }
@@ -579,81 +575,81 @@
     "homePage": {
       "hero": {
         "eyebrow": "Flint, Michigan",
-        "title": "A good cut.",
-        "accentTitle": "A fresh perspective.",
-        "description": "Welcome to Consolidated Barber Shop. A place to find your next look, enjoy a little conversation, and make time for yourself.",
+        "title": "Consolidated Barber",
+        "accentTitle": "Shop",
+        "description": "Barbershop in Flint. Check appointments online or call the shop to plan a visit.",
         "primaryCta": "Book Appointment",
-        "secondaryCta": "Explore Services",
+        "secondaryCta": "Services",
         "secondaryCtaPath": "/services",
         "reviewsLabel": "Google reviews",
         "scrollLabel": "Scroll"
       },
       "brandStatement": {
-        "eyebrow": "— 01 / The Shop",
+        "eyebrow": "— The shop",
         "titleLines": [
-          "Your style.",
-          "Your time."
+          "Welcome to",
+          "Consolidated Barber Shop"
         ],
-        "accentTitle": "Your kind of place.",
-        "description": "A haircut is a small part of your day that can change the way you feel about the rest of it. Come with a look in mind, or start with a conversation.",
-        "imageCaption": "Consolidated Barber Shop · Flint, Michigan"
+        "accentTitle": "",
+        "description": "Andy is the owner.",
+        "imageCaption": "Barbering · Tools & technique"
       },
       "featuredServices": {
-        "eyebrow": "— 02 / The Menu",
-        "title": "Find your next look",
-        "description": "From a fresh shape to the finishing touches. Make your next appointment your own.",
-        "viewAllCta": "Explore Services",
+        "eyebrow": "— Services",
+        "title": "Choose your service.",
+        "description": "Haircuts, fades, tapers and beard shaping. Find the service you have in mind, then arrange an appointment.",
+        "viewAllCta": "Services",
         "reserveCta": "Book Appointment"
       },
       "principles": {
-        "eyebrow": "— 03 / The Standard",
-        "title": "It's in",
-        "accentTitle": "the details.",
-        "description": "A shape that suits you. A finish that feels right. The little things are what make a look your own.",
+        "eyebrow": "— A useful starting point",
+        "title": "Talk through",
+        "accentTitle": "the cut.",
+        "description": "A few concrete details make it easier to explain what you have in mind.",
         "items": [
           {
             "number": "01",
-            "title": "Your style",
-            "body": "Keep what you love about your look, or make room for something different."
+            "title": "Length",
+            "body": "How much should stay on top? How short should the sides and neckline be? A reference photo can make this clearer."
           },
           {
             "number": "02",
-            "title": "The conversation",
-            "body": "A photo, a few ideas, or your usual. Bring whatever helps tell your story."
+            "title": "Shape",
+            "body": "Describe the outline and where you want a transition to begin, rather than relying only on the name of a style."
           },
           {
             "number": "03",
-            "title": "The details",
-            "body": "From the shape to the finish, think about the way you want to wear it."
+            "title": "Daily routine",
+            "body": "Mention whether you air-dry, use a dryer or apply product. Explain how you usually wear your hair."
           },
           {
             "number": "04",
-            "title": "A fresh start",
-            "body": "A moment in the chair. A little more confidence for the day ahead."
+            "title": "Between visits",
+            "body": "Ask how the cut will grow out and when a tidy-up would be useful for the length you choose."
           }
         ]
       },
       "team": {
-        "eyebrow": "— 04 / The Team",
-        "title": "Behind the chair",
-        "description": "A familiar face or a first visit. Find your next appointment with the team.",
+        "eyebrow": "— People",
+        "title": "Meet the team.",
+        "description": "The people at Consolidated Barber Shop. Contact the shop to arrange an appointment.",
         "viewProfileCta": "View →",
         "viewTeamCta": "Meet the Team"
       },
       "shop": {
-        "eyebrow": "— 05 / The Experience",
+        "eyebrow": "— Length & shape",
         "titleLines": [
-          "A little time",
-          "to feel like"
+          "A photograph",
+          "can explain"
         ],
-        "accentTitle": "yourself.",
-        "description": "Step away from the rush. A fresh cut, a conversation, and a moment that belongs to you.",
-        "galleryCta": "Take a Look →"
+        "accentTitle": "a cut.",
+        "description": "Save a reference that shows the length and shape you like. Compare the front, sides and neckline, then discuss which details suit the cut you want.",
+        "galleryCta": "Explore the gallery →"
       },
       "selectedWork": {
-        "eyebrow": "— 06 / The Details",
-        "title": "A closer look",
-        "galleryCta": "Gallery →",
+        "eyebrow": "— Gallery",
+        "title": "Cuts, tools & technique.",
+        "galleryCta": "View the gallery →",
         "instagramCta": "Find Us →",
         "items": [
           {
@@ -684,7 +680,7 @@
             "image": {
               "__hoppAsset": "shopInteriorImage"
             },
-            "label": "Shop atmosphere",
+            "label": "Barbering spaces",
             "barber": "",
             "span": ""
           },
@@ -707,67 +703,71 @@
         ]
       },
       "ritual": {
-        "eyebrow": "— 08 / Your Visit",
-        "title": "A simple ritual.",
-        "accentTitle": "A better kind of day.",
+        "eyebrow": "— Planning a visit",
+        "title": "From appointment",
+        "accentTitle": "to arrival.",
         "items": [
           {
             "number": "01",
-            "title": "Find your time",
-            "body": "Choose an appointment that fits into your day."
+            "title": "Check appointments",
+            "body": "Use the booking link to check available appointments. For a question about a service, contact the shop directly."
           },
           {
             "number": "02",
-            "title": "Bring your ideas",
-            "body": "A familiar style or a new direction. Start with what feels like you."
+            "title": "Choose a service",
+            "body": "Describe the cut or grooming service you have in mind and ask which appointment to choose."
           },
           {
             "number": "03",
-            "title": "Take a seat",
-            "body": "Put the day on pause and make a little time for yourself."
+            "title": "Plan the route",
+            "body": "Find the shop at 107 W Kearsley St, Flint, MI 48502. Open the map for directions from your starting point."
           },
           {
             "number": "04",
-            "title": "Make it your own",
-            "body": "Enjoy the fresh start, then get back to your day."
+            "title": "Check the time",
+            "body": "Check the opening hours on the Visit page when planning your trip. Call ahead for holiday hours."
           }
         ]
       },
       "visit": {
-        "eyebrow": "— 09 / Visit",
-        "title": "Your next stop.",
-        "accentTitle": "Your next look.",
+        "eyebrow": "— Visit",
+        "title": "Flint",
+        "accentTitle": "Find the shop.",
         "hoursLabel": "Hours",
         "getDirectionsCta": "Get Directions",
         "mapCta": "Open in Maps →"
       },
       "faq": {
-        "eyebrow": "— 10 / Useful Details",
+        "eyebrow": "— Useful details",
         "title": "Before you visit.",
         "items": [
           {
-            "question": "How do I book?",
-            "answer": "Follow the booking link to choose your appointment and check current availability."
+            "question": "How do I arrange an appointment?",
+            "answer": "Use the booking link to check available appointments. For a question about a service, contact the shop directly."
           },
           {
-            "question": "Which appointment should I choose?",
-            "answer": "Check the booking menu for options, prices, and appointment lengths. If you are unsure, call the shop and talk through what you have in mind."
+            "question": "What should I bring to a haircut?",
+            "answer": "A reference photo is helpful if you have a particular cut in mind. Be ready to describe the length you want to keep and your usual styling routine."
           },
           {
-            "question": "Can I choose a barber?",
-            "answer": "Explore the booking options for the team, or call to ask about your preferred barber's availability."
+            "question": "Where is the shop?",
+            "answer": "Find the shop at 107 W Kearsley St, Flint, MI 48502. Open the map for directions from your starting point."
           },
           {
-            "question": "Where can I find you?",
-            "answer": "107 W Kearsley St, Flint, MI 48502. Open the map for directions and plan your visit."
+            "question": "When should I visit?",
+            "answer": "Check the opening hours on the Visit page when planning your trip. Call ahead for holiday hours."
+          },
+          {
+            "question": "How can I contact a team member?",
+            "answer": "Visit the Team page for names and contact options. Ask the shop about individual availability."
           }
         ]
       },
       "finalCta": {
-        "eyebrow": "— Make time for yourself",
-        "title": "Ready for",
-        "accentTitle": "a fresh start?",
-        "description": "Your next appointment at Consolidated Barber Shop starts here.",
+        "eyebrow": "— Appointments",
+        "title": "Plan a visit to",
+        "accentTitle": "Consolidated Barber Shop",
+        "description": "Use the booking link to check available appointments. For a question about a service, contact the shop directly.",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
       }
@@ -775,61 +775,61 @@
     "servicesPage": {
       "header": {
         "breadcrumb": "Services",
-        "eyebrow": "— The Menu",
-        "title": "Find your",
-        "accentTitle": "next look.",
-        "intro": "The shape, the detail, the finish. Explore the possibilities and choose your next appointment."
+        "eyebrow": "— Services",
+        "title": "The service",
+        "accentTitle": "list.",
+        "intro": "Haircuts, fades, tapers and beard shaping. Find the service you have in mind, then arrange an appointment."
       },
       "guidance": {
-        "eyebrow": "— Before the Chair",
-        "title": "A little guidance."
+        "eyebrow": "— Before an appointment",
+        "title": "A few things to consider."
       },
       "finalCta": {
-        "title": "Your time.",
-        "accentTitle": "Your next look.",
+        "title": "Speak with",
+        "accentTitle": "the shop.",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
       }
     },
     "barbersPage": {
       "header": {
-        "breadcrumb": "Barbers",
-        "eyebrow": "— The Team",
-        "title": "Behind",
-        "accentTitle": "the chair.",
-        "intro": "Good conversation and a fresh perspective. Get to know the team and find your next appointment."
+        "breadcrumb": "Team",
+        "eyebrow": "— People",
+        "title": "Meet",
+        "accentTitle": "the team.",
+        "intro": "The people at Consolidated Barber Shop."
       },
       "labels": {
         "specialties": "Specialties",
         "bestBookedFor": "Best Booked For",
         "viewProfile": "View Profile",
-        "bookWith": "Book with"
+        "bookWith": "Contact about"
       },
       "firstAvailable": {
-        "eyebrow": "— Your Next Visit",
-        "title": "Find your time.",
-        "accentTitle": "Take your seat.",
-        "description": "Have a barber in mind? Explore appointments with the team or call the shop to plan your visit.",
+        "eyebrow": "— Appointments",
+        "title": "Contact",
+        "accentTitle": "the shop.",
+        "description": "Use the booking link to check available appointments. For a question about a service, contact the shop directly.",
         "cta": "Book Appointment"
       },
       "finalCta": {
-        "title": "Your next fresh start.",
+        "title": "Arrange an appointment.",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
       }
     },
     "barberProfilePage": {
       "backCta": "← All Barbers",
-      "instagramCta": "Find the Shop",
-      "philosophyLabel": "— Behind the Chair",
+      "instagramCta": "Contact & profile",
+      "philosophyLabel": "— About",
       "specialtiesLabel": "Specialties",
       "servicesLabel": "Services",
       "experienceLabel": "Experience",
       "availableAtLabel": "Available At",
-      "featuredWorkLabel": "— The Details",
-      "recentFromPrefix": "A closer look at",
-      "clientNoteLabel": "— A Word from the Chair",
-      "reserveCta": "Reserve Your Chair",
+      "featuredWorkLabel": "— Gallery",
+      "recentFromPrefix": "Barbering photography",
+      "clientNoteLabel": "— Reviews",
+      "reserveCta": "Appointment options",
       "viewAllCta": "View All Barbers",
       "notFound": {
         "eyebrow": "Not Found",
@@ -840,71 +840,71 @@
     "galleryPage": {
       "header": {
         "breadcrumb": "Gallery",
-        "eyebrow": "— The Details",
-        "title": "Style,",
-        "accentTitle": "up close.",
-        "intro": "The shape of a fresh cut. The tools of the craft. A moment in the chair."
+        "eyebrow": "— Gallery",
+        "title": "Cuts, tools",
+        "accentTitle": "& technique.",
+        "intro": "Explore length, shape and finish, alongside the tools of barbering."
       },
       "lightbox": {
         "close": "Close ✕",
         "previous": "Previous",
         "next": "Next",
-        "bookCta": "Book This Service ↗"
+        "bookCta": "Ask the shop ↗"
       },
       "finalCta": {
-        "title": "Find your next look.",
-        "description": "Make time for yourself at Consolidated Barber Shop.",
+        "title": "Have a cut in mind?",
+        "description": "Bring a reference photo and talk through the length, shape and finish when arranging your appointment.",
         "primaryCta": "Book Appointment",
-        "instagramCta": "Find Us on Google"
+        "instagramCta": "Find Us"
       }
     },
     "aboutPage": {
       "header": {
         "breadcrumb": "About",
-        "eyebrow": "— The Shop",
-        "title": "Good cuts.",
-        "titleLineTwo": "Good company.",
-        "accentTitle": "Consolidated Barber Shop",
-        "intro": "More than a stop on your calendar. A little time to look sharp, catch up, and feel like yourself."
+        "eyebrow": "— The shop",
+        "title": "Consolidated Barber Shop",
+        "titleLineTwo": "",
+        "accentTitle": "Flint",
+        "intro": "Consolidated Barber Shop is a barbershop in Flint, Michigan. Find contact details, directions and help planning a visit here."
       },
       "founding": {
-        "eyebrow": "— 01 / Our Kind of Place",
-        "title": "Come as you are.",
-        "founderCaption": "Consolidated Barber Shop",
+        "eyebrow": "— Background",
+        "title": "About the shop.",
+        "founderCaption": "Barbering · Tools & technique",
         "paragraphs": [
-          "At Consolidated Barber Shop, the chair is a place to pause. Whether you are settling into your usual style or ready to try something different, it begins with a conversation.",
-          "Bring your ideas, your reference photo, or simply yourself. A fresh look should feel personal — something you can make your own long after you leave the chair."
+          "Andy is the owner.",
+          "Find the shop at 107 W Kearsley St, Flint, MI 48502. Open the map for directions from your starting point."
         ]
       },
       "standard": {
-        "eyebrow": "— 02 / The Details",
-        "title": "A good cut.",
-        "accentTitle": "An everyday difference.",
+        "eyebrow": "— Services",
+        "title": "The service",
+        "accentTitle": "list.",
         "paragraphs": [
-          "Style is personal. The way you part it, the length you like, the finish you choose — small details that add up to a look that feels right.",
-          "Some visits are about keeping a favorite look. Others are the start of something new. Wherever you are headed, make a little time for yourself along the way."
+          "Haircuts, fades, tapers and beard shaping. Find the service you have in mind, then arrange an appointment.",
+          "4.8 out of 5 from 294 Google reviews."
         ]
       },
       "values": [
         {
+          "number": "01",
+          "title": "Appointments",
+          "body": "Use the booking link to check available appointments. For a question about a service, contact the shop directly."
+        },
+        {
+          "number": "02",
+          "title": "Getting here",
+          "body": "Find the shop at 107 W Kearsley St, Flint, MI 48502. Open the map for directions from your starting point."
+        },
+        {
           "number": "03",
-          "title": "Individual style",
-          "body": "A familiar look or a fresh direction. Start with what feels like you."
+          "title": "Opening hours",
+          "body": "Check the opening hours on the Visit page when planning your trip. Call ahead for holiday hours."
         },
         {
           "number": "04",
-          "title": "Good conversation",
-          "body": "Share your ideas. Talk through the details. Enjoy a moment away from the day."
-        },
-        {
-          "number": "05",
-          "title": "The finishing touch",
-          "body": "Shape, balance, and the little details that bring a look together."
-        },
-        {
-          "number": "06",
-          "title": "Time for yourself",
-          "body": "A place in your week for a fresh start and a little confidence."
+          "title": "Google reviews",
+          "body": "4.8 out of 5 from 294 Google reviews."
         }
       ],
       "founderNote": {
@@ -913,7 +913,7 @@
         "author": ""
       },
       "finalCta": {
-        "title": "See you at",
+        "title": "Visit",
         "accentTitle": "Consolidated Barber Shop",
         "primaryCta": "Book Appointment",
         "callPrefix": "Call"
@@ -922,10 +922,10 @@
     "visitPage": {
       "header": {
         "breadcrumb": "Visit",
-        "eyebrow": "— Plan Your Visit",
-        "title": "A place",
-        "accentTitle": "in your day.",
-        "intro": "Find the shop, choose your time, and make your next visit a good one."
+        "eyebrow": "— Location & contact",
+        "title": "Find",
+        "accentTitle": "Consolidated Barber Shop",
+        "intro": "Find the shop at 107 W Kearsley St, Flint, MI 48502. Open the map for directions from your starting point."
       },
       "labels": {
         "address": "— Address",
@@ -937,8 +937,8 @@
       },
       "form": {
         "eyebrow": "— Send a Note",
-        "title": "Get in touch.",
-        "description": "Ready to find your next appointment? Book directly or give the shop a call.",
+        "title": "Appointments & questions",
+        "description": "Use the booking link to check available appointments. For a question about a service, contact the shop directly.",
         "availabilityCta": "Book Appointment",
         "fields": {
           "name": {
@@ -971,19 +971,19 @@
         ],
         "submitLabel": "Send Message",
         "successEyebrow": "— Sent",
-        "successMessage": "Book directly or give the shop a call to arrange your visit.",
+        "successMessage": "Use the booking link to check available appointments. For a question about a service, contact the shop directly.",
         "note": ""
       }
     },
     "footer": {
       "eyebrow": "Consolidated Barber Shop",
-      "title": "Your next look.",
-      "accentTitle": "Your kind of place.",
-      "description": "A fresh cut, a little conversation, and time for yourself. Find your next appointment with the team.",
+      "title": "Visit the",
+      "accentTitle": "barbershop.",
+      "description": "Flint, Michigan · 107 W Kearsley St, Flint, MI 48502",
       "visitHeading": "Visit",
       "hoursHeading": "Hours",
       "bookingCta": "Book Appointment",
-      "instagramCta": "Find Us ↗",
+      "instagramCta": "Google ↗",
       "rightsText": "All rights reserved."
     },
     "systemPages": {
