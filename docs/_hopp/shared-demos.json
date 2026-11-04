@@ -35,11 +35,11 @@
       "slug": "c-a-barbershop-8aca4d1",
       "businessName": "C.A. Barbershop",
       "template": "barbershop",
-      "templateVersion": "v1-ff06e026081d",
+      "templateVersion": "v1-230ce8dea675",
       "publicUrl": "https://christian-hopper.github.io/barbershop-demos/c-a-barbershop-8aca4d1/",
       "dataPath": "_data/barbershop/c-a-barbershop-8aca4d1.json",
-      "dataSha256": "5dddce2abb14306f9dc2eb3667ef7a7e076cd7ff162b5af6d50392b713874f9e",
-      "updatedAt": "2026-11-03T17:10:49.901Z"
+      "dataSha256": "3af7697cf6b015327a4a373372bf27470d0a30d284d6a1375ebffafe0205e8d6",
+      "updatedAt": "2026-11-04T08:14:21.547Z"
     },
     {
       "slug": "campus-cuts-1ee1a47",
