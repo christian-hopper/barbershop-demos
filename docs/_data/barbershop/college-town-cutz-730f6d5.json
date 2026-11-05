@@ -1,0 +1,924 @@
+{
+  "schemaVersion": 1,
+  "template": "barbershop",
+  "templateVersion": "v1-230ce8dea675",
+  "slug": "college-town-cutz-730f6d5",
+  "generatedAt": "2026-11-05T19:21:27.480Z",
+  "business": {
+    "brand": {
+      "name": "College Town Cutz",
+      "shortName": "College Town Cutz",
+      "category": "Barber shop",
+      "descriptor": "Barbershop in Flint",
+      "logoTop": "College Town Cutz",
+      "logoBottom": "BARBERS · FLINT",
+      "oversizedWordmark": "COLLEGE TOWN CUTZ",
+      "establishedYear": 0,
+      "city": "Flint",
+      "state": "Michigan",
+      "cityState": "Flint, Michigan",
+      "copyrightName": "College Town Cutz",
+      "loaderStorageKey": "hopp-demo-loaded:college-town-cutz-730f6d5"
+    },
+    "contact": {
+      "phoneRaw": "8102140004",
+      "phoneFormatted": "(810) 214-0004",
+      "phoneHref": "tel:+18102140004",
+      "email": "",
+      "address": {
+        "line1": "3605 E Court St",
+        "line2": "Flint MI 48506",
+        "full": "3605 E Court St, Flint, MI 48506",
+        "short": "3605 E Court St",
+        "mapLabel": "3605 E Court St, Flint, MI 48506",
+        "streetAddress": "3605 E Court St",
+        "locality": "Flint",
+        "region": "MI",
+        "postalCode": "48506",
+        "country": "US"
+      },
+      "bookingUrl": "tel:+18102140004",
+      "contactPath": "/visit",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=College%20Town%20Cutz%203605%20E%20Court%20St%2C%20Flint%2C%20MI%2048506",
+      "mapsUrl": "https://maps.google.com/?cid=16180674832101608880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapsEmbedUrl": "https://www.google.com/maps?q=3605%20E%20Court%20St%2C%20Flint%2C%20MI%2048506&output=embed",
+      "parking": ""
+    },
+    "socialLinks": {
+      "instagram": {
+        "label": "Google",
+        "handle": "Google Business",
+        "url": "https://maps.google.com/?cid=16180674832101608880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    "navigation": {
+      "main": [
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "Services",
+          "to": "/services"
+        },
+        {
+          "label": "Team",
+          "to": "/barbers"
+        },
+        {
+          "label": "Gallery",
+          "to": "/gallery"
+        },
+        {
+          "label": "About",
+          "to": "/about"
+        },
+        {
+          "label": "Visit",
+          "to": "/visit"
+        }
+      ],
+      "headerCta": {
+        "label": "Call the Shop",
+        "url": "tel:+18102140004"
+      },
+      "mobileCta": {
+        "label": "Call the Shop",
+        "url": "tel:+18102140004"
+      },
+      "footerHeading": "Explore",
+      "legal": [
+        {
+          "label": "Privacy",
+          "to": "/visit"
+        },
+        {
+          "label": "Accessibility",
+          "to": "/visit"
+        },
+        {
+          "label": "Contact",
+          "to": "/visit"
+        }
+      ],
+      "mobileLabels": {
+        "visit": "Visit",
+        "today": "Today",
+        "call": "Call",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu"
+      }
+    },
+    "hours": [
+      {
+        "day": "Monday",
+        "short": "Mon",
+        "open": "",
+        "close": "",
+        "closed": true,
+        "open24Hours": false,
+        "display": "Closed",
+        "periods": []
+      },
+      {
+        "day": "Tuesday",
+        "short": "Tue",
+        "open": "10:30",
+        "close": "17:30",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:30 AM – 5:30 PM",
+        "periods": [
+          {
+            "openDay": 2,
+            "closeDay": 2,
+            "open": "10:30",
+            "close": "17:30"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "short": "Wed",
+        "open": "10:30",
+        "close": "17:30",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:30 AM – 5:30 PM",
+        "periods": [
+          {
+            "openDay": 3,
+            "closeDay": 3,
+            "open": "10:30",
+            "close": "17:30"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "short": "Thu",
+        "open": "10:30",
+        "close": "17:30",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:30 AM – 5:30 PM",
+        "periods": [
+          {
+            "openDay": 4,
+            "closeDay": 4,
+            "open": "10:30",
+            "close": "17:30"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "short": "Fri",
+        "open": "10:30",
+        "close": "17:30",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:30 AM – 5:30 PM",
+        "periods": [
+          {
+            "openDay": 5,
+            "closeDay": 5,
+            "open": "10:30",
+            "close": "17:30"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "short": "Sat",
+        "open": "10:30",
+        "close": "17:30",
+        "closed": false,
+        "open24Hours": false,
+        "display": "10:30 AM – 5:30 PM",
+        "periods": [
+          {
+            "openDay": 6,
+            "closeDay": 6,
+            "open": "10:30",
+            "close": "17:30"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "short": "Sun",
+        "open": "",
+        "close": "",
+        "closed": true,
+        "open24Hours": false,
+        "display": "Closed",
+        "periods": []
+      }
+    ],
+    "metrics": {
+      "rating": 4.6,
+      "reviewCount": 69,
+      "ratingStars": "★ ★ ★ ★ ★",
+      "reviewSource": "Google"
+    },
+    "assets": {
+      "hero": {
+        "src": {
+          "__hoppAsset": "heroInteriorImage"
+        },
+        "alt": "Barber chairs and workstations"
+      },
+      "shopInterior": {
+        "src": {
+          "__hoppAsset": "shopInteriorImage"
+        },
+        "alt": "A barber chair and workstation"
+      },
+      "detailTools": {
+        "src": {
+          "__hoppAsset": "detailToolsImage"
+        },
+        "alt": "Scissors and grooming tools on a workstation"
+      },
+      "detailTowels": {
+        "src": {
+          "__hoppAsset": "detailTowelsImage"
+        },
+        "alt": "Barbering tools arranged on a work surface"
+      },
+      "workFade": {
+        "src": {
+          "__hoppAsset": "workFadeImage"
+        },
+        "alt": "A barber shaping a haircut"
+      },
+      "workBeard": {
+        "src": {
+          "__hoppAsset": "workBeardImage"
+        },
+        "alt": "A barber refining a client's hairline"
+      },
+      "workScissor": {
+        "src": {
+          "__hoppAsset": "workScissorImage"
+        },
+        "alt": "A haircut in progress"
+      }
+    },
+    "seo": {
+      "siteUrl": "https://christian-hopper.github.io/barbershop-demos/college-town-cutz-730f6d5",
+      "defaultTitle": "College Town Cutz — Flint, Michigan",
+      "defaultDescription": "College Town Cutz · Flint, Michigan. Clean lines, considered shape and a finish that wears well.",
+      "author": "College Town Cutz",
+      "openGraph": {
+        "siteName": "College Town Cutz",
+        "type": "website",
+        "title": "College Town Cutz — Flint, Michigan",
+        "description": "College Town Cutz · Flint, Michigan. Clean lines, considered shape and a finish that wears well.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "College Town Cutz — Flint, Michigan",
+        "description": "College Town Cutz · Flint, Michigan. Clean lines, considered shape and a finish that wears well.",
+        "image": {
+          "__hoppAsset": "heroInteriorImage"
+        }
+      },
+      "pages": {
+        "home": {
+          "title": "College Town Cutz — Flint, Michigan",
+          "description": "College Town Cutz · Flint, Michigan. Clean lines, considered shape and a finish that wears well.",
+          "ogTitle": "College Town Cutz — Flint, Michigan",
+          "ogDescription": "College Town Cutz · Flint, Michigan. Clean lines, considered shape and a finish that wears well.",
+          "path": "/"
+        },
+        "services": {
+          "title": "Services | College Town Cutz",
+          "description": "Keep the length, take it shorter or bring the beard into balance.",
+          "ogTitle": "Services | College Town Cutz",
+          "ogDescription": "Keep the length, take it shorter or bring the beard into balance.",
+          "path": "/services"
+        },
+        "barbers": {
+          "title": "Team | College Town Cutz",
+          "description": "College Town Cutz. Get to know the names behind the chairs.",
+          "ogTitle": "Team | College Town Cutz",
+          "ogDescription": "College Town Cutz. Get to know the names behind the chairs.",
+          "path": "/barbers"
+        },
+        "gallery": {
+          "title": "Gallery | College Town Cutz",
+          "description": "Haircuts, tools and barbering techniques.",
+          "ogTitle": "Gallery | College Town Cutz",
+          "ogDescription": "Haircuts, tools and barbering techniques.",
+          "path": "/gallery"
+        },
+        "about": {
+          "title": "About | College Town Cutz",
+          "description": "College Town Cutz · Flint, Michigan. Clean lines, considered shape and a finish that wears well.",
+          "ogTitle": "About | College Town Cutz",
+          "ogDescription": "College Town Cutz · Flint, Michigan. Clean lines, considered shape and a finish that wears well.",
+          "path": "/about"
+        },
+        "visit": {
+          "title": "Visit & Contact | College Town Cutz",
+          "description": "3605 E Court St, Flint, MI 48506. Open directions for the route from your door to ours.",
+          "ogTitle": "Visit & Contact | College Town Cutz",
+          "ogDescription": "3605 E Court St, Flint, MI 48506. Open directions for the route from your door to ours.",
+          "path": "/visit"
+        },
+        "notFound": {
+          "title": "Page Not Found | College Town Cutz",
+          "description": "Return to the home page.",
+          "path": "/404",
+          "ogTitle": "Page Not Found | College Town Cutz",
+          "ogDescription": "Return to the home page."
+        }
+      }
+    },
+    "servicesSection": {
+      "groups": [
+        {
+          "name": "Hair & beard",
+          "intro": "The service menu, at a glance."
+        }
+      ],
+      "services": [
+        {
+          "slug": "haircuts-1",
+          "number": "01",
+          "name": "Haircuts",
+          "price": 0,
+          "duration": 0,
+          "description": "Length, shape and texture brought into balance, from the top to the neckline.",
+          "recommendedFor": "",
+          "group": "Hair & beard",
+          "featured": true,
+          "bookingUrl": "tel:+18102140004",
+          "ctaText": "Call the shop →"
+        },
+        {
+          "slug": "fades-and-tapers-2",
+          "number": "02",
+          "name": "Fades & tapers",
+          "price": 0,
+          "duration": 0,
+          "description": "A smooth transition through the sides and back, finished with a clean outline.",
+          "recommendedFor": "",
+          "group": "Hair & beard",
+          "featured": true,
+          "bookingUrl": "tel:+18102140004",
+          "ctaText": "Call the shop →"
+        },
+        {
+          "slug": "beard-shaping-3",
+          "number": "03",
+          "name": "Beard shaping",
+          "price": 0,
+          "duration": 0,
+          "description": "Beard length refined, with a defined cheek line and a clean neckline.",
+          "recommendedFor": "",
+          "group": "Hair & beard",
+          "featured": true,
+          "bookingUrl": "tel:+18102140004",
+          "ctaText": "Call the shop →"
+        },
+        {
+          "slug": "lineup-4",
+          "number": "04",
+          "name": "Lineup",
+          "price": 0,
+          "duration": 0,
+          "description": "A precise outline around the temples, hairline and neckline.",
+          "recommendedFor": "",
+          "group": "Hair & beard",
+          "featured": true,
+          "bookingUrl": "tel:+18102140004",
+          "ctaText": "Call the shop →"
+        }
+      ],
+      "guidance": [
+        {
+          "title": "Bring a reference",
+          "description": "A front and side photo can explain length and shape more clearly than a style name alone."
+        },
+        {
+          "title": "Keep what works",
+          "description": "Point out what you like about your current cut, as well as what you would change."
+        },
+        {
+          "title": "Explain the upkeep",
+          "description": "Mention how often you want a trim and how much styling you do at home. Both help when discussing the cut."
+        }
+      ]
+    },
+    "teamSection": {
+      "members": [
+        {
+          "slug": "fred",
+          "name": "Fred",
+          "firstName": "Fred",
+          "role": "Owner",
+          "experience": "",
+          "specialties": [],
+          "shortBio": "A thoughtful shape, from the sides to the neckline.",
+          "bio": "A thoughtful shape, from the sides to the neckline.",
+          "philosophy": "",
+          "services": [],
+          "instagram": "",
+          "bookingUrl": "tel:+18102140004",
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "imageAlt": "Scissors and grooming tools on a workstation",
+          "availability": "3605 E Court St, Flint, MI 48506",
+          "testimonial": {
+            "quote": "",
+            "author": ""
+          }
+        }
+      ],
+      "sampleWork": [
+        {
+          "__hoppAsset": "workFadeImage"
+        },
+        {
+          "__hoppAsset": "workBeardImage"
+        },
+        {
+          "__hoppAsset": "workScissorImage"
+        }
+      ]
+    },
+    "testimonialsSection": {
+      "eyebrow": "— Google reviews",
+      "sectionTitle": "From the people who visit.",
+      "supportingCopy": "4.6 out of 5 from 69 Google reviews.",
+      "reviewPlatformUrl": "https://maps.google.com/?cid=16180674832101608880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleReviewCta": "Read Google Reviews",
+      "reviews": []
+    },
+    "gallerySection": {
+      "categories": [
+        "All",
+        "Haircuts",
+        "Tools & spaces"
+      ],
+      "items": [
+        {
+          "image": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workFadeImage"
+          },
+          "alt": "A barber shaping a haircut",
+          "category": "Haircuts",
+          "service": "Precision grooming",
+          "barber": "",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workBeardImage"
+          },
+          "alt": "A barber refining a client's hairline",
+          "category": "Haircuts",
+          "service": "Finishing touches",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "workScissorImage"
+          },
+          "alt": "A haircut in progress",
+          "category": "Haircuts",
+          "service": "Scissor work",
+          "barber": "",
+          "span": "row-span-2"
+        },
+        {
+          "image": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "shopInteriorImage"
+          },
+          "alt": "A barber chair and workstation",
+          "category": "Tools & spaces",
+          "service": "Barbering spaces",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "heroInteriorImage"
+          },
+          "alt": "Barber chairs and workstations",
+          "category": "Tools & spaces",
+          "service": "Barber station",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailToolsImage"
+          },
+          "alt": "Scissors and grooming tools on a workstation",
+          "category": "Tools & spaces",
+          "service": "Tools of the trade",
+          "barber": "",
+          "span": ""
+        },
+        {
+          "image": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "expandedImage": {
+            "__hoppAsset": "detailTowelsImage"
+          },
+          "alt": "Barbering tools arranged on a work surface",
+          "category": "Tools & spaces",
+          "service": "Tools & textures",
+          "barber": "",
+          "span": ""
+        }
+      ]
+    },
+    "homePage": {
+      "hero": {
+        "eyebrow": "Flint, Michigan",
+        "title": "College Town",
+        "accentTitle": "Cutz",
+        "description": "Clean lines, considered shape and a finish that wears well.",
+        "primaryCta": "Call the Shop",
+        "secondaryCta": "Services",
+        "secondaryCtaPath": "/services",
+        "reviewsLabel": "Google reviews",
+        "scrollLabel": "Scroll"
+      },
+      "brandStatement": {
+        "eyebrow": "— College Town Cutz",
+        "titleLines": [
+          "Barbering in",
+          "Flint."
+        ],
+        "accentTitle": "",
+        "description": "A good cut works from every angle. The silhouette, the texture, the neckline — each has a part to play.",
+        "imageCaption": "Barbering · Tools & technique"
+      },
+      "featuredServices": {
+        "eyebrow": "— Services",
+        "title": "Find the right cut.",
+        "description": "Keep the length, take it shorter or bring the beard into balance.",
+        "viewAllCta": "All services",
+        "reserveCta": "Call the Shop"
+      },
+      "principles": {
+        "eyebrow": "",
+        "title": "",
+        "accentTitle": "",
+        "description": "",
+        "items": []
+      },
+      "team": {
+        "eyebrow": "— The people",
+        "title": "Names behind the chairs.",
+        "description": "",
+        "viewProfileCta": "Meet →",
+        "viewTeamCta": "Meet the Team"
+      },
+      "shop": {
+        "eyebrow": "— In the chair",
+        "titleLines": [
+          "It starts with",
+          "a conversation."
+        ],
+        "accentTitle": "",
+        "description": "Bring an idea, a photograph or simply a sense of what you want to change. The cut begins with that conversation.",
+        "galleryCta": "Explore the gallery →"
+      },
+      "selectedWork": {
+        "eyebrow": "— Gallery",
+        "title": "Shape. Texture. Finish.",
+        "galleryCta": "View the gallery →",
+        "instagramCta": "Find Us →",
+        "items": [
+          {
+            "image": {
+              "__hoppAsset": "workFadeImage"
+            },
+            "label": "Precision grooming",
+            "barber": "",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "workBeardImage"
+            },
+            "label": "Finishing touches",
+            "barber": "",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "workScissorImage"
+            },
+            "label": "Scissor work",
+            "barber": "",
+            "span": "row-span-2"
+          },
+          {
+            "image": {
+              "__hoppAsset": "shopInteriorImage"
+            },
+            "label": "Barbering spaces",
+            "barber": "",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "heroInteriorImage"
+            },
+            "label": "Barber station",
+            "barber": "",
+            "span": ""
+          },
+          {
+            "image": {
+              "__hoppAsset": "detailToolsImage"
+            },
+            "label": "Tools of the trade",
+            "barber": "",
+            "span": ""
+          }
+        ]
+      },
+      "ritual": {
+        "eyebrow": "",
+        "title": "",
+        "accentTitle": "",
+        "items": []
+      },
+      "visit": {
+        "eyebrow": "— Visit",
+        "title": "Flint",
+        "accentTitle": "Find the shop.",
+        "hoursLabel": "Hours",
+        "getDirectionsCta": "Get Directions",
+        "mapCta": "Open in Maps →"
+      },
+      "faq": {
+        "eyebrow": "— Good to know",
+        "title": "Before you take a seat.",
+        "items": [
+          {
+            "question": "How do I book?",
+            "answer": "Call the shop for an appointment. Have a service and a preferred day in mind."
+          },
+          {
+            "question": "Can I bring a reference photo?",
+            "answer": "Absolutely. A front and side view can help explain the length, texture and outline you have in mind."
+          },
+          {
+            "question": "What if I'm not sure which cut to choose?",
+            "answer": "Start with the length you want to keep, how you normally style it and anything you would like to change."
+          }
+        ]
+      },
+      "finalCta": {
+        "eyebrow": "— College Town Cutz",
+        "title": "See you",
+        "accentTitle": "in the chair.",
+        "description": "",
+        "primaryCta": "Call the Shop",
+        "callPrefix": "Call"
+      }
+    },
+    "servicesPage": {
+      "header": {
+        "breadcrumb": "Services",
+        "eyebrow": "— Services",
+        "title": "The service",
+        "accentTitle": "menu.",
+        "intro": "Keep the length, take it shorter or bring the beard into balance."
+      },
+      "guidance": {
+        "eyebrow": "— Before an appointment",
+        "title": "A few things to consider."
+      },
+      "finalCta": {
+        "title": "Your next cut",
+        "accentTitle": "starts here.",
+        "primaryCta": "Call the Shop",
+        "callPrefix": "Call"
+      }
+    },
+    "barbersPage": {
+      "header": {
+        "breadcrumb": "Team",
+        "eyebrow": "— People",
+        "title": "Meet",
+        "accentTitle": "the team.",
+        "intro": "Get to know the names behind the chairs."
+      },
+      "labels": {
+        "specialties": "Specialties",
+        "bestBookedFor": "Best Booked For",
+        "viewProfile": "View Profile",
+        "bookWith": "Book with"
+      },
+      "firstAvailable": {
+        "eyebrow": "",
+        "title": "",
+        "accentTitle": "",
+        "description": "",
+        "cta": "Call the Shop"
+      },
+      "finalCta": {
+        "title": "Take a seat.",
+        "primaryCta": "Call the Shop",
+        "callPrefix": "Call"
+      }
+    },
+    "barberProfilePage": {
+      "backCta": "← All Barbers",
+      "instagramCta": "Social profile",
+      "philosophyLabel": "— About",
+      "specialtiesLabel": "Specialties",
+      "servicesLabel": "Services",
+      "experienceLabel": "Experience",
+      "availableAtLabel": "Available At",
+      "featuredWorkLabel": "— Gallery",
+      "recentFromPrefix": "Barbering photography",
+      "clientNoteLabel": "— Reviews",
+      "reserveCta": "Call the Shop",
+      "viewAllCta": "View All Barbers",
+      "notFound": {
+        "eyebrow": "Not Found",
+        "title": "That barber isn't on the team.",
+        "cta": "Meet the Team"
+      }
+    },
+    "galleryPage": {
+      "header": {
+        "breadcrumb": "Gallery",
+        "eyebrow": "— Gallery",
+        "title": "Cuts, tools",
+        "accentTitle": "& technique.",
+        "intro": "Explore length, shape and finish, alongside the tools of barbering."
+      },
+      "lightbox": {
+        "close": "Close ✕",
+        "previous": "Previous",
+        "next": "Next",
+        "bookCta": "Call the Shop ↗"
+      },
+      "finalCta": {
+        "title": "Have a cut in mind?",
+        "description": "Keep the shape you like. Make the cut your own.",
+        "primaryCta": "Call the Shop",
+        "instagramCta": "Find Us"
+      }
+    },
+    "aboutPage": {
+      "header": {
+        "breadcrumb": "About",
+        "eyebrow": "— The shop",
+        "title": "College Town Cutz",
+        "titleLineTwo": "",
+        "accentTitle": "Flint",
+        "intro": "A good cut works from every angle. The silhouette, the texture, the neckline — each has a part to play."
+      },
+      "founding": {
+        "eyebrow": "— At the shop",
+        "title": "A considered approach.",
+        "founderCaption": "Tools of the trade",
+        "paragraphs": [
+          "Short or long, neat or textured: a haircut is a set of choices. The aim is a shape that looks right together, with room for the way you wear it.",
+          "4.6 out of 5 from 69 Google reviews."
+        ]
+      },
+      "standard": {
+        "eyebrow": "— The cut",
+        "title": "Good shape.",
+        "accentTitle": "Clean finish.",
+        "paragraphs": [
+          "Haircuts, tapers and beard work, brought into balance.",
+          "Keep it close or leave it longer. The proportions make the difference."
+        ]
+      },
+      "values": [],
+      "founderNote": {
+        "eyebrow": "",
+        "quote": "",
+        "author": ""
+      },
+      "finalCta": {
+        "title": "Visit",
+        "accentTitle": "College Town Cutz",
+        "primaryCta": "Call the Shop",
+        "callPrefix": "Call"
+      }
+    },
+    "visitPage": {
+      "header": {
+        "breadcrumb": "Visit",
+        "eyebrow": "— Location & contact",
+        "title": "Find",
+        "accentTitle": "College Town Cutz",
+        "intro": "3605 E Court St, Flint, MI 48506. Open directions for the route from your door to ours."
+      },
+      "labels": {
+        "address": "— Address",
+        "contact": "— Contact",
+        "hours": "— Hours",
+        "directionsCta": "Get Directions",
+        "mapCta": "Open in Maps →",
+        "bookCta": "Call the Shop"
+      },
+      "form": {
+        "eyebrow": "— Send a Note",
+        "title": "Appointments & questions",
+        "description": "Call the shop for an appointment. Have a service and a preferred day in mind.",
+        "availabilityCta": "Call the Shop",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          "email": {
+            "label": "Email",
+            "name": "email",
+            "type": "email",
+            "required": true
+          },
+          "phone": {
+            "label": "Phone",
+            "name": "phone",
+            "type": "tel",
+            "required": false
+          },
+          "reasonLabel": "Reason",
+          "messageLabel": "Message"
+        },
+        "reasons": [
+          "General Question",
+          "Appointment Question",
+          "Service Recommendation",
+          "Private Event or Group Booking",
+          "Business Inquiry"
+        ],
+        "submitLabel": "Send Message",
+        "successEyebrow": "— Sent",
+        "successMessage": "Call the shop for an appointment. Have a service and a preferred day in mind.",
+        "note": ""
+      }
+    },
+    "footer": {
+      "eyebrow": "College Town Cutz",
+      "title": "Barbering,",
+      "accentTitle": "well composed.",
+      "description": "Flint, Michigan",
+      "visitHeading": "Visit",
+      "hoursHeading": "Hours",
+      "bookingCta": "Call the Shop",
+      "instagramCta": "Google ↗",
+      "rightsText": "All rights reserved."
+    },
+    "systemPages": {
+      "notFound": {
+        "eyebrow": "404 · Not Found",
+        "title": "This page is not on the menu.",
+        "description": "The page you're looking for has moved or never existed. Head back to the homepage and explore from there.",
+        "cta": "Return Home"
+      },
+      "error": {
+        "eyebrow": "Something went wrong",
+        "title": "This page didn't load.",
+        "description": "Try again, or return home and continue from there.",
+        "retryCta": "Try Again",
+        "homeCta": "Go Home"
+      }
+    }
+  }
+}

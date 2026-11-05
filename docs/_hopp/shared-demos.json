@@ -73,6 +73,16 @@
       "updatedAt": "2026-09-27T04:08:03.164Z"
     },
     {
+      "slug": "college-town-cutz-730f6d5",
+      "businessName": "College Town Cutz",
+      "template": "barbershop",
+      "templateVersion": "v1-230ce8dea675",
+      "publicUrl": "https://christian-hopper.github.io/barbershop-demos/college-town-cutz-730f6d5/",
+      "dataPath": "_data/barbershop/college-town-cutz-730f6d5.json",
+      "dataSha256": "39431ded04640f83823dcbbcaac5f93f70d6245a7e9261bb63ac720cf552cfa4",
+      "updatedAt": "2026-11-05T19:21:27.485Z"
+    },
+    {
       "slug": "consolidated-barber-shop-54ddfb8",
       "businessName": "Consolidated Barber Shop",
       "template": "barbershop",
